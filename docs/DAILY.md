@@ -11,7 +11,7 @@ O que fez ontem?
 - Gustavo:
 - George:
 
-O que vai fazer hoje:
+O que vai fazer hoje?
 - Sávio:
 - Leonardo: 
 - José Eduardo:
@@ -20,7 +20,7 @@ O que vai fazer hoje:
 - Gustavo:
 - George:
 
-Tem algum impedimento:
+Tem algum impedimento?
 - Sávio:
 - Leonardo: 
 - José Eduardo:
@@ -39,7 +39,7 @@ O que fez ontem?
 - Gustavo:
 - George:
 
-O que vai fazer hoje:
+O que vai fazer hoje?
 - Sávio:
 - Leonardo: 
 - José Eduardo:
@@ -48,7 +48,7 @@ O que vai fazer hoje:
 - Gustavo:
 - George:
 
-Tem algum impedimento:
+Tem algum impedimento?
 - Sávio:
 - Leonardo: 
 - José Eduardo:
@@ -67,7 +67,7 @@ O que fez ontem?
 - Gustavo:
 - George:
 
-O que vai fazer hoje:
+O que vai fazer hoje?
 - Sávio:
 - Leonardo: 
 - José Eduardo:
@@ -76,7 +76,7 @@ O que vai fazer hoje:
 - Gustavo:
 - George:
 
-Tem algum impedimento:
+Tem algum impedimento?
 - Sávio:
 - Leonardo: 
 - José Eduardo:
@@ -95,7 +95,7 @@ O que fez ontem?
 - Gustavo:
 - George:
 
-O que vai fazer hoje:
+O que vai fazer hoje?
 - Sávio:
 - Leonardo: 
 - José Eduardo:
@@ -104,7 +104,7 @@ O que vai fazer hoje:
 - Gustavo:
 - George:
 
-Tem algum impedimento:
+Tem algum impedimento?
 - Sávio:
 - Leonardo: 
 - José Eduardo:
@@ -123,7 +123,7 @@ O que fez ontem?
 - Gustavo:
 - George:
 
-O que vai fazer hoje:
+O que vai fazer hoje?
 - Sávio:
 - Leonardo: 
 - José Eduardo:
@@ -132,7 +132,7 @@ O que vai fazer hoje:
 - Gustavo:
 - George:
 
-Tem algum impedimento:
+Tem algum impedimento?
 - Sávio:
 - Leonardo: 
 - José Eduardo:
@@ -151,7 +151,7 @@ O que fez ontem?
 - Gustavo:
 - George:
 
-O que vai fazer hoje:
+O que vai fazer hoje?
 - Sávio:
 - Leonardo: 
 - José Eduardo:
@@ -160,7 +160,7 @@ O que vai fazer hoje:
 - Gustavo:
 - George:
 
-Tem algum impedimento:
+Tem algum impedimento?
 - Sávio:
 - Leonardo: 
 - José Eduardo:
@@ -179,7 +179,7 @@ O que fez ontem?
 - Gustavo:
 - George:
 
-O que vai fazer hoje:
+O que vai fazer hoje?
 - Sávio:
 - Leonardo: 
 - José Eduardo:
@@ -188,7 +188,7 @@ O que vai fazer hoje:
 - Gustavo:
 - George:
 
-Tem algum impedimento:
+Tem algum impedimento?
 - Sávio:
 - Leonardo: 
 - José Eduardo:
@@ -207,7 +207,7 @@ O que fez ontem?
 - Gustavo:
 - George:
 
-O que vai fazer hoje:
+O que vai fazer hoje?
 - Sávio:
 - Leonardo: 
 - José Eduardo:
@@ -216,7 +216,7 @@ O que vai fazer hoje:
 - Gustavo:
 - George:
 
-Tem algum impedimento:
+Tem algum impedimento?
 - Sávio:
 - Leonardo: 
 - José Eduardo:
@@ -235,7 +235,7 @@ O que fez ontem?
 - Gustavo:
 - George:
 
-O que vai fazer hoje:
+O que vai fazer hoje?
 - Sávio:
 - Leonardo: 
 - José Eduardo:
@@ -244,7 +244,7 @@ O que vai fazer hoje:
 - Gustavo:
 - George:
 
-Tem algum impedimento:
+Tem algum impedimento?
 - Sávio:
 - Leonardo: 
 - José Eduardo:
@@ -263,7 +263,7 @@ O que fez ontem?
 - Gustavo:
 - George:
 
-O que vai fazer hoje:
+O que vai fazer hoje?
 - Sávio:
 - Leonardo: 
 - José Eduardo:
@@ -272,7 +272,7 @@ O que vai fazer hoje:
 - Gustavo:
 - George:
 
-Tem algum impedimento:
+Tem algum impedimento?
 - Sávio:
 - Leonardo: 
 - José Eduardo:
@@ -291,7 +291,7 @@ O que fez ontem?
 - Gustavo:
 - George:
 
-O que vai fazer hoje:
+O que vai fazer hoje?
 - Sávio:
 - Leonardo: 
 - José Eduardo:
@@ -300,7 +300,7 @@ O que vai fazer hoje:
 - Gustavo:
 - George:
 
-Tem algum impedimento:
+Tem algum impedimento?
 - Sávio:
 - Leonardo: 
 - José Eduardo:
@@ -319,7 +319,7 @@ O que fez ontem?
 - Gustavo:
 - George:
 
-O que vai fazer hoje:
+O que vai fazer hoje?
 - Sávio:
 - Leonardo: 
 - José Eduardo:
@@ -328,7 +328,7 @@ O que vai fazer hoje:
 - Gustavo:
 - George:
 
-Tem algum impedimento:
+Tem algum impedimento?
 - Sávio:
 - Leonardo: 
 - José Eduardo:
@@ -347,7 +347,7 @@ O que fez ontem?
 - Gustavo:
 - George:
 
-O que vai fazer hoje:
+O que vai fazer hoje?
 - Sávio:
 - Leonardo: 
 - José Eduardo:
@@ -356,7 +356,7 @@ O que vai fazer hoje:
 - Gustavo:
 - George:
 
-Tem algum impedimento:
+Tem algum impedimento?
 - Sávio:
 - Leonardo: 
 - José Eduardo:
@@ -375,7 +375,7 @@ O que fez ontem?
 - Gustavo:
 - George:
 
-O que vai fazer hoje:
+O que vai fazer hoje?
 - Sávio:
 - Leonardo: 
 - José Eduardo:
@@ -384,7 +384,7 @@ O que vai fazer hoje:
 - Gustavo:
 - George:
 
-Tem algum impedimento:
+Tem algum impedimento?
 - Sávio:
 - Leonardo: 
 - José Eduardo:
@@ -403,7 +403,7 @@ O que fez ontem?
 - Gustavo:
 - George:
 
-O que vai fazer hoje:
+O que vai fazer hoje?
 - Sávio:
 - Leonardo: 
 - José Eduardo:
@@ -412,7 +412,7 @@ O que vai fazer hoje:
 - Gustavo:
 - George:
 
-Tem algum impedimento:
+Tem algum impedimento?
 - Sávio:
 - Leonardo: 
 - José Eduardo:
@@ -431,7 +431,7 @@ O que fez ontem?
 - Gustavo:
 - George:
 
-O que vai fazer hoje:
+O que vai fazer hoje?
 - Sávio:
 - Leonardo: 
 - José Eduardo:
@@ -440,7 +440,7 @@ O que vai fazer hoje:
 - Gustavo:
 - George:
 
-Tem algum impedimento:
+Tem algum impedimento?
 - Sávio:
 - Leonardo: 
 - José Eduardo:
@@ -459,7 +459,7 @@ O que fez ontem?
 - Gustavo:
 - George:
 
-O que vai fazer hoje:
+O que vai fazer hoje?
 - Sávio:
 - Leonardo: 
 - José Eduardo:
@@ -468,7 +468,7 @@ O que vai fazer hoje:
 - Gustavo:
 - George:
 
-Tem algum impedimento:
+Tem algum impedimento?
 - Sávio:
 - Leonardo: 
 - José Eduardo:
@@ -487,7 +487,7 @@ O que fez ontem?
 - Gustavo:
 - George:
 
-O que vai fazer hoje:
+O que vai fazer hoje?
 - Sávio:
 - Leonardo: 
 - José Eduardo:
@@ -496,7 +496,7 @@ O que vai fazer hoje:
 - Gustavo:
 - George:
 
-Tem algum impedimento:
+Tem algum impedimento?
 - Sávio:
 - Leonardo: 
 - José Eduardo:
@@ -515,7 +515,7 @@ O que fez ontem?
 - Gustavo:
 - George:
 
-O que vai fazer hoje:
+O que vai fazer hoje?
 - Sávio:
 - Leonardo: 
 - José Eduardo:
@@ -524,7 +524,7 @@ O que vai fazer hoje:
 - Gustavo:
 - George:
 
-Tem algum impedimento:
+Tem algum impedimento?
 - Sávio:
 - Leonardo: 
 - José Eduardo:
@@ -543,7 +543,7 @@ O que fez ontem?
 - Gustavo:
 - George:
 
-O que vai fazer hoje:
+O que vai fazer hoje?
 - Sávio:
 - Leonardo: 
 - José Eduardo:
@@ -552,7 +552,7 @@ O que vai fazer hoje:
 - Gustavo:
 - George:
 
-Tem algum impedimento:
+Tem algum impedimento?
 - Sávio:
 - Leonardo: 
 - José Eduardo:
@@ -571,7 +571,7 @@ O que fez ontem?
 - Gustavo:
 - George:
 
-O que vai fazer hoje:
+O que vai fazer hoje?
 - Sávio:
 - Leonardo: 
 - José Eduardo:
@@ -580,7 +580,7 @@ O que vai fazer hoje:
 - Gustavo:
 - George:
 
-Tem algum impedimento:
+Tem algum impedimento?
 - Sávio:
 - Leonardo: 
 - José Eduardo:
@@ -599,7 +599,7 @@ O que fez ontem?
 - Gustavo:
 - George:
 
-O que vai fazer hoje:
+O que vai fazer hoje?
 - Sávio:
 - Leonardo: 
 - José Eduardo:
@@ -608,7 +608,7 @@ O que vai fazer hoje:
 - Gustavo:
 - George:
 
-Tem algum impedimento:
+Tem algum impedimento?
 - Sávio:
 - Leonardo: 
 - José Eduardo:
@@ -627,7 +627,7 @@ O que fez ontem?
 - Gustavo:
 - George:
 
-O que vai fazer hoje:
+O que vai fazer hoje?
 - Sávio:
 - Leonardo: 
 - José Eduardo:
@@ -636,7 +636,7 @@ O que vai fazer hoje:
 - Gustavo:
 - George:
 
-Tem algum impedimento:
+Tem algum impedimento?
 - Sávio:
 - Leonardo: 
 - José Eduardo:
