@@ -1,5 +1,5 @@
 # Daily Scrum
-Unsado a plataforma Discord, é reunião diária de no máximo quinze minutos com o objetivo de discutir o que foi feito no dia anterior e priorizar o trabalho do dia que se inicia.
+Unsado a plataforma Discord, este é o registro de anotações das reuniões diárias, de no máximo quinze minutos, com o objetivo de discutir o que foi feito no dia anterior e priorizar o trabalho do dia que se inicia.
 
 ## 09/11/2020
 O que fez ontem?
