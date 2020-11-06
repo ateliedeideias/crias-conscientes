@@ -10,6 +10,7 @@ O que fez ontem?
 - Ingrid:
 - Gustavo:
 - George:
+
 O que vai fazer hoje:
 - Sávio:
 - Leonardo: 
@@ -18,6 +19,7 @@ O que vai fazer hoje:
 - Ingrid:
 - Gustavo:
 - George:
+
 Tem algum impedimento:
 - Sávio:
 - Leonardo: 
@@ -36,6 +38,7 @@ O que fez ontem?
 - Ingrid:
 - Gustavo:
 - George:
+
 O que vai fazer hoje:
 - Sávio:
 - Leonardo: 
@@ -44,6 +47,7 @@ O que vai fazer hoje:
 - Ingrid:
 - Gustavo:
 - George:
+
 Tem algum impedimento:
 - Sávio:
 - Leonardo: 
@@ -62,6 +66,7 @@ O que fez ontem?
 - Ingrid:
 - Gustavo:
 - George:
+
 O que vai fazer hoje:
 - Sávio:
 - Leonardo: 
@@ -70,6 +75,7 @@ O que vai fazer hoje:
 - Ingrid:
 - Gustavo:
 - George:
+
 Tem algum impedimento:
 - Sávio:
 - Leonardo: 
@@ -88,6 +94,7 @@ O que fez ontem?
 - Ingrid:
 - Gustavo:
 - George:
+
 O que vai fazer hoje:
 - Sávio:
 - Leonardo: 
@@ -96,6 +103,7 @@ O que vai fazer hoje:
 - Ingrid:
 - Gustavo:
 - George:
+
 Tem algum impedimento:
 - Sávio:
 - Leonardo: 
@@ -114,6 +122,7 @@ O que fez ontem?
 - Ingrid:
 - Gustavo:
 - George:
+
 O que vai fazer hoje:
 - Sávio:
 - Leonardo: 
@@ -122,6 +131,7 @@ O que vai fazer hoje:
 - Ingrid:
 - Gustavo:
 - George:
+
 Tem algum impedimento:
 - Sávio:
 - Leonardo: 
@@ -140,6 +150,7 @@ O que fez ontem?
 - Ingrid:
 - Gustavo:
 - George:
+
 O que vai fazer hoje:
 - Sávio:
 - Leonardo: 
@@ -148,6 +159,7 @@ O que vai fazer hoje:
 - Ingrid:
 - Gustavo:
 - George:
+
 Tem algum impedimento:
 - Sávio:
 - Leonardo: 
@@ -166,6 +178,7 @@ O que fez ontem?
 - Ingrid:
 - Gustavo:
 - George:
+
 O que vai fazer hoje:
 - Sávio:
 - Leonardo: 
@@ -174,6 +187,7 @@ O que vai fazer hoje:
 - Ingrid:
 - Gustavo:
 - George:
+
 Tem algum impedimento:
 - Sávio:
 - Leonardo: 
@@ -192,6 +206,7 @@ O que fez ontem?
 - Ingrid:
 - Gustavo:
 - George:
+
 O que vai fazer hoje:
 - Sávio:
 - Leonardo: 
@@ -200,6 +215,7 @@ O que vai fazer hoje:
 - Ingrid:
 - Gustavo:
 - George:
+
 Tem algum impedimento:
 - Sávio:
 - Leonardo: 
@@ -218,6 +234,7 @@ O que fez ontem?
 - Ingrid:
 - Gustavo:
 - George:
+
 O que vai fazer hoje:
 - Sávio:
 - Leonardo: 
@@ -226,6 +243,7 @@ O que vai fazer hoje:
 - Ingrid:
 - Gustavo:
 - George:
+
 Tem algum impedimento:
 - Sávio:
 - Leonardo: 
@@ -244,6 +262,7 @@ O que fez ontem?
 - Ingrid:
 - Gustavo:
 - George:
+
 O que vai fazer hoje:
 - Sávio:
 - Leonardo: 
@@ -252,6 +271,7 @@ O que vai fazer hoje:
 - Ingrid:
 - Gustavo:
 - George:
+
 Tem algum impedimento:
 - Sávio:
 - Leonardo: 
@@ -270,6 +290,7 @@ O que fez ontem?
 - Ingrid:
 - Gustavo:
 - George:
+
 O que vai fazer hoje:
 - Sávio:
 - Leonardo: 
@@ -278,6 +299,7 @@ O que vai fazer hoje:
 - Ingrid:
 - Gustavo:
 - George:
+
 Tem algum impedimento:
 - Sávio:
 - Leonardo: 
@@ -296,6 +318,7 @@ O que fez ontem?
 - Ingrid:
 - Gustavo:
 - George:
+
 O que vai fazer hoje:
 - Sávio:
 - Leonardo: 
@@ -304,8 +327,9 @@ O que vai fazer hoje:
 - Ingrid:
 - Gustavo:
 - George:
+
 Tem algum impedimento:
-- Sávio:reunião diária com o objetivo de discutir o que foi feito no dia anterior e priorizar o trabalho do dia que se inicia
+- Sávio:
 - Leonardo: 
 - José Eduardo:
 - Iran:
@@ -322,6 +346,7 @@ O que fez ontem?
 - Ingrid:
 - Gustavo:
 - George:
+
 O que vai fazer hoje:
 - Sávio:
 - Leonardo: 
@@ -330,6 +355,7 @@ O que vai fazer hoje:
 - Ingrid:
 - Gustavo:
 - George:
+
 Tem algum impedimento:
 - Sávio:
 - Leonardo: 
@@ -348,6 +374,7 @@ O que fez ontem?
 - Ingrid:
 - Gustavo:
 - George:
+
 O que vai fazer hoje:
 - Sávio:
 - Leonardo: 
@@ -356,6 +383,7 @@ O que vai fazer hoje:
 - Ingrid:
 - Gustavo:
 - George:
+
 Tem algum impedimento:
 - Sávio:
 - Leonardo: 
@@ -374,6 +402,7 @@ O que fez ontem?
 - Ingrid:
 - Gustavo:
 - George:
+
 O que vai fazer hoje:
 - Sávio:
 - Leonardo: 
@@ -382,6 +411,7 @@ O que vai fazer hoje:
 - Ingrid:
 - Gustavo:
 - George:
+
 Tem algum impedimento:
 - Sávio:
 - Leonardo: 
@@ -400,6 +430,7 @@ O que fez ontem?
 - Ingrid:
 - Gustavo:
 - George:
+
 O que vai fazer hoje:
 - Sávio:
 - Leonardo: 
@@ -408,6 +439,7 @@ O que vai fazer hoje:
 - Ingrid:
 - Gustavo:
 - George:
+
 Tem algum impedimento:
 - Sávio:
 - Leonardo: 
@@ -426,6 +458,7 @@ O que fez ontem?
 - Ingrid:
 - Gustavo:
 - George:
+
 O que vai fazer hoje:
 - Sávio:
 - Leonardo: 
@@ -434,6 +467,7 @@ O que vai fazer hoje:
 - Ingrid:
 - Gustavo:
 - George:
+
 Tem algum impedimento:
 - Sávio:
 - Leonardo: 
@@ -452,6 +486,7 @@ O que fez ontem?
 - Ingrid:
 - Gustavo:
 - George:
+
 O que vai fazer hoje:
 - Sávio:
 - Leonardo: 
@@ -460,6 +495,7 @@ O que vai fazer hoje:
 - Ingrid:
 - Gustavo:
 - George:
+
 Tem algum impedimento:
 - Sávio:
 - Leonardo: 
@@ -478,6 +514,7 @@ O que fez ontem?
 - Ingrid:
 - Gustavo:
 - George:
+
 O que vai fazer hoje:
 - Sávio:
 - Leonardo: 
@@ -486,6 +523,7 @@ O que vai fazer hoje:
 - Ingrid:
 - Gustavo:
 - George:
+
 Tem algum impedimento:
 - Sávio:
 - Leonardo: 
@@ -504,6 +542,7 @@ O que fez ontem?
 - Ingrid:
 - Gustavo:
 - George:
+
 O que vai fazer hoje:
 - Sávio:
 - Leonardo: 
@@ -512,6 +551,7 @@ O que vai fazer hoje:
 - Ingrid:
 - Gustavo:
 - George:
+
 Tem algum impedimento:
 - Sávio:
 - Leonardo: 
@@ -530,6 +570,7 @@ O que fez ontem?
 - Ingrid:
 - Gustavo:
 - George:
+
 O que vai fazer hoje:
 - Sávio:
 - Leonardo: 
@@ -538,6 +579,7 @@ O que vai fazer hoje:
 - Ingrid:
 - Gustavo:
 - George:
+
 Tem algum impedimento:
 - Sávio:
 - Leonardo: 
@@ -556,6 +598,7 @@ O que fez ontem?
 - Ingrid:
 - Gustavo:
 - George:
+
 O que vai fazer hoje:
 - Sávio:
 - Leonardo: 
@@ -564,6 +607,7 @@ O que vai fazer hoje:
 - Ingrid:
 - Gustavo:
 - George:
+
 Tem algum impedimento:
 - Sávio:
 - Leonardo: 
@@ -582,6 +626,7 @@ O que fez ontem?
 - Ingrid:
 - Gustavo:
 - George:
+
 O que vai fazer hoje:
 - Sávio:
 - Leonardo: 
@@ -590,6 +635,7 @@ O que vai fazer hoje:
 - Ingrid:
 - Gustavo:
 - George:
+
 Tem algum impedimento:
 - Sávio:
 - Leonardo: 
