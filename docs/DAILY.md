@@ -2,34 +2,14 @@
 Usando a plataforma Discord, este é o registro de anotações das reuniões diárias, de no máximo quinze minutos, com o objetivo de discutir o que foi feito no dia anterior e priorizar o trabalho do dia que se inicia.
 
 ## 09/11/2020 às 14:15h
-O que fez ontem?
-- Sávio:
-- Leonardo: 
-- José Eduardo:
-- Iran:
-- Ingrid:
-- Gustavo:
-- George:
-
 O que vai fazer hoje?
-- Sávio:
-- Leonardo: 
-- José Eduardo:
-- Iran:
-- Ingrid:
-- Gustavo:
-- George:
+- Sávio: Adiantar os exercícios de Game Design e começar a pesquisa de consumo consciente para elaborar apresentação
+- Leonardo: Começar a desvendar o Javascript nos exercícios de linguagem de programação
+- Ingrid: Começar a matéria de Game Design e pesquisar um game de consumo consciente
+- Gustavo: Terminar os vídeos de Game Design e fazer os exercícios, tarefas de Game Art e pesquisar um game de consumo consciente
+- George: Pesquisar materiais sobre consumo consciente para elaborar apresentação
 
-Tem algum impedimento?
-- Sávio:
-- Leonardo: 
-- José Eduardo:
-- Iran:
-- Ingrid:
-- Gustavo:
-- George:
-
-## 10/11/2020
+## 10/11/2020 às 14:15h
 O que fez ontem?
 - Sávio:
 - Leonardo: 
