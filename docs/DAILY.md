@@ -15,7 +15,7 @@ O que fez ontem?
 - Leonardo: Editou o exercício de Javascript em linguagem de programação (fez a lógica)
 - Ingrid: Iniciou a pesquisa, assistiu todos os vídeos de Game Design e ideias pra preencher o quadro
 - Gustavo: Terminou os vídeos de Game Design, iniciou os exercícios, finalizou as tarefas de Game Art e iniciou a pesquisa de Game Design
-- George: Juntar materiais de consumo consciente
+- George: Juntou materiais de consumo consciente
 
 O que vai fazer hoje?
 - Sávio: Continuar na pesquisa, iniciar a apresentação de Game Design e exercícios de Game Art
