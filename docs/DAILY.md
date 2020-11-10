@@ -11,25 +11,25 @@ O que vai fazer hoje?
 
 ## 10/11/2020 às 14:15h
 O que fez ontem?
-- Sávio:
-- Leonardo: 
-- Ingrid:
-- Gustavo:
-- George:
+- Sávio: Pesquisou materiais e continuou preenchendo o primeiro exercício Game Design e Game Art
+- Leonardo: Editou o exercício de Javascript de Programação (fez a lógica)
+- Ingrid: Iniciou a pesquisa, assistiu todos os vídeos de Game Design e ideias pra preencher o quadro
+- Gustavo: Terminou os vídeos de Game Design e início aos exercícios, finalizou as tarefas de Game Art e iniciou a pesquisa de Game Design
+- George: Juntar materiais de consumo consciente
 
 O que vai fazer hoje?
-- Sávio:
-- Leonardo: 
-- Ingrid:
-- Gustavo:
-- George:
+- Sávio: Continuar na pesquisa, iniciar a apresentação de Game Design e exercícios de Game Art
+- Leonardo: Pesquisar a tarefa de Game design e fazer o exercício de Game Art
+- Ingrid: Fazer os quadros (MDA) e estudar Programação
+- Gustavo: Enviar as atividades de Game Design, terminar a pesquisa de consumo cosciente e estudar programação
+- George: Montar a apresentação e fazer os exercícios de Game Design
 
 Tem algum impedimento?
-- Sávio:
-- Leonardo: 
-- Ingrid:
-- Gustavo:
-- George:
+- Sávio: Organizar o tempo entre as três matérias
+- Leonardo: Estudar mais o Javascript
+- Ingrid: A parte de entender programação está mais díficil
+- Gustavo: A parte de entender programação está mais díficil
+- George: Organizar o tempo entre as três matérias
 
 ## 11/11/2020
 O que fez ontem?
