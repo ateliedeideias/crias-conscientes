@@ -19,7 +19,7 @@ O que fez ontem?
 
 O que vai fazer hoje?
 - Sávio: Continuar na pesquisa, iniciar a apresentação de Game Design e exercícios de Game Art
-- Leonardo: Pesquisar a tarefa de Game design e fazer o exercício de Game Art
+- Leonardo: Pesquisar a tarefa de Game Design e fazer o exercício de Game Art
 - Ingrid: Fazer os quadros (MDA) e estudar programação
 - Gustavo: Enviar as atividades de Game Design, terminar a pesquisa de consumo cosciente e estudar programação
 - George: Montar a apresentação e fazer os exercícios de Game Design
