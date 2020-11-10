@@ -13,8 +13,6 @@ O que vai fazer hoje?
 O que fez ontem?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -22,8 +20,6 @@ O que fez ontem?
 O que vai fazer hoje?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -31,8 +27,6 @@ O que vai fazer hoje?
 Tem algum impedimento?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -41,8 +35,6 @@ Tem algum impedimento?
 O que fez ontem?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -50,8 +42,6 @@ O que fez ontem?
 O que vai fazer hoje?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -59,8 +49,6 @@ O que vai fazer hoje?
 Tem algum impedimento?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -69,8 +57,6 @@ Tem algum impedimento?
 O que fez ontem?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -78,8 +64,6 @@ O que fez ontem?
 O que vai fazer hoje?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -87,8 +71,6 @@ O que vai fazer hoje?
 Tem algum impedimento?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -97,8 +79,6 @@ Tem algum impedimento?
 O que fez ontem?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -106,8 +86,6 @@ O que fez ontem?
 O que vai fazer hoje?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -115,8 +93,6 @@ O que vai fazer hoje?
 Tem algum impedimento?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -125,8 +101,6 @@ Tem algum impedimento?
 O que fez ontem?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -134,8 +108,6 @@ O que fez ontem?
 O que vai fazer hoje?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -143,8 +115,6 @@ O que vai fazer hoje?
 Tem algum impedimento?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -153,8 +123,6 @@ Tem algum impedimento?
 O que fez ontem?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -162,8 +130,6 @@ O que fez ontem?
 O que vai fazer hoje?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -171,8 +137,6 @@ O que vai fazer hoje?
 Tem algum impedimento?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -181,8 +145,6 @@ Tem algum impedimento?
 O que fez ontem?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -190,8 +152,6 @@ O que fez ontem?
 O que vai fazer hoje?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -199,8 +159,6 @@ O que vai fazer hoje?
 Tem algum impedimento?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -209,8 +167,6 @@ Tem algum impedimento?
 O que fez ontem?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -218,8 +174,6 @@ O que fez ontem?
 O que vai fazer hoje?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -227,8 +181,6 @@ O que vai fazer hoje?
 Tem algum impedimento?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -237,8 +189,6 @@ Tem algum impedimento?
 O que fez ontem?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -246,8 +196,6 @@ O que fez ontem?
 O que vai fazer hoje?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -255,8 +203,6 @@ O que vai fazer hoje?
 Tem algum impedimento?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -265,8 +211,6 @@ Tem algum impedimento?
 O que fez ontem?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -274,8 +218,6 @@ O que fez ontem?
 O que vai fazer hoje?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -283,8 +225,6 @@ O que vai fazer hoje?
 Tem algum impedimento?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -293,8 +233,6 @@ Tem algum impedimento?
 O que fez ontem?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -302,8 +240,6 @@ O que fez ontem?
 O que vai fazer hoje?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -311,8 +247,6 @@ O que vai fazer hoje?
 Tem algum impedimento?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -321,8 +255,6 @@ Tem algum impedimento?
 O que fez ontem?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -330,8 +262,6 @@ O que fez ontem?
 O que vai fazer hoje?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -339,8 +269,6 @@ O que vai fazer hoje?
 Tem algum impedimento?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -349,8 +277,6 @@ Tem algum impedimento?
 O que fez ontem?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -358,8 +284,6 @@ O que fez ontem?
 O que vai fazer hoje?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -367,8 +291,6 @@ O que vai fazer hoje?
 Tem algum impedimento?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -377,8 +299,6 @@ Tem algum impedimento?
 O que fez ontem?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -386,8 +306,6 @@ O que fez ontem?
 O que vai fazer hoje?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -395,8 +313,6 @@ O que vai fazer hoje?
 Tem algum impedimento?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -405,8 +321,6 @@ Tem algum impedimento?
 O que fez ontem?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -414,8 +328,6 @@ O que fez ontem?
 O que vai fazer hoje?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -423,8 +335,6 @@ O que vai fazer hoje?
 Tem algum impedimento?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -433,8 +343,6 @@ Tem algum impedimento?
 O que fez ontem?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -442,8 +350,6 @@ O que fez ontem?
 O que vai fazer hoje?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -451,8 +357,6 @@ O que vai fazer hoje?
 Tem algum impedimento?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -461,8 +365,6 @@ Tem algum impedimento?
 O que fez ontem?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -470,8 +372,6 @@ O que fez ontem?
 O que vai fazer hoje?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -479,8 +379,6 @@ O que vai fazer hoje?
 Tem algum impedimento?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -489,8 +387,6 @@ Tem algum impedimento?
 O que fez ontem?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -498,8 +394,6 @@ O que fez ontem?
 O que vai fazer hoje?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -507,8 +401,6 @@ O que vai fazer hoje?
 Tem algum impedimento?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -517,8 +409,6 @@ Tem algum impedimento?
 O que fez ontem?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -526,8 +416,6 @@ O que fez ontem?
 O que vai fazer hoje?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -535,8 +423,6 @@ O que vai fazer hoje?
 Tem algum impedimento?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -545,8 +431,6 @@ Tem algum impedimento?
 O que fez ontem?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -554,8 +438,6 @@ O que fez ontem?
 O que vai fazer hoje?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -563,8 +445,6 @@ O que vai fazer hoje?
 Tem algum impedimento?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -573,8 +453,6 @@ Tem algum impedimento?
 O que fez ontem?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -582,8 +460,6 @@ O que fez ontem?
 O que vai fazer hoje?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -591,8 +467,6 @@ O que vai fazer hoje?
 Tem algum impedimento?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -601,8 +475,6 @@ Tem algum impedimento?
 O que fez ontem?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -610,8 +482,6 @@ O que fez ontem?
 O que vai fazer hoje?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
@@ -619,8 +489,6 @@ O que vai fazer hoje?
 Tem algum impedimento?
 - Sávio:
 - Leonardo: 
-- José Eduardo:
-- Iran:
 - Ingrid:
 - Gustavo:
 - George:
