@@ -33,27 +33,23 @@ Tem algum impedimento?
 
 ## 11/11/2020 às 14:15h
 O que fez ontem?
-- Sávio:
-- Leonardo: 
-- Ingrid:
-- Gustavo:
-- George:
+- Sávio: Finalizou a pesquisa de materiais, preencheu o primeiro Canvas e estudou sobre Game Art 
+- Ingrid: Começou a fazer o Canvas e estudou programação
+- Gustavo: Teminou algumas tarefas do Game Design e estudou programação
+- George: Finalizou a pesquisa de materiais, fez o primeiro Canvas de Game Design e adiantou o Game Art
 
 O que vai fazer hoje?
-- Sávio:
-- Leonardo: 
-- Ingrid:
-- Gustavo:
-- George:
+- Sávio: Montar a apresentação sobre consumo consciente, fazer o segundo Canvas de Game Design e estudar programação 
+- Ingrid: Terminar o Canvas, estudar programação, finalizar pesquisa de consumo cosciente e estudar Game Art
+- Gustavo: Jogar e fazer o Canvas do Game Design, estudar Game Art e programação
+- George: Terminar a apresentação e começar o segundo
 
 Tem algum impedimento?
-- Sávio:
-- Leonardo: 
-- Ingrid:
-- Gustavo:
-- George:
+- Sávio: Estudar mais o Javascript
+- Ingrid: Organizar o tempo entre as três matérias
+- Gustavo: Estudar mais o Javascript
 
-## 12/11/2020
+## 12/11/2020 às 14:15h
 O que fez ontem?
 - Sávio:
 - Leonardo: 
