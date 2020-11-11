@@ -31,7 +31,7 @@ Tem algum impedimento?
 - Gustavo: A parte de entender programação está mais díficil
 - George: Organizar o tempo entre as três matérias
 
-## 11/11/2020
+## 11/11/2020 às 14:15h
 O que fez ontem?
 - Sávio:
 - Leonardo: 
