@@ -42,7 +42,7 @@ O que vai fazer hoje?
 - Sávio: Montar a apresentação sobre consumo consciente, fazer o segundo Canvas de Game Design e estudar programação 
 - Ingrid: Terminar o Canvas, estudar programação, finalizar pesquisa de consumo cosciente e estudar Game Art
 - Gustavo: Jogar e fazer o Canvas do Game Design, estudar Game Art e programação
-- George: Terminar a apresentação e começar o segundo
+- George: Terminar a apresentação e começar o segundo Canvas de Game Design
 
 Tem algum impedimento?
 - Sávio: Estudar mais o Javascript
