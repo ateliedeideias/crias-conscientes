@@ -54,12 +54,12 @@ O que fez ontem?
 - Sávio: Adiantou a montagem da apresentação, começou o segundo Canvas e estudou a programação
 - Leonardo: Estudou a teoria do Game Project e estudou o MDA
 - Ingrid: Terminou os Canvas de Game Design e estudou a programação
-- Gustavo: Jogou o game de consumo consciente, estudou Game Art, revisou matéria de programação
+- Gustavo: Jogou o game de consumo consciente, estudou Game Art e revisou a matéria de programação
 
 O que vai fazer hoje?
 - Sávio: Finalizar a apresentação, assistir aula de programação, preencher o Canvas Among US e estudar Game Art 
 - Leonardo: Encerrar a pesquisa do game de consumo consciente
-- Ingrid: Terminar Game Art e fazer Canvas do game de consumo consciente
+- Ingrid: Terminar Game Art e fazer o Canvas do game de consumo consciente
 - Gustavo: Finalizar a atividade de consumo consciente, preencher o Canvas Among US e assistir a aula de programação
 
 Tem algum impedimento?
