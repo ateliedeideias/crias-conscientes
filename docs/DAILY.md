@@ -67,25 +67,16 @@ Tem algum impedimento?
 
 ## 13/11/2020
 O que fez ontem?
-- Sávio:
-- Leonardo: 
-- Ingrid:
-- Gustavo:
-- George:
+- Sávio: Finalizou a apresentação, fez aula de programação e teve ideia do segundo exercício de Game Design 
+- Leonardo: Fez aula de programação e viu exemplos, finalizou a pesquisa do game de consumo consciente
+- Ingrid: Fez aula de programação, finalizou a pesquisa do game de consumo consciente e estudou Game Art
+- Gustavo: Fez aula de programação, finalizou a pesquisa do game de consumo consciente e estudou programação
 
 O que vai fazer hoje?
-- Sávio:
-- Leonardo: 
-- Ingrid:
-- Gustavo:
-- George:
+- Todos: Reunião de equipe e apresentação das atividades
 
 Tem algum impedimento?
-- Sávio:
-- Leonardo: 
-- Ingrid:
-- Gustavo:
-- George:
+- Ingrid: Ainda tem que fazer os exercícios de Game Art
 
 ## 16/11/2020
 O que fez ontem?
