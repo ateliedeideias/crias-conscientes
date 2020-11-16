@@ -79,13 +79,6 @@ Tem algum impedimento?
 - Ingrid: Ainda tem que fazer os exercícios de Game Art
 
 ## 16/11/2020
-O que fez ontem?
-- Sávio:
-- Leonardo: 
-- Ingrid:
-- Gustavo:
-- George:
-
 O que vai fazer hoje?
 - Sávio:
 - Leonardo: 
