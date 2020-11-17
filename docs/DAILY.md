@@ -80,18 +80,7 @@ Tem algum impedimento?
 
 ## 16/11/2020
 O que vai fazer hoje?
-- Sávio:
-- Leonardo: 
-- Ingrid:
-- Gustavo:
-- George:
-
-Tem algum impedimento?
-- Sávio:
-- Leonardo: 
-- Ingrid:
-- Gustavo:
-- George:
+- Todos: Elaboração do Canvas sobre o Among US
 
 ## 17/11/2020
 O que fez ontem?
