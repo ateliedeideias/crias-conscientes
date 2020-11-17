@@ -84,25 +84,10 @@ O que vai fazer hoje?
 
 ## 17/11/2020
 O que fez ontem?
-- Sávio:
-- Leonardo: 
-- Ingrid:
-- Gustavo:
-- George:
+- Todos: Jogaram partida do Among US e terminaram o Canvas
 
 O que vai fazer hoje?
-- Sávio:
-- Leonardo: 
-- Ingrid:
-- Gustavo:
-- George:
-
-Tem algum impedimento?
-- Sávio:
-- Leonardo: 
-- Ingrid:
-- Gustavo:
-- George:
+- Todos: Fazer os exercícios de Game Art e estudar programação
 
 ## 18/11/2020
 O que fez ontem?
