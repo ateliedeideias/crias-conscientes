@@ -91,25 +91,23 @@ O que vai fazer hoje?
 
 ## 18/11/2020
 O que fez ontem?
-- Sávio:
-- Leonardo: 
-- Ingrid:
-- Gustavo:
-- George:
+- Sávio: Estudou Game Art e Game Project
+- Leonardo: Estudou Game Art
+- Ingrid: Estudou Game Art e Game Project
+- Gustavo: Estudou Game Art e programação
+- George: Estudou Game Art e programação
 
 O que vai fazer hoje?
-- Sávio:
-- Leonardo: 
-- Ingrid:
-- Gustavo:
-- George:
+- Sávio: Estudar programação e Game Art
+- Leonardo: Finalizar o exercício de Game Art e estudar programação
+- Ingrid: Estudar programação e Game Art
+- Gustavo: Finalizar o exercício de Game Art, estudar programação e Game Project
+- George: Estudar programação e Game Art
 
 Tem algum impedimento?
-- Sávio:
-- Leonardo: 
-- Ingrid:
-- Gustavo:
-- George:
+- Ingrid: Estudar mais o Javascript
+- Gustavo: Estudar mais o Javascript
+- George: Organizar o tempo entre as matérias
 
 ## 19/11/2020
 O que fez ontem?
