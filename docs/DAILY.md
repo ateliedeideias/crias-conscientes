@@ -111,25 +111,19 @@ Tem algum impedimento?
 
 ## 19/11/2020
 O que fez ontem?
-- Sávio:
-- Leonardo: 
-- Ingrid:
-- Gustavo:
-- George:
+- Todos: Finalizou o Game Art e estudou programação
 
 O que vai fazer hoje?
-- Sávio:
-- Leonardo: 
-- Ingrid:
-- Gustavo:
-- George:
+- Sávio: Estudar programação e Game Project
+- Leonardo: Estudar programação
+- Ingrid: Estudar programação
+- Gustavo: Estudar programação e Game Project
+- George: Estudar programação
 
 Tem algum impedimento?
-- Sávio:
-- Leonardo: 
-- Ingrid:
-- Gustavo:
-- George:
+- Sávio: Estudar mais o Javascript
+- Leonardo: Estudar mais o Javascript
+- Ingrid: Estudar mais o Javascript
 
 ## 20/11/2020
 O que fez ontem?
