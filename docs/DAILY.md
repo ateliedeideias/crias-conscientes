@@ -65,7 +65,7 @@ O que vai fazer hoje?
 Tem algum impedimento?
 - Ingrid: Estudar mais o Javascript
 
-## 13/11/2020
+## 13/11/2020 às 14:15h
 O que fez ontem?
 - Sávio: Finalizou a apresentação, fez aula de programação e teve ideia do segundo exercício de Game Design 
 - Leonardo: Fez aula de programação e viu exemplos, finalizou a pesquisa do game de consumo consciente
@@ -78,18 +78,18 @@ O que vai fazer hoje?
 Tem algum impedimento?
 - Ingrid: Ainda tem que fazer os exercícios de Game Art
 
-## 16/11/2020
+## 16/11/2020 às 14:15h
 O que vai fazer hoje?
 - Todos: Elaboração do Canvas sobre o Among US
 
-## 17/11/2020
+## 17/11/2020 às 14:15h
 O que fez ontem?
 - Todos: Jogaram partida do Among US e terminaram o Canvas
 
 O que vai fazer hoje?
 - Todos: Fazer os exercícios de Game Art e estudar programação
 
-## 18/11/2020
+## 18/11/2020 às 14:15h
 O que fez ontem?
 - Sávio: Estudou Game Art e Game Project
 - Leonardo: Estudou Game Art
@@ -109,7 +109,7 @@ Tem algum impedimento?
 - Gustavo: Estudar mais o Javascript
 - George: Organizar o tempo entre as matérias
 
-## 19/11/2020
+## 19/11/2020 às 14:15h
 O que fez ontem?
 - Todos: Finalizou o Game Art e estudou programação
 
