@@ -125,7 +125,7 @@ Tem algum impedimento?
 - Leonardo: Estudar mais o Javascript
 - Ingrid: Estudar mais o Javascript
 
-## 20/11/2020
+## 20/11/2020 às 14:15h
 O que fez ontem?
 - Sávio: Estudou Game Project e programação
 - Leonardo: Estudou programação
