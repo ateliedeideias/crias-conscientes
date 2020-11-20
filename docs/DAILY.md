@@ -127,25 +127,19 @@ Tem algum impedimento?
 
 ## 20/11/2020
 O que fez ontem?
-- Sávio:
-- Leonardo: 
-- Ingrid:
-- Gustavo:
-- George:
+- Sávio: Estudou Game Project e programação
+- Leonardo: Estudou programação
+- Ingrid: Estudou programação 
+- Gustavo: Estudou programação
 
 O que vai fazer hoje?
-- Sávio:
-- Leonardo: 
-- Ingrid:
-- Gustavo:
-- George:
+- Sávio: Estudar programação e começar o Canvas do Game de consumo consciente
+- Leonardo: Estudar programação
+- Ingrid: Estudar programação e começar o Canvas do Game de consumo consciente
+- Gustavo: Estudar programação e Game Project
 
 Tem algum impedimento?
-- Sávio:
-- Leonardo: 
-- Ingrid:
-- Gustavo:
-- George:
+- Todos: Estudar mais o Javascript
 
 ## 23/11/2020
 O que fez ontem?
