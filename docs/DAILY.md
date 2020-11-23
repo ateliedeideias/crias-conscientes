@@ -141,27 +141,14 @@ O que vai fazer hoje?
 Tem algum impedimento?
 - Todos: Estudar mais o Javascript
 
-## 23/11/2020
-O que fez ontem?
-- Sávio:
-- Leonardo: 
-- Ingrid:
-- Gustavo:
-- George:
-
+## 23/11/2020 às 14:15h
 O que vai fazer hoje?
-- Sávio:
-- Leonardo: 
-- Ingrid:
-- Gustavo:
-- George:
+- Sávio: Fazer o Canvas de consumo consciente, finalizar Game Project e estudar programação
+- Gustavo: Fazer o Canvas de consumo consciente e estudar programação
 
 Tem algum impedimento?
-- Sávio:
-- Leonardo: 
-- Ingrid:
-- Gustavo:
-- George:
+- Sávio: Estudar mais o Javascript
+- Gustavo: Estudar mais o Javascript
 
 ## 24/11/2020
 O que fez ontem?
