@@ -166,7 +166,7 @@ Tem algum impedimento?
 
 ## 25/11/2020 às 14:15h
 O que fez ontem?
-- Todos: Fez apresentação do Canvas de consumo consciente e estudaram programação
+- Todos: Realizaram apresentação do Canvas de consumo consciente e estudaram programação
 
 O que vai fazer hoje?
 - Todos: Reunir em equipe para elaboração do Canvas de consumo consciente e estudar programação
