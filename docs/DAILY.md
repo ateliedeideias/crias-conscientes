@@ -164,27 +164,13 @@ O que vai fazer hoje?
 Tem algum impedimento?
 - Ingrid: Estudar mais o Javascript
 
-## 25/11/2020
+## 25/11/2020 às 14:15h
 O que fez ontem?
-- Sávio:
-- Leonardo: 
-- Ingrid:
-- Gustavo:
-- George:
+- Todos: Fez apresentação do Canvas de consumo consciente e estudaram programação
 
 O que vai fazer hoje?
-- Sávio:
-- Leonardo: 
-- Ingrid:
-- Gustavo:
-- George:
-
-Tem algum impedimento?
-- Sávio:
-- Leonardo: 
-- Ingrid:
-- Gustavo:
-- George:
+- Todos: Reunir em equipe para elaboração do Canvas de consumo consciente e estudar programação
+- Leonardo: Estudar Game Project e Game Art
 
 ## 26/11/2020
 O que fez ontem?
