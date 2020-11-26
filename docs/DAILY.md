@@ -166,33 +166,22 @@ Tem algum impedimento?
 
 ## 25/11/2020 às 14:15h
 O que fez ontem?
-- Todos: Realizaram apresentação do Canvas de consumo consciente e estudaram programação
+- Todos: Realizaram apresentação do Canvas individual de consumo consciente e estudaram programação
 
 O que vai fazer hoje?
-- Todos: Reunir em equipe para elaboração do Canvas de consumo consciente e estudar programação
+- Todos: Reunir em equipe para elaboração do Canvas coletivo de consumo consciente e estudar programação
 - Leonardo: Estudar Game Project e Game Art
 
-## 26/11/2020
+## 26/11/2020 às 14:15h
 O que fez ontem?
-- Sávio:
-- Leonardo: 
-- Ingrid:
-- Gustavo:
-- George:
+- Todos: Elaboraram Canvas coletivo de consumo consciente
+- Leonardo: Fazendo uma pesquisa de consumo consciente
+- Gustavo: Estudou programação
 
 O que vai fazer hoje?
-- Sávio:
-- Leonardo: 
-- Ingrid:
-- Gustavo:
-- George:
-
-Tem algum impedimento?
-- Sávio:
-- Leonardo: 
-- Ingrid:
-- Gustavo:
-- George:
+- Leonardo: Continuar pesquisa de consumo consciente e estudar Game Art
+- Gustavo: Estudar programação
+- George: Estudar Game Art e programação
 
 ## 27/11/2020
 O que fez ontem?
