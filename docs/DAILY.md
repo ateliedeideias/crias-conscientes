@@ -183,27 +183,16 @@ O que vai fazer hoje?
 - Gustavo: Estudar programação
 - George: Estudar Game Art e programação
 
-## 27/11/2020
+## 27/11/2020 às 14:15h
 O que fez ontem?
-- Sávio:
-- Leonardo: 
-- Ingrid:
-- Gustavo:
-- George:
+- Sávio: Estudou Game Art
+- Leonardo: Estudou Game Art
+- Ingrid: Estudou Game Art e programação
+- Gustavo: Estudou programação
+- George: Estudou Game Art e programação
 
 O que vai fazer hoje?
-- Sávio:
-- Leonardo: 
-- Ingrid:
-- Gustavo:
-- George:
-
-Tem algum impedimento?
-- Sávio:
-- Leonardo: 
-- Ingrid:
-- Gustavo:
-- George:
+- Todos: Apresentação do Canvas coletivo de consumo consciente
 
 ## 30/11/2020
 O que fez ontem?
