@@ -7,11 +7,11 @@ O projeto foi desenvolvido durante o curso de tecnologias digitais oferecido pel
 
 ## Equipe de Desenho e Efeitos Visuais
 - Gustavo Mateus Viana
-- Savio de Lima Varejão
+- Sávio de Lima Varejão
 
 ## Equipe de Conteúdo e Comunicação
 - Ingrid da Rocha Ricardo
-- Savio de Lima Varejão
+- Sávio de Lima Varejão
 
 ## Orientadores
 - Ricardo Bonino
