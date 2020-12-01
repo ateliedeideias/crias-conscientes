@@ -200,25 +200,22 @@ O que vai fazer hoje?
 
 ## 01/12/2020
 O que fez ontem?
-- Sávio:
-- Leonardo: 
-- Ingrid:
-- Gustavo:
-- George:
+- Sávio: Criou, desenhou o personagem e pensou em rascunhos
+- Leonardo: Estudou Game Dev e Game Project
+- Ingrid: Sugeriu rascunhos, conteúdos e tarefas 
+- Gustavo: Criou e desenhou o personagem
+- George: Estudou programação e Game Dev
 
 O que vai fazer hoje?
-- Sávio:
-- Leonardo: 
-- Ingrid:
-- Gustavo:
-- George:
+- Sávio: Desenhar os rascunhos
+- Leonardo: Estudar Game Dev
+- Ingrid: Pesquisar conteúdo para o site
+- Gustavo: Desenhar o cenário principal
+- George: Estudar Game Dev
 
 Tem algum impedimento?
-- Sávio:
-- Leonardo: 
-- Ingrid:
-- Gustavo:
-- George:
+- Todos: Pouco tempo para realizar as atividades
+- Leonardo: Pouco material para estudo da ferramenta
 
 ## 02/12/2020
 O que fez ontem?
