@@ -198,7 +198,7 @@ O que vai fazer hoje?
 O que vai fazer hoje?
 - Todos: Reunião de projeto para divisão das tarefas
 
-## 01/12/2020
+## 01/12/2020 às 14:15h
 O que fez ontem?
 - Sávio: Criou, desenhou o personagem e pensou em rascunhos
 - Leonardo: Estudou Game Dev e Game Project
@@ -217,27 +217,15 @@ Tem algum impedimento?
 - Todos: Pouco tempo para realizar as atividades
 - Leonardo: Pouco material para estudo da ferramenta
 
-## 02/12/2020
+## 02/12/2020 às 14:30h
 O que fez ontem?
-- Sávio:
-- Leonardo: 
-- Ingrid:
-- Gustavo:
-- George:
+- Sávio: Adiantou os personagens e outros cenários
+- Ingrid: Finalizou os textos iniciais
+- Gustavo: Finalizou o cenário
 
 O que vai fazer hoje?
-- Sávio:
-- Leonardo: 
-- Ingrid:
-- Gustavo:
-- George:
-
-Tem algum impedimento?
-- Sávio:
-- Leonardo: 
-- Ingrid:
-- Gustavo:
-- George:
+- Ingrid: Desenhar logomarca
+- Gustavo: Desenhar outros cenários
 
 ## 03/12/2020
 O que fez ontem?
