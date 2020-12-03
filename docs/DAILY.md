@@ -227,27 +227,19 @@ O que vai fazer hoje?
 - Ingrid: Desenhar logomarca
 - Gustavo: Desenhar outros cenários
 
-## 03/12/2020
+## 03/12/2020 às 14:15h
 O que fez ontem?
-- Sávio:
-- Leonardo: 
-- Ingrid:
-- Gustavo:
-- George:
+- Sávio: Redesenhou o personagem principal
+- Leonardo: Estudou Game Dev e sobre o projeto
+- Ingrid: Desenhou a logomarca
+- Gustavo: Desenhou o cenário da pracinha
 
 O que vai fazer hoje?
-- Sávio:
-- Leonardo: 
-- Ingrid:
-- Gustavo:
-- George:
-
-Tem algum impedimento?
-- Sávio:
-- Leonardo: 
-- Ingrid:
-- Gustavo:
-- George:
+- Todos: Estudar programação e Game Dev
+- Sávio: Desenhar adereços do personagem
+- Leonardo: Finalizar programação
+- Ingrid: Editar site
+- Gustavo: Finalizar o cenário
 
 ## 04/12/2020
 O que fez ontem?
