@@ -243,25 +243,16 @@ O que vai fazer hoje?
 
 ## 04/12/2020
 O que fez ontem?
-- Sávio:
-- Leonardo: 
-- Ingrid:
-- Gustavo:
-- George:
+- Todos: Estudou programação
+- Sávio: Finalizou o personagem
+- Leonardo: Estudou Game Dev
+- Gustavo: Finalizou o cenário
 
 O que vai fazer hoje?
-- Sávio:
-- Leonardo: 
-- Ingrid:
-- Gustavo:
-- George:
-
-Tem algum impedimento?
-- Sávio:
-- Leonardo: 
-- Ingrid:
-- Gustavo:
-- George:
+- Todos: Estudar programação
+- Sávio: Desenhar as caixas de informação
+- Leonardo: Estudar Game Dev
+- Gustavo: Desenhar adereços do cenário
 
 ## 07/12/2020
 O que fez ontem?
