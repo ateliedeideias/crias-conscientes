@@ -241,7 +241,7 @@ O que vai fazer hoje?
 - Ingrid: Editar site
 - Gustavo: Finalizar o cenário
 
-## 04/12/2020
+## 04/12/2020 às 14:15h
 O que fez ontem?
 - Todos: Estudou programação
 - Sávio: Finalizou o personagem
