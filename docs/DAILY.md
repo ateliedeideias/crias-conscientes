@@ -254,27 +254,14 @@ O que vai fazer hoje?
 - Leonardo: Estudar Game Dev
 - Gustavo: Desenhar adereços do cenário
 
-## 07/12/2020
-O que fez ontem?
-- Sávio:
-- Leonardo: 
-- Ingrid:
-- Gustavo:
-- George:
-
+## 07/12/2020 às 14:30h
 O que vai fazer hoje?
-- Sávio:
-- Leonardo: 
-- Ingrid:
-- Gustavo:
-- George:
-
-Tem algum impedimento?
-- Sávio:
-- Leonardo: 
-- Ingrid:
-- Gustavo:
-- George:
+- Todos: Estudar programação
+- Sávio: Desenhar adereços do cenário
+- Leonardo: Estudar Game Dev
+- Ingrid: Estudar Game Dev e editar site
+- George: Estudar Game Dev
+- Gustavo: Revisar estudos dos cursos
 
 ## 08/12/2020
 O que fez ontem?
