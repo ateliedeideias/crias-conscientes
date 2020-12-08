@@ -263,46 +263,12 @@ O que vai fazer hoje?
 - George: Estudar Game Dev
 - Gustavo: Revisar estudos dos cursos
 
-## 08/12/2020
+## 08/12/2020 às 14:15h
 O que fez ontem?
-- Sávio:
-- Leonardo: 
-- Ingrid:
-- Gustavo:
-- George:
+- Todos: Estudou programação
+- Sávio: Estudou Game Dev
+- Ingrid: Estudou atividades pendentes
+- Gustavo: Estudou atividades pendentes
 
 O que vai fazer hoje?
-- Sávio:
-- Leonardo: 
-- Ingrid:
-- Gustavo:
-- George:
-
-Tem algum impedimento?
-- Sávio:
-- Leonardo: 
-- Ingrid:
-- Gustavo:
-- George:
-
-## 09/12/2020
-O que fez ontem?
-- Sávio:
-- Leonardo: 
-- Ingrid:
-- Gustavo:
-- George:
-
-O que vai fazer hoje?
-- Sávio:
-- Leonardo: 
-- Ingrid:
-- Gustavo:
-- George:
-
-Tem algum impedimento?
-- Sávio:
-- Leonardo: 
-- Ingrid:
-- Gustavo:
-- George:
+- Todos: Terminar atividades pendentes
