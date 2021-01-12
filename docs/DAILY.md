@@ -272,3 +272,11 @@ O que fez ontem?
 
 O que vai fazer hoje?
 - Todos: Terminar atividades pendentes
+
+## 12/01/2020 às 14:30h
+O que fez ontem?
+- Reunião de equipe
+
+O que vai fazer hoje?
+- Sávio: Editar personagens
+- Ingrid: Estudar Game Art
