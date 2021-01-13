@@ -281,24 +281,14 @@ O que vai fazer hoje?
 - Sávio: Editar personagens
 - Ingrid: Estudar Game Art
 
-## 13/01/2021 às 14:15h
+## 13/01/2021 às 14:30h
 O que fez ontem?
-- Sávio:
-- Leonardo:
-- Ingrid:
-- George:
+- Ingrid: Estudou Game Art
+- George: Revisou atividades pendentes
 
 O que vai fazer hoje?
-- Sávio:
-- Leonardo:
-- Ingrid:
-- George:
-
-Tem algum impedimento?
-- Sávio:
-- Leonardo:
-- Ingrid:
-- George:
+- Ingrid: Desenhar alguns objetos
+- George: Iniciar a edição do site
 
 ## 14/01/2021 às 14:15h
 O que fez ontem?
