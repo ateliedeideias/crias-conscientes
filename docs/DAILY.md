@@ -273,10 +273,86 @@ O que fez ontem?
 O que vai fazer hoje?
 - Todos: Terminar atividades pendentes
 
-## 12/01/2020 às 14:30h
+## 12/01/2021 às 14:30h
 O que fez ontem?
 - Reunião de equipe
 
 O que vai fazer hoje?
 - Sávio: Editar personagens
 - Ingrid: Estudar Game Art
+
+## 13/01/2021 às 14:15h
+O que fez ontem?
+- Sávio:
+- Leonardo:
+- Ingrid:
+- George:
+
+O que vai fazer hoje?
+- Sávio:
+- Leonardo:
+- Ingrid:
+- George:
+
+Tem algum impedimento?
+- Sávio:
+- Leonardo:
+- Ingrid:
+- George:
+
+## 14/01/2021 às 14:15h
+O que fez ontem?
+- Sávio:
+- Leonardo:
+- Ingrid:
+- George:
+
+O que vai fazer hoje?
+- Sávio:
+- Leonardo:
+- Ingrid:
+- George:
+
+Tem algum impedimento?
+- Sávio:
+- Leonardo:
+- Ingrid:
+- George:
+
+## 15/01/2021 às 14:15h
+O que fez ontem?
+- Sávio:
+- Leonardo:
+- Ingrid:
+- George:
+
+O que vai fazer hoje?
+- Sávio:
+- Leonardo:
+- Ingrid:
+- George:
+
+Tem algum impedimento?
+- Sávio:
+- Leonardo:
+- Ingrid:
+- George:
+
+## 18/01/2021 às 14:15h
+O que fez ontem?
+- Sávio:
+- Leonardo:
+- Ingrid:
+- George:
+
+O que vai fazer hoje?
+- Sávio:
+- Leonardo:
+- Ingrid:
+- George:
+
+Tem algum impedimento?
+- Sávio:
+- Leonardo:
+- Ingrid:
+- George:
