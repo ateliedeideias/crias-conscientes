@@ -305,22 +305,12 @@ O que vai fazer hoje?
 
 ## 15/01/2021 às 14:15h
 O que fez ontem?
-- Sávio:
-- Leonardo:
-- Ingrid:
-- George:
+- Sávio: Desenhou personagem feminino
+- Ingrid: Desenhou objetos do cenário
 
 O que vai fazer hoje?
-- Sávio:
-- Leonardo:
-- Ingrid:
-- George:
-
-Tem algum impedimento?
-- Sávio:
-- Leonardo:
-- Ingrid:
-- George:
+- Sávio: Desenhar objetos do cenário
+- Ingrid: Publicar arquivos no formato
 
 ## 18/01/2021 às 14:15h
 O que fez ontem?
