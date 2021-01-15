@@ -310,7 +310,7 @@ O que fez ontem?
 
 O que vai fazer hoje?
 - Sávio: Desenhar objetos do cenário
-- Ingrid: Publicar arquivos no formato
+- Ingrid: Publicar imagens no formato web
 
 ## 18/01/2021 às 14:15h
 O que fez ontem?
