@@ -292,16 +292,16 @@ O que vai fazer hoje?
 
 ## 14/01/2021 às 14:15h
 O que fez ontem?
-- Sávio:
-- Leonardo:
-- Ingrid:
-- George:
+- Sávio: Editou roupas do personagem
+- Leonardo: Estudou Game Dev
+- Ingrid: Desenhou objetos do cenário
+- George: Editou site com cores do game
 
 O que vai fazer hoje?
-- Sávio:
-- Leonardo:
-- Ingrid:
-- George:
+- Sávio: Desenhar objetos do cenário
+- Leonardo: Estudar Game Dev
+- Ingrid: Desenhar objetos do cenário
+- George: Editar site com informações
 
 Tem algum impedimento?
 - Sávio:
