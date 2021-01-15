@@ -303,12 +303,6 @@ O que vai fazer hoje?
 - Ingrid: Desenhar objetos do cenário
 - George: Editar site com informações
 
-Tem algum impedimento?
-- Sávio:
-- Leonardo:
-- Ingrid:
-- George:
-
 ## 15/01/2021 às 14:15h
 O que fez ontem?
 - Sávio:
