@@ -303,7 +303,7 @@ O que vai fazer hoje?
 - Ingrid: Desenhar objetos do cenário
 - George: Editar site com informações
 
-## 15/01/2021 às 14:15h
+## 15/01/2021 às 14:30h
 O que fez ontem?
 - Sávio: Desenhou personagem feminino
 - Leonardo: Estudou Game Dev
@@ -314,9 +314,10 @@ O que vai fazer hoje?
 - Leonardo: Editar primeira versão do game
 - Ingrid: Publicar imagens no formato web
 
-## 18/01/2021 às 14:15h
+## 18/01/2021 às 14:20h
 O que vai fazer hoje?
 - Sávio: Desenhar objetos do cenário
+- Leonardo: Editar primeira versão do game
 - Ingrid: Desenhar objetos do cenário
 
 ## 19/01/2021 às 14:15h
