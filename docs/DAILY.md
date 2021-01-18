@@ -315,6 +315,11 @@ O que vai fazer hoje?
 - Ingrid: Publicar imagens no formato web
 
 ## 18/01/2021 às 14:15h
+O que vai fazer hoje?
+- Sávio: Desenhar objetos do cenário
+- Ingrid: Desenhar objetos do cenário
+
+## 19/01/2021 às 14:15h
 O que fez ontem?
 - Sávio:
 - Leonardo:
