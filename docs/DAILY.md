@@ -320,7 +320,7 @@ O que vai fazer hoje?
 - Leonardo: Editar primeira versão do game
 - Ingrid: Desenhar objetos do cenário
 
-## 19/01/2021 às 14:15h
+## 19/01/2021 às 14:30h
 O que fez ontem?
 - Sávio: Desenhou objetos do cenário
 - Ingrid: Desenhou objetos do cenário
