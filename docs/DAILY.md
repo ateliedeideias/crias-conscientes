@@ -342,7 +342,16 @@ O que vai fazer hoje?
 - Sávio: Melhorar personagens
 - George: Editar site com informações sobre o jogo
 
-## 21/01/2021 às 14:15h
+## 22/01/2021 às 14:20h
+O que fez ontem?
+- Sávio: Encerrou edição de personagens e cenário
+- George: Editou site com informações sobre o jogo
+
+O que vai fazer hoje?
+- Sávio: Organizar criação de próximo cenário
+- George: Editar site com informações sobre o jogo
+
+## 25/01/2021 às 14:20h
 O que fez ontem?
 - Sávio:
 - Leonardo:
