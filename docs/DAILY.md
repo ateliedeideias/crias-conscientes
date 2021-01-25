@@ -351,20 +351,12 @@ O que vai fazer hoje?
 - Sávio: Organizar criação de próximo cenário
 - George: Editar site com informações sobre o jogo
 
-## 25/01/2021 às 14:20h
+## 25/01/2021 às 14:30h
 O que vai fazer hoje?
-- Sávio:
-- Leonardo:
-- Ingrid:
-- George:
+- Ingrid: Melhorar objetos do cenário
+- George: Editar site com informações sobre o jogo
 
-Tem algum impedimento?
-- Sávio:
-- Leonardo:
-- Ingrid:
-- George:
-
-## 26/01/2021 às 14:20h
+## 26/01/2021 às 14:15h
 O que fez ontem?
 - Sávio:
 - Leonardo:
