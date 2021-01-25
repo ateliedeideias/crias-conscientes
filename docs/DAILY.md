@@ -352,6 +352,19 @@ O que vai fazer hoje?
 - George: Editar site com informações sobre o jogo
 
 ## 25/01/2021 às 14:20h
+O que vai fazer hoje?
+- Sávio:
+- Leonardo:
+- Ingrid:
+- George:
+
+Tem algum impedimento?
+- Sávio:
+- Leonardo:
+- Ingrid:
+- George:
+
+## 26/01/2021 às 14:20h
 O que fez ontem?
 - Sávio:
 - Leonardo:
