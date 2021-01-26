@@ -356,7 +356,21 @@ O que vai fazer hoje?
 - Ingrid: Melhorar objetos do cenário
 - George: Editar site com informações sobre o jogo
 
-## 26/01/2021 às 14:15h
+## 26/01/2021 às 14:25h
+O que fez ontem?
+- Sávio: Desenhou objetos do cenário
+- Ingrid: Desenhou objetos do cenário
+- George: Editou site com informações sobre o jogo
+
+O que vai fazer hoje?
+- Sávio: Melhorar objetos do cenário
+- Ingrid: Produzir informações para o site
+- George: Editar site com informações sobre a equipe
+
+Tem algum impedimento?
+- Leonardo: Não vem participando das reuniões, pois está em outro emprego
+
+## 27/01/2021 às 14:15h
 O que fez ontem?
 - Sávio:
 - Leonardo:
