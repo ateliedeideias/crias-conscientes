@@ -370,21 +370,15 @@ O que vai fazer hoje?
 Tem algum impedimento?
 - Leonardo: Não vem participando das reuniões, pois está em outro emprego
 
-## 05/02/2021 às 14:15h
+## 11/02/2021 às 15:30h
 O que fez ontem?
 - Sávio:
-- Leonardo:
-- Ingrid:
 - George:
 
 O que vai fazer hoje?
 - Sávio:
-- Leonardo:
-- Ingrid:
 - George:
 
 Tem algum impedimento?
 - Sávio:
-- Leonardo:
-- Ingrid:
 - George:
