@@ -378,15 +378,42 @@ O que vai fazer hoje?
 - Sávio: Começar estudo sobre programação de site
 - George: Começar estudo sobre programação de game
 
-## 12/02/2021 às 14:15h
+## 03/01/2021 às 14:15h
 O que fez ontem?
-- Sávio: 
-- George: 
+- Todos: Participou da reunião de equipe 
 
 O que vai fazer hoje?
 - Sávio:
 - George:
+- Jean:
+- Johnston:
+- Ludimila:
 
 Tem algum impedimento?
 - Sávio:
 - George:
+- Jean:
+- Johnston:
+- Ludimila:
+
+## 04/01/2021 às 14:15h
+O que fez ontem?
+- Sávio: 
+- George:
+- Jean:
+- Johnston:
+- Ludimila: 
+
+O que vai fazer hoje?
+- Sávio:
+- George:
+- Jean:
+- Johnston:
+- Ludimila:
+
+Tem algum impedimento?
+- Sávio:
+- George:
+- Jean:
+- Johnston:
+- Ludimila:
