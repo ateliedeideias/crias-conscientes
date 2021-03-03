@@ -372,7 +372,7 @@ Tem algum impedimento?
 
 ## 11/02/2021 às 14:30h
 O que fez ontem?
-- Todos: Participou da reunião de equipe
+- Todos: Participaram da reunião de equipe
 
 O que vai fazer hoje?
 - Sávio: Começar estudo sobre programação de site
@@ -380,21 +380,14 @@ O que vai fazer hoje?
 
 ## 03/01/2021 às 14:15h
 O que fez ontem?
-- Todos: Participou da reunião de equipe 
+- Todos: Participaram da reunião de equipe e fizeram exercícios de programação
 
 O que vai fazer hoje?
-- Sávio:
-- George:
-- Jean:
-- Johnston:
-- Ludimila:
-
-Tem algum impedimento?
-- Sávio:
-- George:
-- Jean:
-- Johnston:
-- Ludimila:
+- Sávio: Começar desenhos do bairro da penha
+- George: Programar tarefas do jogo
+- Jean: Estudar design de game e programação
+- Johnston: Fazer exercícios de programação
+- Ludimila: Estudar design de game
 
 ## 04/01/2021 às 14:15h
 O que fez ontem?
