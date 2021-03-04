@@ -391,25 +391,16 @@ O que vai fazer hoje?
 
 ## 04/01/2021 às 14:15h
 O que fez ontem?
-- Sávio: 
-- George:
-- Jean:
-- Johnston:
-- Ludimila: 
+- Sávio: Estudou programação
+- Jean: Estudou design de game e programação
+- Johnston: Estudou programação
+- Ludimila: Estudou design de game
 
 O que vai fazer hoje?
-- Sávio:
-- George:
-- Jean:
-- Johnston:
-- Ludimila:
-
-Tem algum impedimento?
-- Sávio:
-- George:
-- Jean:
-- Johnston:
-- Ludimila:
+- Sávio: Iniciar desenhos da pracinha do bairro da penha
+- Jean: Estudar design de game e de programação
+- Johnston: Fazer exercícios de programação
+- Ludimila: Estudar design de game e de programação
 
 ## 05/01/2021 às 14:15h
 O que fez ontem?
