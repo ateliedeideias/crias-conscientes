@@ -410,3 +410,25 @@ Tem algum impedimento?
 - Jean:
 - Johnston:
 - Ludimila:
+
+## 05/01/2021 às 14:15h
+O que fez ontem?
+- Sávio: 
+- George:
+- Jean:
+- Johnston:
+- Ludimila: 
+
+O que vai fazer hoje?
+- Sávio:
+- George:
+- Jean:
+- Johnston:
+- Ludimila:
+
+Tem algum impedimento?
+- Sávio:
+- George:
+- Jean:
+- Johnston:
+- Ludimila:
