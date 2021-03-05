@@ -378,7 +378,7 @@ O que vai fazer hoje?
 - Sávio: Começar estudo sobre programação de site
 - George: Começar estudo sobre programação de game
 
-## 03/01/2021 às 14:15h
+## 03/03/2021 às 14:15h
 O que fez ontem?
 - Todos: Participaram da reunião de equipe e fizeram exercícios de programação
 
@@ -389,7 +389,7 @@ O que vai fazer hoje?
 - Johnston: Fazer exercícios de programação
 - Ludimila: Estudar design de game
 
-## 04/01/2021 às 14:15h
+## 04/03/2021 às 14:15h
 O que fez ontem?
 - Sávio: Estudou programação
 - Jean: Estudou design de game e programação
@@ -402,7 +402,20 @@ O que vai fazer hoje?
 - Johnston: Fazer exercícios de programação
 - Ludimila: Estudar design de game e de programação
 
-## 05/01/2021 às 14:15h
+## 05/03/2021 às 14:15h
+O que fez ontem?
+- Sávio: Desenhou a pracinha do bairro da penha
+- George: Programou tarefas do jogo
+- Johnston: Estudou programação
+- Ludimila: Estudou game art e design
+
+O que vai fazer hoje?
+- Sávio: Desenhar a pracinha do bairro da penha
+- George: Programar tarefas do jogo
+- Johnston: Fazer exercícios de programação
+- Ludimila: Estudar game art
+
+## 08/03/2021 às 14:15h
 O que fez ontem?
 - Sávio: 
 - George:
