@@ -415,7 +415,11 @@ O que vai fazer hoje?
 - Johnston: Fazer exercícios de programação
 - Ludimila: Estudar game art
 
-## 08/03/2021 às 14:15h
+## 08/03/2021 às 14:30h
+O que vai fazer hoje?
+- Todos: Assistir aula de programação
+
+## 09/03/2021 às 14:15h
 O que fez ontem?
 - Sávio: 
 - George:
