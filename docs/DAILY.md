@@ -419,7 +419,18 @@ O que vai fazer hoje?
 O que vai fazer hoje?
 - Todos: Assistir aula de programação
 
-## 09/03/2021 às 14:15h
+## 09/03/2021 às 14:30h
+O que fez ontem?
+- Todos: Assistiram aula de programação
+
+O que vai fazer hoje?
+- Sávio: Desenhar a pracinha do bairro da penha
+- Johnston: Fazer exercícios de programação
+
+Tem algum impedimento?
+- Johnston: Problemas com instalação no Visual Code
+
+## 10/03/2021 às 14:15h
 O que fez ontem?
 - Sávio: 
 - George:
