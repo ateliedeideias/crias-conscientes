@@ -449,6 +449,20 @@ Tem algum impedimento?
 
 ## 11/03/2021 às 14:15h
 O que fez ontem?
+- Sávio: Desenhou um personagem
+- George: Estudou programação
+- Johnston: Estudou programação
+- Ludimila: Desenhou um personagem
+
+O que vai fazer hoje?
+- Todos: Assistir aula de programação
+- Sávio: Desenhar a pracinha do bairro da penha
+- George: Estudar programação
+- Johnston: Estudar programação
+- Ludimila: Desenhar a pracinha do bairro da penha
+
+## 12/03/2021 às 14:15h
+O que fez ontem?
 - Sávio: 
 - George:
 - Jean:
