@@ -463,6 +463,25 @@ O que vai fazer hoje?
 
 ## 12/03/2021 às 14:15h
 O que fez ontem?
+- Todos: Assistiram aula de programação
+- Jean: Desenhou os botões e layouts do game
+
+O que vai fazer hoje?
+- Sávio: Desenhar a pracinha do bairro da penha
+- George: Estudar programação e continuar o game
+- Jean: Assistir palestra sobre consumo consciente e desenhar a pracinha do bairro da penha
+- Johnston: Assistir palestra sobre consumo consciente e estudar programação
+- Ludimila: Assistir palestra sobre consumo consciente e desenhar um personagem
+
+Tem algum impedimento?
+- Sávio:
+- George:
+- Jean:
+- Johnston:
+- Ludimila:
+
+## 15/03/2021 às 14:15h
+O que fez ontem?
 - Sávio: 
 - George:
 - Jean:
