@@ -473,14 +473,21 @@ O que vai fazer hoje?
 - Johnston: Assistir palestra sobre consumo consciente e estudar programação
 - Ludimila: Assistir palestra sobre consumo consciente e desenhar um personagem
 
-Tem algum impedimento?
-- Sávio:
-- George:
-- Jean:
-- Johnston:
-- Ludimila:
+## 16/03/2021 às 14:20h
+O que fez ontem?
+- Todos: Assistiram aula de programação
+- Sávio: Desenhou a pracinha do bairro da penha
+- Jean: Estudou game design
+- Johnston: Estudou programação e continuou o game
+- Ludimila: Estudou sobre consumo consciente e game art
 
-## 15/03/2021 às 14:15h
+O que vai fazer hoje?
+- Sávio: Desenhar um personagem
+- Jean: Desenhar a pracinha do bairro da penha
+- Johnston: Estudar programação e continuar o game
+- Ludimila: Desenhar um personagem
+
+## 17/03/2021 às 14:15h
 O que fez ontem?
 - Sávio: 
 - George:
