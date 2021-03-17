@@ -489,6 +489,21 @@ O que vai fazer hoje?
 
 ## 17/03/2021 às 14:15h
 O que fez ontem?
+- Sávio: Desenhou a pracinha do bairro da penha
+- Johnston: Estudou programação
+- Ludimila: Desenhou a pracinha do bairro da penha
+
+O que vai fazer hoje?
+- Todos: Assistir aula de programação
+- Sávio: Terminar as perguntas
+- Johnston: Editou o game com as novas artes
+- Ludimila: Desenhar movimento dos personagens
+
+Tem algum impedimento?
+- George: Não está conseguindo participar das reuniões
+
+## 18/03/2021 às 14:15h
+O que fez ontem?
 - Sávio: 
 - George:
 - Jean:
