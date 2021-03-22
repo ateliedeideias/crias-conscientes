@@ -504,9 +504,9 @@ Tem algum impedimento?
 
 ## 22/03/2021 às 14:20h
 O que vai fazer hoje?
-- Sávio: Editar novas arte para o game
+- Sávio: Editar novas artes para o game
 - George: Realizar correções iniciais do game
-- Jean: Editar novas arte para o game
+- Jean: Editar novas artes para o game
 - Johnston: Programar perguntas no game
 - Ludimila: Assistir as oficinas
 
