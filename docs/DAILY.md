@@ -502,7 +502,15 @@ O que vai fazer hoje?
 Tem algum impedimento?
 - George: Não está conseguindo participar das reuniões
 
-## 18/03/2021 às 14:15h
+## 22/03/2021 às 14:20h
+O que vai fazer hoje?
+- Sávio: Editar o game com as novas arte
+- George: Realizar correções iniciais do game
+- Jean: Editar o game com as novas arte
+- Johnston: Programar perguntas no game
+- Ludimila: Assistir as oficinas
+
+## 23/03/2021 às 14:15h
 O que fez ontem?
 - Sávio: 
 - George:
