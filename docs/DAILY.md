@@ -510,7 +510,28 @@ O que vai fazer hoje?
 - Johnston: Programar perguntas no game
 - Ludimila: Assistir as oficinas
 
-## 23/03/2021 às 14:15h
+## 23/03/2021 às 14:20h
+O que fez ontem?
+- Todos: Assistiram aula de programação
+- Sávio: Editou novas artes para o game
+- George: Estudou sobre programação
+- Jean: Estudou sobre game art
+- Johnston: Estudou sobre programação
+- Ludimila: Desenhou a pracinha do bairro da penha
+
+O que vai fazer hoje?
+- Sávio: Encerrar novas artes para o game
+- George: Continuar edição do game
+- Jean: Editar novas artes para o game
+- Johnston: Continuar edição do game
+- Ludimila: Desenhar a pracinha do bairro da penha
+
+Tem algum impedimento?
+- George: Teve problemas com energia e internet
+- Jean: Teve problemas com energia e internet
+- Johnston: Teve problemas com energia e internet
+
+## 24/03/2021 às 14:15h
 O que fez ontem?
 - Sávio: 
 - George:
