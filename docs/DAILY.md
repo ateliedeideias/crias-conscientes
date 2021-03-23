@@ -520,6 +520,7 @@ O que fez ontem?
 - Ludimila: Desenhou a pracinha do bairro da penha
 
 O que vai fazer hoje?
+- Todos: Assistir aula de programação
 - Sávio: Encerrar novas artes para o game
 - George: Continuar edição do game
 - Jean: Editar novas artes para o game
