@@ -532,7 +532,23 @@ Tem algum impedimento?
 - Jean: Teve problemas com energia e internet
 - Johnston: Teve problemas com energia e internet
 
-## 24/03/2021 às 14:15h
+## 26/03/2021 às 14:15h
+O que fez ontem?
+- Sávio: Editou as perguntas e personagens
+- Jean: Editou as perguntas e personagens
+- Johnston: Assistiu aula de programação
+- Ludimila: Editou as perguntas e personagens
+
+O que vai fazer hoje?
+- Sávio: Editar as perguntas e personagens
+- Jean: Editar as perguntas e personagens
+- Johnston: Assistir aula de programação
+- Ludimila: Editar as perguntas e personagens
+
+Tem algum impedimento?
+- Johnston: Dificuldades com perguntas aleatórias
+
+## 29/03/2021 às 14:15h
 O que fez ontem?
 - Sávio: 
 - George:
