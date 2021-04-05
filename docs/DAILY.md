@@ -548,7 +548,22 @@ O que vai fazer hoje?
 Tem algum impedimento?
 - Johnston: Dificuldades com perguntas aleatórias
 
-## 29/03/2021 às 14:15h
+## 05/04/2021 às 14:15h
+O que vai fazer hoje?
+- Sávio:
+- George:
+- Jean:
+- Johnston:
+- Ludimila:
+
+Tem algum impedimento?
+- Sávio:
+- George:
+- Jean:
+- Johnston:
+- Ludimila:
+
+## 06/04/2021 às 14:15h
 O que fez ontem?
 - Sávio: 
 - George:
