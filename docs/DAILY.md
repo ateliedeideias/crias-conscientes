@@ -550,18 +550,17 @@ Tem algum impedimento?
 
 ## 05/04/2021 às 14:15h
 O que vai fazer hoje?
-- Sávio:
-- George:
-- Jean:
-- Johnston:
-- Ludimila:
+- Sávio: Editar as perguntas
+- George: Estudar programação
+- Jean: Editar interfaces e personagens
+- Johnston: Estudar programação
+- Ludimila: Concluir oficinas
 
 Tem algum impedimento?
-- Sávio:
-- George:
-- Jean:
-- Johnston:
-- Ludimila:
+- Todos: Decreto de isolamento e trabalho remoto
+- George: Sem computador em casa e erros na programação do game
+- Jean: Sem computador em casa
+- Ludimila: Sem computador em casa
 
 ## 06/04/2021 às 14:15h
 O que fez ontem?
