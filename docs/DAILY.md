@@ -564,14 +564,21 @@ Tem algum impedimento?
 
 ## 06/04/2021 às 14:20h
 O que vai fazer hoje?
-- Todos: Assistir a aula de programação
 - Sávio: Estudar programação
 - George: Programar integração com Vue e assistir aulas na Sarau
 - Jean: Editar interfaces e assistir aulas na Sarau
 - Johnston: Programar integração com Vue
 - Ludimila: Estudar programação e assistir aulas na Sarau
 
-## 07/04/2021 às 14:15h
+## 07/04/2021 às 14:20h
+O que fez ontem?
+- Sávio: Estudou programação
+- Johnston: Estudou programação
+
+O que vai fazer hoje?
+- Todos: Assistir a aula de programação
+
+## 08/04/2021 às 14:15h
 O que fez ontem?
 - Sávio: 
 - George:
