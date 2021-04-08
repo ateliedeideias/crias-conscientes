@@ -572,13 +572,23 @@ O que vai fazer hoje?
 
 ## 07/04/2021 às 14:20h
 O que fez ontem?
-- Sávio: Estudou programação
-- Johnston: Estudou programação
+- Todos: Estudou programação
 
 O que vai fazer hoje?
 - Todos: Assistir a aula de programação
 
 ## 08/04/2021 às 14:15h
+O que fez ontem?
+- Todos: Estudou sobre o território do bem
+
+O que vai fazer hoje?
+- Todos: Assistir a aula gravada de programação
+
+Tem algum impedimento?
+- Todos: Problemas com internet e a aula de programação foi suspensa
+- Jean: Teve uma indisposição de saúde, mas está melhor
+
+## 09/04/2021 às 14:15h
 O que fez ontem?
 - Sávio: 
 - George:
