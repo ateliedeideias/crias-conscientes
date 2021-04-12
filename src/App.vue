@@ -6,7 +6,12 @@
         <md-tab id="tab-equipe" md-label="A equipe"></md-tab>
       </md-tabs>
     </main>
-    <footer></footer>
+    <footer>
+      <p class="md-caption">Realização</p>
+      <a href="https://www.instagram.com/ateliedeideias.es/" target="_blank">
+        <img alt="Ateliê de Ideias" src="@/assets/atelie.png" width="96" height="96" />
+      </a>
+    </footer>
   </div>
 </template>
 
@@ -25,4 +30,10 @@ export default {
 </script>
 
 <style>
+footer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: column;
+}
 </style>
