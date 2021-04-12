@@ -4,14 +4,18 @@ O projeto foi desenvolvido durante o curso de tecnologias digitais oferecido pel
 ## Equipe de Programação e Desenvolvimento
 - George Cirilo do Nascimento
 - Leonardo Fábio Rodrigues Camargo
+- Johnston Ferreira Gomes
 
 ## Equipe de Desenho e Efeitos Visuais
 - Gustavo Mateus Viana
 - Sávio de Lima Varejão
+- Ludimila Brandão Falcão
+- Jean Henrique Cirilo do Nascimento
 
 ## Equipe de Conteúdo e Comunicação
 - Ingrid da Rocha Ricardo
 - Sávio de Lima Varejão
+- George Cirilo do Nascimento
 
 ## Orientadores
 - Ricardo Bonino
