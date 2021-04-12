@@ -9,11 +9,15 @@ import 'vue-material/dist/theme/default-dark.css';
 
 import routes from './routes';
 
+const router = new VueRouter({
+ routes
+});
+
 Vue.use(VueMeta);
 Vue.use(VueRouter);
 Vue.use(VueMaterial);
 
 new Vue({
  render: h => h(App),
- routes
+ router
 }).$mount('#app');
