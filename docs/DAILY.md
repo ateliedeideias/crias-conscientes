@@ -588,7 +588,15 @@ Tem algum impedimento?
 - Todos: Problemas com internet e a aula de programação foi suspensa
 - Jean: Teve uma indisposição de saúde, mas está melhor
 
-## 09/04/2021 às 14:15h
+## 12/04/2021 às 14:15h
+O que vai fazer hoje?
+- Sávio: Corrigir os personagens
+- George: Programar perguntas no game
+- Jean: Fazer interfaces do game
+- Johnston: Programar perguntas no game
+- Ludimila: Corrigir os personagens
+
+## 13/04/2021 às 14:15h
 O que fez ontem?
 - Sávio: 
 - George:
