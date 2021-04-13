@@ -49,4 +49,77 @@ footer {
   align-items: center;
   flex-direction: column;
 }
+.md-center {
+  text-align: center;
+}
+.md-body-1,
+.md-body-2 {
+  text-align: justify;
+  margin: auto;
+  width: 75%;
+}
+#logo,
+#description {
+  padding: 50px 10px;
+}
+#description {
+  padding-bottom: 150px;
+}
+#team,
+.member {
+  padding-bottom: 70px;
+}
+#about,
+#source {
+  padding-bottom: 30px;
+}
+.member {
+  min-height: 600px;
+}
+#about,
+#source,
+.member {
+  color: black;
+  background-color: white;
+}
+#about {
+  border-top: 100px solid #212121;
+}
+#source {
+  border-top: 100px solid #9e9e9e;
+}
+#about > .md-title,
+#source > .md-title,
+#team > .md-title {
+  line-height: 40px;
+  padding: 30px 10px;
+}
+#about > .md-body-2,
+#source > .md-body-2,
+#team > .md-body-2,
+.member > .md-body-2,
+.member > img {
+  padding: 15px 10px;
+}
+#about > .md-title,
+#source > .md-title,
+#team > .md-title,
+.member > .md-title  {
+  font-weight: bold;
+}
+#about > .md-title > span,
+#source > .md-title > span,
+#team > .md-title > span {
+  font-size: 24px;
+  padding: 10px 5px;
+}
+#about > .md-title > span, #team > .md-title > span {
+  background-color: var(--md-theme-default-accent);
+}
+#source > .md-title > span {
+  background-color: var(--md-theme-default-primary);
+}
+.member > .md-title {
+  text-decoration: solid underline var(--md-theme-default-accent) 3px;
+}
 </style>
