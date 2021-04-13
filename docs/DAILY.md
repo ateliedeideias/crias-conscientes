@@ -598,6 +598,24 @@ O que vai fazer hoje?
 
 ## 13/04/2021 às 14:15h
 O que fez ontem?
+- Sávio: Assistiu aulas no ambiente
+- George: Programou perguntas no game
+- Jean: Terminou as interfaces do game
+- Johnston: Programou perguntas no game
+- Ludimila: Corrigiu interfaces do game
+
+O que vai fazer hoje?
+- Sávio: Assistir aulas no ambiente
+- George: Programar perguntas no game
+- Jean: Assistir aulas no ambiente
+- Johnston: Programar perguntas no game
+- Ludimila: Fazer interfaces do game
+
+Tem algum impedimento?
+- Johnston: Dificuldade com a integração das perguntas com game
+
+## 14/04/2021 às 14:15h
+O que fez ontem?
 - Sávio: 
 - George:
 - Jean:
