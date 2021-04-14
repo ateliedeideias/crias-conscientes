@@ -616,6 +616,21 @@ Tem algum impedimento?
 
 ## 14/04/2021 às 14:15h
 O que fez ontem?
+- Sávio: Assistiu aulas no ambiente
+- George: Programou perguntas no game
+- Jean: Assistiu aulas no ambiente
+- Johnston: Programou perguntas no game
+- Ludimila: Corrigiu interfaces do game
+
+O que vai fazer hoje?
+- Sávio: Preparar apresentação
+- George: Programar perguntas no game
+- Jean: Preparar apresentação
+- Johnston: Programar perguntas no game
+- Ludimila: Preparar apresentação
+
+## 15/04/2021 às 14:15h
+O que fez ontem?
 - Sávio: 
 - George:
 - Jean:
