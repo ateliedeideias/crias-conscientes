@@ -1,5 +1,5 @@
 <template>
-  <div class="md-layout md-gutter">
+  <div class="md-layout md-gutter md-alignment-center">
     <section id="team" class="md-layout-item md-size-100">
       <h1 class="md-center md-title">
         CONHEÇA A EQUIPE DE <span>TECNOLOGIA DIGITAL</span>!
@@ -32,9 +32,12 @@
         Trabalho/Recurso PROCON Municipal.
       </p>
     </section>
-    <section id="savio" class="member md-center md-layout-item md-size-50">
+    <section
+      id="savio"
+      class="member md-center md-layout-item md-xlarge-size-50 md-large-size-50 md-medium-size-50 md-small-size-100 md-xsmall-size-100"
+    >
       <img alt="Sávio de Lima Varejão" src="@/assets/savio.png" width="312" />
-      <h1 class="md-center md-title">Sávio Varejão</h1>
+      <h1 class="md-title">Sávio Varejão</h1>
       <p class="md-body-2">
         Sávio tem uma fascinação pela tecnologia desde criança, principalmente
         por meio dos videogames - e hoje está trabalhando na criação de um, como
@@ -48,13 +51,16 @@
         com o que está por vir em sua formação.
       </p>
     </section>
-    <section id="george" class="member md-center md-layout-item md-size-50">
+    <section
+      id="george"
+      class="member md-center md-layout-item md-xlarge-size-50 md-large-size-50 md-medium-size-50 md-small-size-100 md-xsmall-size-100"
+    >
       <img
         alt="George Cirilo do Nascimento"
         src="@/assets/george.png"
         width="312"
       />
-      <h1 class="md-center md-title">George Cirilo</h1>
+      <h1 class="md-title">George Cirilo</h1>
       <p class="md-body-2">
         George, de Itararé, é graduando em Engenharia Elétrica, mas se tem uma
         coisa que ele sempre gostou é de estudar sobre tecnologia digital!
@@ -67,13 +73,16 @@
         qualidade e equipamentos de ponta.
       </p>
     </section>
-    <section id="ingrid" class="member md-center md-layout-item md-size-50">
+    <section
+      id="ingrid"
+      class="member md-center md-layout-item md-xlarge-size-50 md-large-size-50 md-medium-size-50 md-small-size-100 md-xsmall-size-100"
+    >
       <img
         alt="Ingrid da Rocha Ricardo"
         src="@/assets/ingrid.png"
         width="312"
       />
-      <h1 class="md-center md-title">Ingrid Rocha</h1>
+      <h1 class="md-title">Ingrid Rocha</h1>
       <p class="md-body-2">
         Fotógrafa, Artesã, Produtora, Bacharel em Psicologia e Técnica em
         Multimídia: Ingrid é mais uma jovem de Itararé cheia de sonhos e
@@ -86,13 +95,16 @@
         periferia.
       </p>
     </section>
-    <section id="leonardo" class="member md-center md-layout-item md-size-50">
+    <section
+      id="leonardo"
+      class="member md-center md-layout-item md-xlarge-size-50 md-large-size-50 md-medium-size-50 md-small-size-100 md-xsmall-size-100"
+    >
       <img
         alt="Leonardo Fábio Rodrigues Camargo"
         src="@/assets/leonardo.png"
         width="312"
       />
-      <h1 class="md-center md-title">Leonardo Camargo</h1>
+      <h1 class="md-title">Leonardo Camargo</h1>
       <p class="md-body-2">
         Quase tudo nos dias de hoje necessita de um sistema de informação; se
         você não tem, é deixado para trás.” Esse é o lema de Leonardo, jovem
@@ -107,9 +119,12 @@
         geral.”
       </p>
     </section>
-    <section id="gustavo" class="member md-center md-layout-item md-size-50">
+    <section
+      id="gustavo"
+      class="member md-center md-layout-item md-xlarge-size-50 md-large-size-50 md-medium-size-50 md-small-size-100 md-xsmall-size-100"
+    >
       <img alt="Gustavo Mateus Viana" src="@/assets/gustavo.png" width="312" />
-      <h1 class="md-center md-title">Gustavo Bello</h1>
+      <h1 class="md-title">Gustavo Bello</h1>
       <p class="md-body-2">
         Diretamente de São Benedito, Gustavo é comunicador nato e acredita no
         poder de transformação que a Tecnologia Digital tem. Seu objetivo é ser
@@ -125,15 +140,15 @@
     </section>
     <section
       id="jean"
-      class="member md-center md-layout-item md-size-50"
+      class="member md-center md-layout-item md-xlarge-size-50 md-large-size-50 md-medium-size-50 md-small-size-100 md-xsmall-size-100"
     ></section>
     <section
       id="johnston"
-      class="member md-center md-layout-item md-size-50"
+      class="member md-center md-layout-item md-xlarge-size-50 md-large-size-50 md-medium-size-50 md-small-size-100 md-xsmall-size-100"
     ></section>
     <section
       id="ludimila"
-      class="member md-center md-layout-item md-size-50"
+      class="member md-center md-layout-item md-xlarge-size-50 md-large-size-50 md-medium-size-50 md-small-size-100 md-xsmall-size-100"
     ></section>
   </div>
 </template>

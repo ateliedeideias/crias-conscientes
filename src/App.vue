@@ -54,7 +54,6 @@ footer {
 }
 .md-body-1,
 .md-body-2 {
-  text-align: justify;
   margin: auto;
   width: 75%;
 }
@@ -74,7 +73,7 @@ footer {
   padding-bottom: 30px;
 }
 .member {
-  min-height: 600px;
+  min-height: 800px;
 }
 #about,
 #source,
@@ -104,7 +103,7 @@ footer {
 #about > .md-title,
 #source > .md-title,
 #team > .md-title,
-.member > .md-title  {
+.member > .md-title {
   font-weight: bold;
 }
 #about > .md-title > span,
@@ -113,7 +112,8 @@ footer {
   font-size: 24px;
   padding: 10px 5px;
 }
-#about > .md-title > span, #team > .md-title > span {
+#about > .md-title > span,
+#team > .md-title > span {
   background-color: var(--md-theme-default-accent);
 }
 #source > .md-title > span {
@@ -121,5 +121,8 @@ footer {
 }
 .member > .md-title {
   text-decoration: solid underline var(--md-theme-default-accent) 3px;
+}
+.member > .md-body-2 {
+  text-align: left;
 }
 </style>

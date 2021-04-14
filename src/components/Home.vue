@@ -1,5 +1,5 @@
 <template>
-  <div class="md-layout md-gutter">
+  <div class="md-layout md-gutter md-alignment-center">
     <section id="logo" class="md-center md-layout-item md-size-100">
       <img alt="Crias Conscientes" src="@/assets/logo.png" width="256" />
       <p class="md-title">Um game sobre consumo consciente!!</p>
