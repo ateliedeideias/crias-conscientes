@@ -3,7 +3,9 @@
     <section id="logo" class="md-center md-layout-item md-size-100">
       <img alt="Crias Conscientes" src="@/assets/logo.png" width="256" />
       <p class="md-title">Um game sobre consumo consciente!!</p>
-      <md-button class="md-raised md-accent">Jogue Agora</md-button>
+      <router-link to="/jogar">
+        <md-button class="md-raised md-accent">Jogue Agora</md-button>
+      </router-link>
     </section>
     <section id="description" class="md-layout-item md-size-100">
       <p class="md-body-1">
