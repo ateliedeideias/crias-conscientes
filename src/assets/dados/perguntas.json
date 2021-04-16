@@ -1,0 +1,197 @@
+[
+    {
+         "pergunta": "Quais dessas indústrias você acha que é responsável por consumir mais energia e produzir cerca de 20% do lixo em todo mundo?",
+         "textoErrado": "Que pena você errou, mas o correto seria a indústria de roupas, também vale lembrar a importância de doa-lás.",
+         "textoCerto": "Você está certo, porque isso que é importante, doar as roupas que pouco usamos, assim ajudamos o nosso planeta!.",
+         "nivel": 1,
+         "origem": "brechó",
+         "respostas":[
+             "A indústria automobilística.",
+             "A indústria das roupas.",
+             "A indústria da alimentação."
+         ],
+         "correta": 2
+         },
+         {
+         "pergunta": "Como um brechó pode ajudar na sua comunidade?",
+         "textoErrado": "Você errou, o correto seria o ato de se conscientizar.",
+         "textoCerto": "Você está certo, porque isso é ter consciência das próprias ações.",
+         "nivel": 2,
+         "origem": "brechó",
+         "respostas":[
+             "O brechó é uma maneira de tornar a moda mais sustentável, reaproveitando as roupas e reduzindo o consumo de peças novas.",
+             "O brechó ajuda pois sem ele não seria possível a movimentação de comida na comunidade.",
+             "Ele ajuda muito na produção de brinquedos para as crianças."
+         ],
+         "correta": 1 
+         },
+         {
+         "pergunta": "Quais os malefícios do plástico?",
+         "textoErrado": "Você errou, o correto seria o ato de se conscientizar.",
+         "textoCerto": "Você está certo, porque isso é ter consciência das próprias ações.",
+         "nivel": 3,
+         "origem": "brechó",
+         "respostas":[
+             "Faz mal aos animais e bem à saúde humana.",
+             "Demora anos para se decompor, malefícios à saúde humana, aos animais e ao meio ambiente",
+             "É um material que pode ser moldado e aplicado em inúmeras possibilidades de uso."
+         ],
+         "correta": 2 
+         },
+         {
+         "pergunta": "O que define um perfil de consumo?",
+         "textoErrado": "Você errou, o correto seria o ato de se conscientizar.",
+         "textoCerto": "Você está certo, porque isso é ter consciência das próprias ações.",
+         "nivel": 1,
+         "origem": "parquinho",
+         "respostas":[
+             "Quanto de dinheiro uma pessoa tem pra gastar.",
+             "Se define pela classe social de cada pessoa. classe D (pouco dinheiro) classe A (muito dinheiro).",
+             "Pela forma que a pessoa expressa o que ela pensa (o que compro, preciso comprar isso, o que esse produto vai impactar)."
+         ],
+         "correta": 3 
+         },
+         {
+         "pergunta": "Porque preservar os brinquedos do parque?",
+         "textoErrado": "Você errou, o correto seria o ato de se conscientizar.",
+         "textoCerto": "Você está certo, porque isso é ter consciência das próprias ações.",
+         "nivel": 2,
+         "origem": "parquinho",
+         "respostas":[
+             "Todo brinquedo ou objeto tem o seu valor e todo um trabalho por trás (mão de obra).",
+             "Pois eles são legais e divertidos.",
+             "Pois sem eles o mundo ficaria menos divertido."
+         ],
+         "correta": 1 
+         },
+         {
+             "pergunta": "Você sabe o que é consumo consciente?",
+         "textoErrado": "Você errou, o correto seria o ato de se conscientizar.",
+         "textoCerto": "Você está certo, porque isso é ter consciência das próprias ações.",
+         "nivel": 3,
+         "origem": "parquinho",
+         "respostas":[
+             "É o ato de adquirir e usar bens de consumo, alimentos e recursos naturais de forma a não exceder as necessidades.",
+             "Se dá quando você compra inúmeras coisas desnecessárias.",
+             "É o ato de comprar coisas que deixam sua vida mais confortável."
+         ],
+         "correta": 1
+         },
+         {
+         "pergunta": "Seu João do Hot Dog pesquisou sobre o consumo consciente e achou uma forma de economizar dinheiro e ter produtos naturais em sua barraca. Marque a alternativa que mais se encaixa?",
+         "textoErrado": "Você errou, o correto seria o ato de se conscientizar.",
+         "textoCerto": "Você está certo, porque isso é ter consciência das próprias ações.",
+         "nivel": 2,
+         "origem": "hotdog",
+         "respostas":[
+             "Capinar.",
+             "Criou uma Horta doméstica para aproveitar seus recursos naturais.",
+             "Lavar o carro com o balde."
+         ],
+         "correta": 2 
+         },
+         {
+         "pergunta": "Qual a forma Seu João encontrou de reduzir o lixo orgânico?",
+         "textoErrado": "Você errou, o correto seria o ato de se conscientizar.",
+         "textoCerto": "Você está certo, porque isso é ter consciência das próprias ações.",
+         "nivel": 2,
+         "origem": "hotdog",
+         "respostas":[
+             "Reciclagem do plástico.",
+             "Compostagem: Usar sobras de alimento para produzir adubo.",
+             "Jogar o lixo orgânico em uma lixeira separada."
+         ],
+         "correta": 2 
+         },
+         {
+         "pergunta": "O que são agrotóxicos?",
+         "textoErrado": "Você errou, o correto seria o ato de se conscientizar.",
+         "textoCerto": "Você está certo, porque isso é ter consciência das próprias ações.",
+         "nivel": 2,
+         "origem": "hotdog",
+         "respostas":[
+             "São produto usado na construção civíl.",
+             "São produtos usados para criação de vacinas.",
+             "São produtos químicos, físicos ou biológicos utilizados nos setores de produção agrícola."
+         ],
+         "correta": 3 
+         },
+         {
+         "pergunta": "Você sabe o que é consumo consciente?",
+         "textoErrado": "Você errou, o correto seria o ato de se conscientizar.",
+         "textoCerto": "Você está certo, porque isso é ter consciência das próprias ações.",
+         "nivel": 2,
+         "origem": "campodefutebol",
+         "respostas":[
+             "resposta 1",
+             "resposta 2",
+             "resposta 3"
+         ],
+         "correta": 1 
+         },
+         {
+             "pergunta": "Você sabe o que é consumo consciente?",
+         "textoErrado": "Você errou, o correto seria o ato de se conscientizar.",
+         "textoCerto": "Você está certo, porque isso é ter consciência das próprias ações.",
+         "nivel": 3,
+         "origem": "campodefutebol",
+         "respostas":[
+             "resposta 1",
+             "resposta 2",
+             "resposta 3"
+         ],
+         "correta": 2
+         },
+         {
+         "pergunta": "Você sabe o que é consumo consciente?",
+         "textoErrado": "Você errou, o correto seria o ato de se conscientizar.",
+         "textoCerto": "Você está certo, porque isso é ter consciência das próprias ações.",
+         "nivel": 3,
+         "origem": "campodefutebol",
+         "respostas":[
+             "resposta 1",
+             "resposta 2",
+             "resposta 3"
+         ],
+         "correta": 3 
+         },
+         {
+         "pergunta": " Você saber o que cada cor da lixeira representa?",
+         "textoErrado": "Você errou, o correto seria o ato de se conscientizar.",
+         "textoCerto": "Você está certo, porque isso é ter consciência das próprias ações.",
+         "nivel": 1,
+         "origem": "lixeira",
+         "respostas":[
+             "Azul: Papéis, Vermelho: Plásticos, Verde: Vidros, Amarelo: Metais e Marrom: Orgânico.",
+             "Azul: Plásticos, Vermelho: Metais, Verde: Orgânico, Amarelo: Vidros e Marrom: Papéis.",
+             "Azul: Orgânico, Vermelho: Vidros, Verde: Plásticos, Amarelo: Papéis e Marrom: Metais."
+         ],
+         "correta": 2 
+         },
+         {
+         "pergunta": "Você sabe o que é consumo consciente?",
+         "textoErrado": "Você errou, o correto seria o ato de se conscientizar.",
+         "textoCerto": "Você está certo, porque isso é ter consciência das próprias ações.",
+         "nivel": 2,
+         "origem": "lixeira",
+         "respostas":[
+             "resposta 1",
+             "resposta 2",
+             "resposta 3"
+         ],
+         "correta": 3 
+         },
+         {
+         "pergunta": "Você sabe o que é consumo consciente?",
+         "textoErrado": "Você errou, o correto seria o ato de se conscientizar.",
+         "textoCerto": "Você está certo, porque isso é ter consciência das próprias ações.",
+         "nivel": 3,
+         "origem": "lixeira",
+         "respostas":[
+             "resposta 1",
+             "resposta 2",
+             "resposta 3"
+         ],
+         "correta": 1
+    }
+ ]   
