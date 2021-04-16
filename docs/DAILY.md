@@ -646,25 +646,18 @@ O que vai fazer hoje?
 
 ## 16/04/2021 às 14:15h
 O que fez ontem?
-- Sávio:
-- George:
-- Jean:
-- Johnston:
-- Ludimila: 
+- Sávio: Elaborou a apresentação
+- George: Corrigiu erros no game
+- Jean: Elaborou a apresentação
+- Johnston: Corrigiu erros no game
+- Ludimila: Elaborou a apresentação
 
 O que vai fazer hoje?
-- Sávio:
-- George:
+- Sávio: Elaborar a apresentação
+- George: Corrigir a parte visual do game
 - Jean: Elaborar a apresentação
-- Johnston:
-- Ludimila:
-
-Tem algum impedimento?
-- Sávio:
-- George:
-- Jean:
-- Johnston:
-- Ludimila:
+- Johnston: Corrigir a parte visual do game
+- Ludimila: Elaborar a apresentação
 
 ## 19/04/2021 às 14:15h
 O que fez ontem?
