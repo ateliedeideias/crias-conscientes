@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <div id="header" v-bind:class="{ visible: visible, invisible: !visible }">
+    <div id="header" v-if="visible">
       <md-tabs md-sync-route>
         <md-tab id="tab-home" md-label="Sobre o jogo" to="/" exact></md-tab>
         <md-tab id="tab-team" md-label="A equipe" to="/team"></md-tab>
@@ -10,7 +10,7 @@
     <div
       id="footer"
       class="md-bottom-bar md-theme-default md-type-fixed"
-      v-bind:class="{ visible: visible, invisible: !visible }"
+      v-if="visible"
     >
       <p class="md-caption">Realização</p>
       <a href="https://www.instagram.com/ateliedeideias.es/" target="_blank">
