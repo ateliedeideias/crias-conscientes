@@ -25,9 +25,6 @@ export default {
             textoResultado: "",
         };
     },
-    created: function() {
-        console.log('Total perguntas', this.totalPerguntas, this.perguntas);
-    },
     computed: {
         totalPerguntas: function() {
          return this.perguntas.length;
@@ -53,12 +50,10 @@ export default {
         },
         continuar() {
             if (this.exibirUltimoResultado){
-                console.log("Resultado para nunustudio", this.totalAcertos);
                 this.$emit("fimPerguntas", this.totalAcertos);
                 return;
             }
 
-            console.log ("Continuar");
             this.numeroPergunta++;
             this.exibirPergunta = true;
         }

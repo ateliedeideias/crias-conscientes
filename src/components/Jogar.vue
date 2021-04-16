@@ -2,7 +2,7 @@
   <div>
     <div
       id="fullscreen"
-      v-bind:class="{ visible: visible, invisible: !visible }"
+      v-if="visible"
       v-on:click="fullscreen"
     >
       <img alt="fullscreen" src="../assets/fullscreen.png" />
@@ -10,7 +10,7 @@
     <div
       id="logo"
       class="md-center md-layout-item md-size-100"
-      v-bind:class="{ visible: !visible, invisible: visible }"
+      v-if="!visible"
     >
       <img alt="Crias Conscientes" src="@/assets/logo.png" width="256" />
       <p class="md-title">Carregando...</p>
@@ -74,6 +74,7 @@ export default {
       script.src = this.nunu;
       document.head.appendChild(script);
       document.body.onresize = () => {
+        console.log('Resize');
         this.app.resize();
       };
     }
@@ -92,15 +93,12 @@ export default {
         this.perguntasValidas.length > this.totalPerguntas
           ? this.totalPerguntas
           : this.perguntasValidas.length;
-      console.log("Maximo perguntas", maximoPerguntas);
 
       while (perguntas.length < maximoPerguntas) {
         const aleatorio = Math.random();
         const numeroFinal = Math.floor(aleatorio * maximo);
-        console.log("Numero final", numeroFinal);
 
         if (controlePerguntas.indexOf(numeroFinal) === -1) {
-          console.log("Aleatório", numeroFinal);
           perguntas.push(this.perguntasValidas[numeroFinal]);
           controlePerguntas.push(numeroFinal);
         }
@@ -115,8 +113,8 @@ export default {
     },
     dialog(data) {
       console.log(data);
-      //this.nivel = data.nivel; // nunu deve informar a fase
-      //this.origem = data.origem; // nunu deve informar a origem (lixeira, brecho, parquinho, etc....)
+      this.nivel = data.nivel; // nunu deve informar a fase
+      this.origem = data.type; // nunu deve informar a origem (lixeira, brecho, parquinho, etc....)
       this.exibirPerguntas = true;
     },
 
@@ -124,7 +122,8 @@ export default {
       console.log("Esconder dialogo");
       this.exibirPerguntas = false;
       this.app.sendData({
-        number: this.nivel,
+        type: this.origem,
+        nivel: this.nivel,
         count: totalAcertos,
       });
     },
