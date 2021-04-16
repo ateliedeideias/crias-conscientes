@@ -6,7 +6,7 @@
           <router-view></router-view>
         </md-tab>
         <md-tab id="tab-team" md-label="A equipe" to="/team">
-          <router-view></router-view>
+        <!--  <router-view></router-view> -->
         </md-tab>
       </md-tabs>
     </main>
