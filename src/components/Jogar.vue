@@ -49,7 +49,7 @@ export default {
 
       perguntas: jsonPerguntas,
       nivel: 2,
-      origem: "campodefutebol",
+      origem: "futebol",
       totalPerguntas: 3,
       exibirPerguntas: false,
     };
@@ -101,8 +101,8 @@ export default {
     },
     dialog(data) {
       console.log(data);
-      //this.nivel = data.nivel; // nunu deve informar a fase
-      //this.origem = data.origem; // nunu deve informar a origem (lixeira, brecho, parquinho, etc....)
+      this.nivel = data.nivel; // nunu deve informar a fase
+      this.origem = data.type; // nunu deve informar a origem (lixeira, brecho, parquinho, etc....)
       this.exibirPerguntas = true;
     },
 
@@ -110,7 +110,8 @@ export default {
       console.log("Esconder dialogo");
       this.exibirPerguntas = false;
       this.app.sendData({
-          number: this.nivel,
+          type: this.origem,
+          nivel: this.nivel,
           count: totalAcertos,
         });
     }

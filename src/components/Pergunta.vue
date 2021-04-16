@@ -30,7 +30,7 @@ export default {
     },
     computed: {
         totalPerguntas: function() {
-         return this.perguntas.length;
+            return this.perguntas.length;
         },
         perguntaAtual: function() {
             if (this.numeroPergunta > this.totalPerguntas) return null;
