@@ -1,38 +1,45 @@
 <template>
-  <main id="app">
+  <div>
     <div
       id="fullscreen"
-      v-bind:class="{ visible: visible, invisible: !visible }"
+      v-if="visible"
       v-on:click="fullscreen"
     >
       <img alt="fullscreen" src="../assets/fullscreen.png" />
     </div>
-    <div id="logo" v-bind:class="{ visible: !visible, invisible: visible }">
-      <img alt="logo" src="../assets/logo.png" />
-      <p>Carregando...</p>
+    <div
+      id="logo"
+      class="md-center md-layout-item md-size-100"
+      v-if="!visible"
+    >
+      <img alt="Crias Conscientes" src="@/assets/logo.png" width="256" />
+      <p class="md-title">Carregando...</p>
     </div>
     <div id="rotate">Rotate</div>
-
     <md-dialog :md-active.sync="exibirPerguntas" :md-fullscreen="false">
       <div class="pergunta">
-          <Pergunta :perguntas="perguntasAleatorias" @fimPerguntas="fimPerguntas" />
+        <Pergunta
+          :perguntas="perguntasAleatorias"
+          @fimPerguntas="fimPerguntas"
+        />
       </div>
     </md-dialog>
-  </main>
+  </div>
 </template>
 
 <script>
-import Pergunta from './Pergunta.vue';
-import jsonPerguntas from '../assets/dados/perguntas.json';
+import Pergunta from "./Pergunta.vue";
+import jsonPerguntas from "../assets/dados/perguntas.json";
 
 export default {
   name: "App",
   components: {
-    Pergunta
+    Pergunta,
   },
   data() {
     return {
       app: {
+        isLoad: false,
         resize: () => {
           return Promise.resolve();
         },
@@ -46,7 +53,6 @@ export default {
       game: require("../assets/app.nsp"),
       nunu: require("../assets/nunu.min.njs"),
       visible: false,
-
       perguntas: jsonPerguntas,
       nivel: 2,
       origem: "futebol",
@@ -55,44 +61,50 @@ export default {
     };
   },
   mounted() {
-    let script = document.createElement("script");
-    script.onload = async () => {
-      this.app = new window.Nunu.App();
-      this.app.setOnDataReceived(this.dialog);
-      await this.app.loadRunProgram(this.game);
-      this.visible = true;
-    };
-    script.async = true;
-    script.src = this.nunu;
-    document.head.appendChild(script);
-    document.body.onresize = () => {
-      this.app.resize();
-    };
+    if (!this.app.isLoad) {
+      let script = document.createElement("script");
+      script.onload = async () => {
+        this.app = new window.Nunu.App();
+        this.app.isLoad = true;
+        this.app.setOnDataReceived(this.dialog);
+        await this.app.loadRunProgram(this.game);
+        this.visible = true;
+      };
+      script.async = true;
+      script.src = this.nunu;
+      document.head.appendChild(script);
+      document.body.onresize = () => {
+        console.log('Resize');
+        this.app.resize();
+      };
+    }
   },
   computed: {
-    perguntasValidas: function() {
-      return this.perguntas.filter(p => p.nivel===this.nivel&&p.origem===this.origem);
+    perguntasValidas: function () {
+      return this.perguntas.filter(
+        (p) => p.nivel === this.nivel && p.origem === this.origem
+      );
     },
-    perguntasAleatorias: function() {
+    perguntasAleatorias: function () {
       const controlePerguntas = [];
       const perguntas = [];
       const maximo = this.perguntasValidas.length;
-      const maximoPerguntas = this.perguntasValidas.length > this.totalPerguntas ? this.totalPerguntas : this.perguntasValidas.length;
-      console.log('Maximo perguntas', maximoPerguntas);
+      const maximoPerguntas =
+        this.perguntasValidas.length > this.totalPerguntas
+          ? this.totalPerguntas
+          : this.perguntasValidas.length;
 
-      while(perguntas.length < maximoPerguntas) {
+      while (perguntas.length < maximoPerguntas) {
         const aleatorio = Math.random();
         const numeroFinal = Math.floor(aleatorio * maximo);
-        console.log('Numero final', numeroFinal);
 
-        if (controlePerguntas.indexOf(numeroFinal) === -1){
-          console.log("Aleatório", numeroFinal);
+        if (controlePerguntas.indexOf(numeroFinal) === -1) {
           perguntas.push(this.perguntasValidas[numeroFinal]);
           controlePerguntas.push(numeroFinal);
         }
       }
       return perguntas;
-    } 
+    },
   },
   methods: {
     fullscreen(event) {
@@ -115,20 +127,12 @@ export default {
           count: totalAcertos,
         });
     }
+
   },
 };
 </script>
 
 <style scoped>
-body {
-  background-color: #222222;
-}
-.visible {
-  visibility: visible;
-}
-.invisible {
-  visibility: hidden;
-}
 #fullscreen {
   position: absolute;
   z-index: 10000;
@@ -140,26 +144,10 @@ body {
   opacity: 1;
 }
 #fullscreen > img {
-  position: absolute;
   cursor: pointer;
   opacity: 0.4;
   width: 25px;
   height: 25px;
-}
-#logo {
-  position: absolute;
-  width: 50%;
-  left: 25%;
-  top: 35%;
-}
-#logo > img {
-  width: 100%;
-}
-#logo > p {
-  color: #ffffff;
-  margin-top: 25px;
-  font-size: medium;
-  text-align: center;
 }
 #rotate {
   color: #ffffff;

@@ -31,6 +31,7 @@ export default {
 
 <style>
 .botton-resposta {
+    color: black;
     background-color: darkcyan;
     padding: 10px;
     border-color: #000;    
@@ -39,13 +40,13 @@ export default {
     border-style: solid;
     border-radius: 10px;
     text-align: center;
-    text-color: black;
     font-size: 15px;
     font-weight: bold;
     line-height: 25px;
     overflow: auto;
 }
 .botton-resposta-filho {
+    color: black;
     background-color: darkcyan;
     padding: 15px;
     border-color: #000;    
@@ -54,7 +55,6 @@ export default {
     border-style: solid;
     border-radius: 10px;
     text-align: center;
-    text-color: black;
     font-size: 15px;
     font-weight: bold;
     line-height: 25px;
