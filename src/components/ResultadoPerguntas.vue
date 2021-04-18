@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="botton-resposta">
         <b>{{textoResultado}}</b><br /><br />
         <div v-if="exibirUltimoResultado">
             <span v-if="totalAcertos === 3">Uhuu, Você acertou TODAS, Parabéns!</span>
@@ -8,7 +8,7 @@
             <span v-if="totalAcertos === 0">Que pana, você não acertou nenhuma questão.</span>
             <br /><br />
         </div>
-        <md-button v-on:click="continuar()">{{textoBotao}}</md-button>
+        <md-button class="botton-resposta-filho" v-on:click="continuar()">{{textoBotao}}</md-button>
     </div>
 </template>
 
@@ -28,3 +28,37 @@ export default {
     }
 }
 </script>
+
+<style>
+.botton-resposta {
+    background-color: darkcyan;
+    padding: 10px;
+    border-color: #000;    
+    border-width: 3px; 
+    border-bottom-width: 6px;   
+    border-style: solid;
+    border-radius: 10px;
+    text-align: center;
+    text-color: black;
+    font-size: 15px;
+    font-weight: bold;
+    line-height: 25px;
+    overflow: auto;
+}
+.botton-resposta-filho {
+    background-color: darkcyan;
+    padding: 15px;
+    border-color: #000;    
+    border-width: 3px; 
+    border-bottom-width: 6px;   
+    border-style: solid;
+    border-radius: 10px;
+    text-align: center;
+    text-color: black;
+    font-size: 15px;
+    font-weight: bold;
+    line-height: 25px;
+    overflow: auto;
+}
+
+</style>

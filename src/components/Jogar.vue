@@ -55,7 +55,7 @@ export default {
       visible: false,
       perguntas: jsonPerguntas,
       nivel: 2,
-      origem: "campodefutebol",
+      origem: "futebol",
       totalPerguntas: 3,
       exibirPerguntas: false,
     };
