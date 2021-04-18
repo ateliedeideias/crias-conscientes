@@ -1,16 +1,17 @@
 <template>
   <div id="app">
-    <main>
+    <div id="header" v-if="visible">
       <md-tabs md-sync-route>
-        <md-tab id="tab-home" md-label="Sobre o jogo" to="/" exact>
-          <router-view></router-view>
-        </md-tab>
-        <md-tab id="tab-team" md-label="A equipe" to="/team">
-        <!--  <router-view></router-view> -->
-        </md-tab>
+        <md-tab id="tab-home" md-label="Sobre o jogo" to="/" exact></md-tab>
+        <md-tab id="tab-team" md-label="A equipe" to="/team"></md-tab>
       </md-tabs>
-    </main>
-    <footer class="md-bottom-bar md-theme-default md-type-fixed">
+    </div>
+    <router-view></router-view>
+    <div
+      id="footer"
+      class="md-bottom-bar md-theme-default md-type-fixed"
+      v-if="visible"
+    >
       <p class="md-caption">Realização</p>
       <a href="https://www.instagram.com/ateliedeideias.es/" target="_blank">
         <img
@@ -20,7 +21,7 @@
           height="96"
         />
       </a>
-    </footer>
+    </div>
   </div>
 </template>
 
@@ -35,19 +36,29 @@ export default {
       { "http-equiv": "X-UA-Compatible", content: "ie=edge" },
     ],
   },
+  data() {
+    return {
+      visible: true,
+    };
+  },
+  created() {
+    this.visible = this.$route.path !== "/jogar";
+  },
+  updated() {
+    this.visible = this.$route.path !== "/jogar";
+  },
 };
 </script>
 
 <style>
-main {
-  min-height: 800px;
+body {
+  background-color: #222222;
 }
-footer {
-  padding: 10px;
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
-  flex-direction: column;
+.visible {
+  visibility: visible;
+}
+.invisible {
+  visibility: hidden;
 }
 .md-center {
   text-align: center;
@@ -56,6 +67,13 @@ footer {
 .md-body-2 {
   margin: auto;
   width: 75%;
+}
+#footer {
+  padding: 10px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: column;
 }
 #logo,
 #description {
