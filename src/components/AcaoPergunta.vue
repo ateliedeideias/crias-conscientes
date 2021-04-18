@@ -20,7 +20,8 @@
   width: 50%;
 }
 .pergunta {
-  background-color: #7B68EE;
+  color:#000000;
+  background-color: #00d0c2;
   padding: 10px;
   margin-right: 15px;
   border-color: #000;    
@@ -39,15 +40,19 @@
   overflow: auto;
 }
 .container-respostas > div:first-child {
+  color: #000000;
   background-color: #3acf67;
 }
 .container-respostas > div:nth-child(2) {
-  background-color: #f2418b;
+  color: #000000;
+  background-color: #3acf67;
 }
 .container-respostas > div:nth-child(3) {
-  background-color: #f87821;
+  color: #000000;
+  background-color: #3acf67;
 }
 .resposta {
+  color:darkgreen;
   cursor: pointer;
   padding: 10px;
   margin-bottom: 30px;
