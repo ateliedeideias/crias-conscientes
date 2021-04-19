@@ -2,13 +2,6 @@
   <div id="app">
     <div id="header" v-if="visible">
       <md-tabs md-sync-route>
-        
-        <md-tab id="tab-home" md-label="Sobre o jogo" to="/" exact>
-          <router-view></router-view>
-        </md-tab>
-        <md-tab id="tab-team" md-label="A equipe" to="/team">
-        <!--  <router-view></router-view> -->
-        </md-tab>
         <md-tab id="tab-home" md-label="Sobre o jogo" to="/" exact></md-tab>
         <md-tab id="tab-team" md-label="A equipe" to="/team"></md-tab>
       </md-tabs>
