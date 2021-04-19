@@ -122,11 +122,12 @@ export default {
       console.log("Esconder dialogo");
       this.exibirPerguntas = false;
       this.app.sendData({
-        type: this.origem,
-        nivel: this.nivel,
-        count: totalAcertos,
-      });
-    },
+          type: this.origem,
+          nivel: this.nivel,
+          count: totalAcertos,
+        });
+    }
+
   },
 };
 </script>

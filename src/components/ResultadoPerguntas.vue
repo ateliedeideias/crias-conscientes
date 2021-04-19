@@ -31,7 +31,8 @@ export default {
 
 <style>
 .botton-resposta {
-    background-color: darkcyan;
+    color: black;
+    background-color: #00d0c2;
     padding: 10px;
     border-color: #000;    
     border-width: 3px; 
@@ -39,25 +40,23 @@ export default {
     border-style: solid;
     border-radius: 10px;
     text-align: center;
-    text-color: black;
     font-size: 15px;
     font-weight: bold;
     line-height: 25px;
     overflow: auto;
 }
 .botton-resposta-filho {
-    background-color: darkcyan;
-    padding: 15px;
-    border-color: #000;    
+    color: #000000;
+    background-color: #000000;
+    border-color: rgb(0, 0, 0);    
     border-width: 3px; 
     border-bottom-width: 6px;   
     border-style: solid;
     border-radius: 10px;
     text-align: center;
-    text-color: black;
-    font-size: 15px;
+    font-size: 12px;
     font-weight: bold;
-    line-height: 25px;
+    line-height: 50%;
     overflow: auto;
 }
 
