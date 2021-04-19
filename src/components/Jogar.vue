@@ -1,21 +1,13 @@
 <template>
   <div>
-    <div
-      id="fullscreen"
-      v-if="visible"
-      v-on:click="fullscreen"
-    >
+    <div id="fullscreen" v-if="visible" v-on:click="fullscreen">
       <img alt="fullscreen" src="../assets/fullscreen.png" />
     </div>
-    <div
-      id="logo"
-      class="md-center md-layout-item md-size-100"
-      v-if="!visible"
-    >
+    <div id="logo" class="md-center md-layout-item md-size-100" v-if="!visible">
       <img alt="Crias Conscientes" src="@/assets/logo.png" width="256" />
       <p class="md-title">Carregando...</p>
     </div>
-    <div id="rotate">Rotate</div>
+    <div id="rotate" class="md-title">Rotate</div>
     <md-dialog :md-active.sync="exibirPerguntas" :md-fullscreen="false">
       <div class="pergunta">
         <Pergunta
@@ -24,6 +16,7 @@
         />
       </div>
     </md-dialog>
+    <canvas id="game"></canvas>
   </div>
 </template>
 
@@ -64,7 +57,8 @@ export default {
     if (!this.app.isLoad) {
       let script = document.createElement("script");
       script.onload = async () => {
-        this.app = new window.Nunu.App();
+        let game = document.getElementById("game");
+        this.app = new window.Nunu.App(game);
         this.app.isLoad = true;
         this.app.setOnDataReceived(this.dialog);
         await this.app.loadRunProgram(this.game);
@@ -74,7 +68,7 @@ export default {
       script.src = this.nunu;
       document.head.appendChild(script);
       document.body.onresize = () => {
-        console.log('Resize');
+        console.log("Resize");
         this.app.resize();
       };
     }
@@ -122,12 +116,11 @@ export default {
       console.log("Esconder dialogo");
       this.exibirPerguntas = false;
       this.app.sendData({
-          type: this.origem,
-          nivel: this.nivel,
-          count: totalAcertos,
-        });
-    }
-
+        type: this.origem,
+        nivel: this.nivel,
+        count: totalAcertos,
+      });
+    },
   },
 };
 </script>
@@ -151,13 +144,29 @@ export default {
 }
 #rotate {
   color: #ffffff;
+  background-color: #222222;
   position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
   width: 100%;
-  top: 50%;
+  height: 100%;
+  z-index: 20000;
+  padding-top: 75%;
   text-align: center;
 }
+#game {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+}
 @media screen and (orientation: portrait) {
-  canvas,
+  #game,
   #fullscreen,
   #logo {
     display: none;
@@ -167,7 +176,7 @@ export default {
   }
 }
 @media screen and (orientation: landscape) {
-  canvas,
+  #game,
   #fullscreen,
   #logo {
     display: block;
