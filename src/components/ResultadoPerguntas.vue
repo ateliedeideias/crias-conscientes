@@ -5,7 +5,7 @@
             <span v-if="totalAcertos === 3">Uhuu, Você acertou TODAS, Parabéns!</span>
             <span v-if="totalAcertos === 2">Você resolveu duas questões!, continue progredindo ...</span>
             <span v-if="totalAcertos === 1">Humm, Você acertou só uma questão.</span>
-            <span v-if="totalAcertos === 0">Que pana, você não acertou nenhuma questão.</span>
+            <span v-if="totalAcertos === 0">Que pena, você não acertou nenhuma questão.</span>
             <br /><br />
         </div>
         <md-button class="botton-resposta-filho" v-on:click="continuar()">{{textoBotao}}</md-button>
@@ -29,7 +29,7 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
 .botton-resposta {
     color: black;
     background-color: #00d0c2;
@@ -46,7 +46,7 @@ export default {
     overflow: auto;
 }
 .botton-resposta-filho {
-    color: #000000;
+    color: #fff;
     background-color: #000000;
     border-color: rgb(0, 0, 0);    
     border-width: 3px; 
@@ -59,5 +59,4 @@ export default {
     line-height: 50%;
     overflow: auto;
 }
-
 </style>
