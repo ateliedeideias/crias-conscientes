@@ -32,6 +32,7 @@
         Trabalho/Recurso PROCON Municipal.
       </p>
     </section>
+
     <section
       id="savio"
       class="member md-center md-layout-item md-xlarge-size-50 md-large-size-50 md-medium-size-50 md-small-size-100 md-xsmall-size-100"
@@ -39,18 +40,18 @@
       <img alt="Sávio de Lima Varejão" src="@/assets/savio.png" width="312" />
       <h1 class="md-title">Sávio Varejão</h1>
       <p class="md-body-2">
-        Sávio tem uma fascinação pela tecnologia desde criança, principalmente
-        por meio dos videogames - e hoje está trabalhando na criação de um, como
-        nunca imaginou antes!
+        Sávio Varejão, nascido e criado no território do bem, tem uma fascinação pela tecnologia, principalmente por meio dos videogames - 
+        e hoje está trabalhando na criação de um game, como nunca imaginou antes! 
+        Ele é Coo fundador do coletivo Jovens do Bem, e pensa um dia em levar essa experiencia pra dentro do coletivo.  
+        “A tecnologia hoje esta por toda parte, é muito importante estarmos ligado a esse novo universo."
       </p>
       <p class="md-body-2">
-        “Sempre curti jogar desde a infância, mas nunca tive contato com o que
-        tem por trás de um jogo. Quero conhecer o universo dos games, como são
-        feitos e programados, o que existe por trás dos gráficos e jogabilidade.
-        Essa é mais uma iniciativa muita boa do Ateliê!” disse o jovem, animado
-        com o que está por vir em sua formação.
+        "Sempre curti jogar, mas nunca tive contato com o que tem por trás de um jogo. Quero conhecer o universo dos games, como são feitos e programados, 
+        o que existe por trás dos gráficos e jogabilidade. Essa é mais uma iniciativa muita boa do Ateliê!” 
+        disse o jovem, animado com o que está por vir em sua formação.
       </p>
     </section>
+
     <section
       id="george"
       class="member md-center md-layout-item md-xlarge-size-50 md-large-size-50 md-medium-size-50 md-small-size-100 md-xsmall-size-100"
@@ -73,6 +74,7 @@
         qualidade e equipamentos de ponta.
       </p>
     </section>
+
     <section
       id="ingrid"
       class="member md-center md-layout-item md-xlarge-size-50 md-large-size-50 md-medium-size-50 md-small-size-100 md-xsmall-size-100"
@@ -95,6 +97,7 @@
         periferia.
       </p>
     </section>
+
     <section
       id="leonardo"
       class="member md-center md-layout-item md-xlarge-size-50 md-large-size-50 md-medium-size-50 md-small-size-100 md-xsmall-size-100"
@@ -119,6 +122,7 @@
         geral.”
       </p>
     </section>
+
     <section
       id="gustavo"
       class="member md-center md-layout-item md-xlarge-size-50 md-large-size-50 md-medium-size-50 md-small-size-100 md-xsmall-size-100"
@@ -138,18 +142,54 @@
         vários projetos no Território.”
       </p>
     </section>
+
     <section
       id="jean"
       class="member md-center md-layout-item md-xlarge-size-50 md-large-size-50 md-medium-size-50 md-small-size-100 md-xsmall-size-100"
-    ></section>
+    >
+      <img alt="Jean Cirilo" src="@/assets/jean.png" width="312" />
+      <h1 class="md-title">Jean Cirilo</h1>
+      <p class="md-body-2">
+        Jean, morador do bairro Itararé é graduando em Design na UFES e é apaixonado pelo mundo da ilustração e dos games desde muito pequeno!
+      </p>
+      <p class="md-body-2">
+        "Sempre gostei muito de desenhar e mexer com todo o tipo de arte, e desde criança sou fascinado pelo mundo dos vídeo games, 
+        observo muito a parte visual desse universo tão rico. E sempre quis saber como era o processo de produção dessas obras de arte. 
+        E aqui no Ateliê de Ideais  tive a chance de ver exatamente como isso é feito".
+      </p>
+    </section>
+
     <section
       id="johnston"
       class="member md-center md-layout-item md-xlarge-size-50 md-large-size-50 md-medium-size-50 md-small-size-100 md-xsmall-size-100"
-    ></section>
+    >
+      <img alt="Johnston" src="@/assets/johnston.png" width="312" />
+      <h1 class="md-title">Johnston</h1>
+      <p class="md-body-2">
+        Falta texto
+      </p>
+      <p class="md-body-2">
+        Falta texto
+      </p>
+    </section>
+
     <section
       id="ludimila"
       class="member md-center md-layout-item md-xlarge-size-50 md-large-size-50 md-medium-size-50 md-small-size-100 md-xsmall-size-100"
-    ></section>
+    >
+      <img alt="Ludimila Brandão Falcão " src="@/assets/ludimila.png" width="312" />
+      <h1 class="md-title">Ludimila Brandão Falcão </h1>
+      <p class="md-body-2">
+        Criada em São Francisco, Cariacica, e frequentadora assídua do Território do Bem, mudou-se em 2020 para o Itararé. 
+        Como desenhista, Ludimila usa as redes sociais para divulgar os trabalhos artísticos que produz.
+      </p>
+      <p class="md-body-2">
+        "Fazer parte desse projeto é uma experiência desafiadora e muito incrível. 
+        Desafiadora, porque nunca me imaginei por de trás dos monitores na criação de um jogo, apesar de gostar bastante de jogar, 
+        fazer é algo novo e bastante interessante . É uma oportunidade incrível conhecer esse universo dos games, aprender sobre programação, 
+        além de por em prática e aperfeiçoar o que eu sei de arte e de desenho que vem acrescentar  a esse projeto tão massa".
+      </p>
+    </section>
   </div>
 </template>
 <script>

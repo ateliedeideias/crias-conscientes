@@ -8,26 +8,32 @@
       <p class="md-title">Carregando...</p>
     </div>
     <div id="rotate" class="md-title">Rotate</div>
-    <md-dialog :md-active.sync="exibirPerguntas" :md-fullscreen="false">
-      <div class="pergunta">
-        <Pergunta
-          :perguntas="perguntasAleatorias"
-          @fimPerguntas="fimPerguntas"
-        />
-      </div>
+    <md-dialog :md-active="exibirPerguntas || fimFase" :md-fullscreen="false" :md-close-on-esc="false" :md-click-outside-to-close="false">
+      <Pergunta
+        v-if="exibirPerguntas"
+        :perguntas="perguntasAleatorias"
+        @fimPerguntas="fimPerguntas"
+      />
+
+      <FimFase 
+        v-if="fimFase"
+        :totalAcertos="totalAcertos"
+      />
     </md-dialog>
     <canvas id="game"></canvas>
   </div>
 </template>
 
 <script>
-import Pergunta from "./Pergunta.vue";
 import jsonPerguntas from "../assets/dados/perguntas.json";
+import Pergunta from "./Pergunta.vue";
+import FimFase from "./FimFase.vue";
 
 export default {
-  name: "App",
+  name: "Jogar",
   components: {
     Pergunta,
+    FimFase
   },
   data() {
     return {
@@ -51,9 +57,13 @@ export default {
       origem: "futebol",
       totalPerguntas: 3,
       exibirPerguntas: false,
+      fimFase: false,
+      totalAcertos: 0,
     };
   },
   mounted() {
+    document.addEventListener("backbutton", this.botaoVoltar, false);
+
     if (!this.app.isLoad) {
       let script = document.createElement("script");
       script.onload = async () => {
@@ -72,6 +82,9 @@ export default {
         this.app.resize();
       };
     }
+  },
+  beforeDestroy () {
+    document.removeEventListener("backbutton", this.botaoVoltar);
   },
   computed: {
     perguntasValidas: function () {
@@ -109,18 +122,27 @@ export default {
       console.log(data);
       this.nivel = data.nivel; // nunu deve informar a fase
       this.origem = data.type; // nunu deve informar a origem (lixeira, brecho, parquinho, etc....)
-      this.exibirPerguntas = true;
+
+      if (this.origem !== 'fim')
+        this.exibirPerguntas = true;
+      else
+        this.fimFase = true;
     },
 
     fimPerguntas(totalAcertos) {
       console.log("Esconder dialogo");
       this.exibirPerguntas = false;
+      this.totalAcertos += totalAcertos;
       this.app.sendData({
         type: this.origem,
         nivel: this.nivel,
         count: totalAcertos,
       });
     },
+
+    botaoVoltar() {
+      this.$router.go("/");
+    }
   },
 };
 </script>
