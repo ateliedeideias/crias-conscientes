@@ -19,3 +19,13 @@ Alterações detalhadas para cada versão estão documentadas em [release notes]
 
 ## Licença
 Licenciado sob a Licença [MIT](https://mit-license.org/).
+
+## Como fazer o deploy
+npm run build
+
+npm install -g firebase
+
+firebase login
+
+firebase deploy
+
