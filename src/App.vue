@@ -13,14 +13,35 @@
       v-if="visible"
     >
       <p class="md-caption">Realização</p>
-      <a href="https://www.instagram.com/ateliedeideias.es/" target="_blank">
-        <img
-          alt="Ateliê de Ideias"
-          src="@/assets/atelie.png"
-          width="96"
-          height="96"
-        />
-      </a>
+      <div>
+        <a href="https://www.instagram.com/ateliedeideias.es/" target="_blank">
+          <img
+            alt="Ateliê de Ideias"
+            title="Ateliê de Ideias"
+            src="@/assets/atelie.png"
+            width="124"
+            height="124"
+          />
+        </a>
+        <a href="https://procon.vitoria.es.gov.br/" target="_blank" class="ml">
+          <img
+            alt="Procon Vitória"
+            title="Procon de Vitória"
+            src="@/assets/procon.png"
+            width="124"
+            height="124"
+          />
+        </a>
+        <a href="https://www.vitoria.es.gov.br/" target="_blank" class="ml">
+          <img
+            alt="Prefeitura de Vitória"
+            title="Prefeitura de Vitória"
+            src="@/assets/prefeitura-vitoria.png"
+            width="124"
+            height="124"
+          />
+        </a>
+      </div>      
     </div>
   </div>
 </template>
@@ -35,6 +56,16 @@ export default {
       { name: "viewport", content: "width=device-width, initial-scale=1" },
       { "http-equiv": "X-UA-Compatible", content: "ie=edge" },
     ],
+    link: [
+      {
+        rel: "favicon",
+        href: require("./assets/favicon.png")
+      },
+      {
+        rel: "icon",
+        href: require("./assets/favicon.png")
+      }
+    ]
   },
   data() {
     return {
@@ -142,5 +173,8 @@ body {
 }
 .member > .md-body-2 {
   text-align: left;
+}
+.ml {
+  margin-left: 10px;
 }
 </style>

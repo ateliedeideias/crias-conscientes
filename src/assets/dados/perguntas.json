@@ -1,99 +1,8 @@
 [
-    {
-         "pergunta": "Quais dessas indústrias você acha que é responsável por consumir mais energia e produzir cerca de 20% do lixo em todo mundo:",
-         "textoErrado": "Que pena você errou, mas o correto seria a indústria de roupas, também vale lembrar a importância de doa-lás.",
-         "textoCerto": "Você está certo, porque isso que é importante, doar as roupas que pouco usamos, assim ajudamos o nosso planeta!.",
-         "nivel": 1,
-         "origem": "brecho",
-         "respostas":[
-             "A indústria das roupas.",
-             "A indústria automobilística.",
-             "A indústria da alimentação."
-         ],
-         "correta": 1
-         },
-         {
-         "pergunta": "Como um brechó pode ajudar na sua comunidade:",
-         "textoErrado": "Você errou, o correto seria o ato de se conscientizar.",
-         "textoCerto": "Você está certo, porque isso é ter consciência das próprias ações.",
-         "nivel": 1,
-         "origem": "brecho",
-         "respostas":[
-             "O brechó é uma maneira de tornar a moda mais sustentável, reaproveitando as roupas e reduzindo o consumo de peças novas.",
-             "O brechó ajuda pois sem ele não seria possível a movimentação de comida na comunidade.",
-             "Ele ajuda muito na produção de brinquedos para as crianças."
-         ],
-         "correta": 1 
-         },
-         {
-         "pergunta": "O que acontece com materiais feitos de plástico que são jogados na rua:",
-         "textoErrado": "Você errou, o correto seria o ato de se conscientizar.",
-         "textoCerto": "Você está certo, porque isso é ter consciência das próprias ações.",
-         "nivel": 1,
-         "origem": "brecho",
-         "respostas":[
-             "Eles se decompõe em dois dias e não causam impacto para o meio ambiente.",
-             "Demoram anos para se decompor e causam impacto para o meio ambiente e para os animais que ingerem os plásticos descartados de forma incorreta.",
-             "O vento se encarrega de levar o material para longe e não causam prejuízo algum."
-         ],
-         "correta": 2
-         },
-         {
-         "pergunta": "Qual dessas medidas você poderia tomar para reduzir o lixo no mundo?",
-         "textoErrado": "Você errou, o correto seria o ato de se conscientizar.",
-         "textoCerto": "Você está certo, porque isso é ter consciência das próprias ações.",
-         "nivel": 1,
-         "origem": "brecho",
-         "respostas":[
-             "Comprando mais roupas novas.",
-             "Doar as roupas que não utilizo, troca-lás com alguém, e até mesmo comprar do brechó.",
-             "Queimar as roupas velhas."
-         ],
-         "correta": 2
-         },
-         {
-         "pergunta": "O que define um perfil de consumo?",
-         "textoErrado": "Você errou, o correto seria o ato de se conscientizar.",
-         "textoCerto": "Você está certo, porque isso é ter consciência das próprias ações.",
-         "nivel": 1,
-         "origem": "parquinho",
-         "respostas":[
-             "Quanto de dinheiro uma pessoa tem pra gastar.",
-             "É definido pela classe social de cada pessoa, por exemplo, classe D (pouco dinheiro) classe A (muito dinheiro).",
-             "A forma como a pessoa pensa, como por exemplo: Preciso mesmo comprar isso? Ou: Esse produto impacta de alguma forma o meio ambiente?"
-         ],
-         "correta": 3 
-         },
-         {
-         "pergunta": "Porque preservar os brinquedos do parque?",
-         "textoErrado": "Você errou, o correto seria o ato de se conscientizar.",
-         "textoCerto": "Você está certo, porque isso é ter consciência das próprias ações.",
-         "nivel": 1,
-         "origem": "parquinho",
-         "respostas":[
-             "Todo brinquedo ou objeto tem o seu valor e todo um trabalho por trás (mão de obra).",
-             "Pois eles são legais e divertidos.",
-             "Pois sem eles o mundo ficaria menos divertido."
-         ],
-         "correta": 1 
-         },
-         {
-         "pergunta": "O primeiro passo para entender o que é consumo consciente é perceber que o consumo de toda e qualquer coisa traz consigo consequências positivas e negativas para você e para a sociedade ou para o meio ambiente. Marque a alternativa correta:",
-         "textoErrado": "Você errou, o correto seria o ato de se conscientizar.",
-         "textoCerto": "Você está certo, porque isso é ter consciência das próprias ações.",
-         "nivel": 1,
-         "origem": "parquinho",
-         "respostas":[
-             "Eu consumo de forma consciente quando compro coisas que não estou precisando.",
-             "Eu consumo de forma consciente quando me preocupo com a forma como o produto foi produzido.",
-             "Eu consumo de forma consciente quando não me preocupo se aquele produto foi feito de forma agressiva ao meio ambiente."
-         ],
-         "correta": 1
-         },
-         {
+	{
          "pergunta": "Seu João, do Hotdog, ao pesquisar sobre o consumo consciente começou a pensar quem deveria ser o seu fornecedor de pão. Marque a resposta que mais colabora com o consumo consciente:",
-         "textoErrado": "Você errou, o correto seria o ato de se conscientizar.",
-         "textoCerto": "Você está certo, porque isso é ter consciência das próprias ações.",
+         "textoErrado": null,
+         "textoCerto": null,
          "nivel": 1,
          "origem": "hot-dog",
          "respostas":[
@@ -102,11 +11,11 @@
              "Comprar em uma padaria que tem como funcionários menores de 18 anos."
          ],
          "correta": 2 
-         },
-         {
+	},
+	{
          "pergunta": "Qual seria a melhor forma dos clientes do Sr João descartarem as latinhas de refrigerante?",
-         "textoErrado": "Você errou, o correto seria o ato de se conscientizar.",
-         "textoCerto": "Você está certo, porque isso é ter consciência das próprias ações.",
+         "textoErrado": null,
+         "textoCerto": null,
          "nivel": 1,
          "origem": "hot-dog",
          "respostas":[
@@ -115,11 +24,11 @@
              "Em qualquer lugar da praça."
          ],
          "correta": 2 
-         },
-         {
+	},
+	{
          "pergunta": "Agrotóxicos são produtos químicos, físicos ou biológicos utilizados nos setores de produção agrícola e podem trazer vários impactos. Os alimentos orgânicos são aqueles onde os agricultores não usam agrotóxico na sua produção. Qual a alternativa correta?",
-         "textoErrado": "Você errou, o correto seria o ato de se conscientizar.",
-         "textoCerto": "Você está certo, porque isso é ter consciência das próprias ações.",
+         "textoErrado": null,
+         "textoCerto": null,
          "nivel": 1,
          "origem": "hot-dog",
          "respostas":[
@@ -128,89 +37,26 @@
              "O Sr. João ao comprar um alimento com agrotóxico ele não causa impactos para o meio ambiente."
          ],
          "correta": 1 
-         },
-		  {
-         "pergunta": "Por que o agrotóxico é prejudicial?",
-         "textoErrado": "Você errou, o correto seria o ato de se conscientizar.",
-         "textoCerto": "Você está certo, porque isso é ter consciência das próprias ações.",
-         "nivel": 1,
-         "origem": "hot-dog",
-         "respostas":[
-             "Porque eles podem acabar de vez com as árvores do mundo.",
-             "Ele não é prejudicial.",
-             "Podem gerar problemas graves, como paralisias, lesões cerebrais, tumores, alterações comportamentais, entre outros."
-         ],
-         "correta": 3 
-         },
-		  {
-         "pergunta": "Quais são os benefícios do agrotóxico?",
-         "textoErrado": "Você errou, o correto seria o ato de se conscientizar.",
-         "textoCerto": "Você está certo, porque isso é ter consciência das próprias ações.",
-         "nivel": 1,
-         "origem": "hot-dog",
-         "respostas":[
-             "Ele ajuda na saúde humana.",
-             "Não tem.",
-             "Ele ajuda os alimentos a se desenvolver de maneira rápida e saudável."
-         ],
-         "correta": 3 
-         },
-         {
-         "pergunta": "Como descartar o lixo eletrônico corretamente?",
-         "textoErrado": "Você errou, o correto seria o ato de se conscientizar.",
-         "textoCerto": "Você está certo, porque isso é ter consciência das próprias ações.",
-         "nivel": 1,
-         "origem": "futebol",
-         "respostas":[
-             "No lixo comum.",
-             "Descartar na lixeira azul da coleta seletiva.",
-             "Entregar o lixo eletrônico em uma Associação de Catadores."
-         ],
-         "correta": 3
-         },
-         {
-         "pergunta": "Quais os benefícios da grama sintética?",
-         "textoErrado": "Você errou, o correto seria o ato de se conscientizar.",
-         "textoCerto": "Você está certo, porque isso é ter consciência das próprias ações.",
-         "nivel": 1,
-         "origem": "futebol",
-         "respostas":[
-             "Evita o acúmulo de água, além de poupar tempo e dinheiro ainda ajuda a natureza, por não necessitar utilizar água.",
-             "Evita lesões aos atletas.",
-             "Melhora a estética e formato dos campos."
-         ],
-         "correta": 1
-         },
-         {
-         "pergunta": "Consumir no comércio local é importante? Marque a alternativa ERRADA:",
-         "textoErrado": "Você errou, o correto seria o ato de se conscientizar.",
-         "textoCerto": "Você está certo, porque isso é ter consciência das próprias ações.",
-         "nivel": 1,
-         "origem": "futebol",
-         "respostas":[
-             "Quando compramos no nosso bairro ajudamos diretamente a desenvolver o lugar onde moramos.",
-             "Não importa onde compramos, sempre estaremos ajudando o nosso bairro.",
-             "Quando compramos no nosso bairro impactamos positivamente a economia local você também incentiva o comerciante da sua área."
-         ],
-         "correta": 3 
-         },
-         {
+	},
+	
+	
+	{
          "pergunta": "Quando estamos na rua qual seria a forma mais correta de descartar o nosso lixo?",
-         "textoErrado": "Você errou, o correto seria o ato de se conscientizar.",
-         "textoCerto": "Você está certo, porque isso é ter consciência das próprias ações.",
+         "textoErrado": null,
+         "textoCerto": null,
          "nivel": 1,
          "origem": "lixo",
          "respostas":[
              "Procurar uma lixeira qualquer.",
-             "Procurar as lixeiras  que tenham separação para lixo orgânico, para Vidro, para Metal, para Plástico e para Papel.",
-             "Jogar o lixo no chão."
+			 "Jogar o lixo no chão.",
+             "Procurar as lixeiras  que tenham separação para lixo orgânico, para Vidro, para Metal, para Plástico e para Papel."
          ],
-         "correta": 2 
-         },
-         {
+         "correta": 3
+	},
+	{
          "pergunta": "É possível separar o lixo em casa separando o lixo úmido do lixo seco. O lixo seco é todo o material que pode ser reciclável. Marque a alternativa onde todos os materiais são considerados recicláveis.",
-         "textoErrado": "Você errou, o correto seria o ato de se conscientizar.",
-         "textoCerto": "Você está certo, porque isso é ter consciência das próprias ações.",
+         "textoErrado": null,
+         "textoCerto": null,
          "nivel": 1,
          "origem": "lixo",
          "respostas":[
@@ -219,11 +65,11 @@
              "Fraldas usadas, cascas de fruta, restos de comida."
          ],
          "correta": 2 
-         },
-         {
+	},
+	{
          "pergunta": "Qual a importância da coleta seletiva?",
-         "textoErrado": "Você errou, o correto seria o ato de se conscientizar.",
-         "textoCerto": "Você está certo, porque isso é ter consciência das próprias ações.",
+         "textoErrado": null,
+         "textoCerto": null,
          "nivel": 1,
          "origem": "lixo",
          "respostas":[
@@ -232,5 +78,128 @@
              "Coleta seletiva é a separação dos plásticos e a reciclagem é a separação dos metais."
          ],
          "correta": 1
-    }
+    },
+	
+	
+	{
+         "pergunta": "Quais dessas indústrias você acha que é responsável por consumir mais energia e produzir cerca de 20% do lixo em todo mundo?",
+         "textoErrado": null,
+         "textoCerto": null,
+         "nivel": 1,
+         "origem": "brecho",
+         "respostas":[
+             "A indústria das roupas.",
+             "A indústria automobilística.",
+             "A indústria da alimentação."
+         ],
+         "correta": 1
+	},
+	{
+         "pergunta": "Como um brechó pode ajudar na sua comunidade?",
+         "textoErrado": null,
+         "textoCerto": null,
+         "nivel": 1,
+         "origem": "brecho",
+         "respostas":[             
+             "O brechó ajuda pois sem ele não seria possível a movimentação de comida na comunidade.",
+             "Ele ajuda muito na produção de brinquedos para as crianças.",
+			 "O brechó é uma maneira de tornar a moda mais sustentável, reaproveitando as roupas e reduzindo o consumo de peças novas."
+         ],
+         "correta": 3
+	},
+	{
+         "pergunta": "O que acontece com materiais feitos de plástico que são jogados na rua?",
+         "textoErrado": null,
+         "textoCerto": null,
+         "nivel": 1,
+         "origem": "brecho",
+         "respostas":[
+             "Eles se decompõe em dois dias e não causam impacto para o meio ambiente.",
+             "Demoram anos para se decompor e causam impacto para o meio ambiente e para os animais que ingerem os plásticos descartados de forma incorreta.",
+             "O vento se encarrega de levar o material para longe e não causam prejuízo algum."
+         ],
+         "correta": 2
+	},
+	
+	
+	{
+         "pergunta": "O que define um perfil de consumo?",
+         "textoErrado": null,
+         "textoCerto": null,
+         "nivel": 1,
+         "origem": "parquinho",
+         "respostas":[
+             "Quanto de dinheiro uma pessoa tem pra gastar.",
+             "É definido pela classe social de cada pessoa, por exemplo, classe D (pouco dinheiro) classe A (muito dinheiro).",
+             "A forma como a pessoa pensa, como por exemplo: Preciso mesmo comprar isso? Ou: Esse produto impacta de alguma forma o meio ambiente?"
+         ],
+         "correta": 3 
+	},
+	{
+         "pergunta": "Porque preservar os brinquedos do parque?",
+         "textoErrado": null,
+         "textoCerto": null,
+         "nivel": 1,
+         "origem": "parquinho",
+         "respostas":[
+             "Todo brinquedo ou objeto tem o seu valor e todo um trabalho por trás (mão de obra).",
+             "Pois eles são legais e divertidos.",
+             "Pois sem eles o mundo ficaria menos divertido."
+         ],
+         "correta": 1 
+	},
+	{
+         "pergunta": "O primeiro passo para entender o que é consumo consciente é perceber que o consumo de toda e qualquer coisa traz consigo consequências positivas e negativas para você e para a sociedade ou para o meio ambiente. Marque a alternativa correta:",
+         "textoErrado": null,
+         "textoCerto": null,
+         "nivel": 1,
+         "origem": "parquinho",
+         "respostas":[
+             "Eu consumo de forma consciente quando compro coisas que não estou precisando.",
+             "Eu consumo de forma consciente quando me preocupo com a forma como o produto foi produzido.",
+             "Eu consumo de forma consciente quando não me preocupo se aquele produto foi feito de forma agressiva ao meio ambiente."
+         ],
+         "correta": 2
+	},
+	
+	
+	{
+         "pergunta": "Como descartar o lixo eletrônico corretamente?",
+         "textoErrado": null,
+         "textoCerto": null,
+         "nivel": 1,
+         "origem": "futebol",
+         "respostas":[
+             "No lixo comum.",
+             "Descartar na lixeira azul da coleta seletiva.",
+             "Entregar o lixo eletrônico em uma Associação de Catadores."
+         ],
+         "correta": 3
+	},
+	{
+         "pergunta": "Quais os benefícios da grama sintética?",
+         "textoErrado": null,
+         "textoCerto": null,
+         "nivel": 1,
+         "origem": "futebol",
+         "respostas":[
+             "Evita o acúmulo de água, além de poupar tempo e dinheiro ainda ajuda a natureza, por não necessitar utilizar água.",
+             "Evita lesões aos atletas.",
+             "Melhora a estética e formato dos campos."
+         ],
+         "correta": 1
+	},
+	{
+         "pergunta": "Consumir no comércio local é importante? Marque a alternativa ERRADA:",
+         "textoErrado": null,
+         "textoCerto": null,
+         "nivel": 1,
+         "origem": "futebol",
+         "respostas":[
+             "Quando compramos no nosso bairro ajudamos diretamente a desenvolver o lugar onde moramos.",
+             "Não importa onde compramos, sempre estaremos ajudando o nosso bairro.",
+             "Quando compramos no nosso bairro impactamos positivamente a economia local e você também incentiva o comerciante da sua área."
+         ],
+         "correta": 2
+	}
  ]   
