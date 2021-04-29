@@ -1,35 +1,24 @@
 <template>
-  <div class="md-layout md-gutter md-alignment-center">
+  <div class="md-layout md-alignment-center">
     <section id="team" class="md-layout-item md-size-100">
       <h1 class="md-center md-title">
         CONHEÇA A EQUIPE DE <span>TECNOLOGIA DIGITAL</span>!
       </h1>
       <p class="md-body-2">
-        As oportunidades de trabalho na área de desenvolvimento de games estão
-        bombando. Ligados no aumento da demanda por profissionais qualificados,
-        o Ateliê trouxe para a equipe jovens dispostos a desenvolver soluções
-        criativas usando inovação e tecnologia.
+        Ligado no aumento da demanda por profissionais qualificados na área de
+        desenvolvimento de games, o Projeto Economia do Bem oferece a jovens dispostos a
+        desenvolver soluções criativas usando inovação e tecnologia oficinas com criação de
+        jogos. Como bolsistas, os jovens atuam como Promotores de Tecnologia Digital do Ateliê
+        de Ideias, passando por formação presenciais e/ou online através da plataforma de
+        Ensino a Distância (AVA do Ateliê), As aulas começaram, em outubro de 2020, com
+        Ramon Matheus e Sheila Nogueira, falando sobre direitos da Juventude, direito de
+        acesso à tecnologia e consumo consciente.
       </p>
       <p class="md-body-2">
-        Desde outubro(2020), quatro moradores do Território do Bem e um da Vila
-        Rubim atuam como Promotores de Tecnologia Digital do Ateliê, passando
-        por formação em lógica de programação, designer e desenvolvimento de
-        jogos. Através das nossas plataformas, a formação começou com Ramon
-        Matheus e Sheila Nogueira, falando sobre direitos da Juventude, direito
-        de acesso à tecnologia e consumo consciente.
-      </p>
-      <p class="md-body-2">
-        Partindo pra criação, contamos com os facilitadores Ricardo Bonino,
-        Walber Beltrame e Marcos Romanholi. Eles, como a gente, estão se
-        amarrando no desafio de desenvolver com os jovens um jogo sobre Consumo
-        Consciente e pensar em outras ferramentas digitais que colaborem com o
-        desenvolvimento comunitário do Território do Bem.
-      </p>
-      <p class="md-body-2">
-        Essa é mais uma iniciativa do Projeto Economia do Bem, realizado pelo
-        Ateliê de Ideias, através do Termo de Fomento nº 211/2018, celebrado em
-        parceria com a Secretaria Municipal de Cidadania, Direitos Humanos e
-        Trabalho/Recurso PROCON Municipal.
+        Partindo para criação do jogo, contamos com os facilitadores Ricardo Bonino, Walber
+        Beltrame e Marcos Romanholi. Eles se amarram no desafio de desenvolver com os
+        jovens um jogo sobre Consumo Consciente e pensar em outras ferramentas digitais que
+        colaborem com o desenvolvimento comunitário do Território do Bem.
       </p>
     </section>
 
@@ -40,15 +29,16 @@
       <img alt="Sávio de Lima Varejão" src="@/assets/savio.png" width="312" />
       <h1 class="md-title">Sávio Varejão</h1>
       <p class="md-body-2">
-        Sávio Varejão, nascido e criado no território do bem, tem uma fascinação pela tecnologia, principalmente por meio dos videogames - 
-        e hoje está trabalhando na criação de um game, como nunca imaginou antes! 
-        Ele é Coo fundador do coletivo Jovens do Bem, e pensa um dia em levar essa experiencia pra dentro do coletivo.  
-        “A tecnologia hoje esta por toda parte, é muito importante estarmos ligado a esse novo universo."
+        Nascido e criado no Território do Bem, Sávio tem uma fascinação pela tecnologia,
+        principalmente por meio dos videogames - e hoje está trabalhando na criação de um
+        game, como nunca imaginou antes! Ele é cofundador do coletivo Jovens do Bem, e
+        pensa um dia levar essa experiência para dentro do coletivo. &quot;A tecnologia hoje está por
+        toda parte, é muito importante estarmos ligado a esse novo universo&quot;, diz.
       </p>
       <p class="md-body-2">
-        "Sempre curti jogar, mas nunca tive contato com o que tem por trás de um jogo. Quero conhecer o universo dos games, como são feitos e programados, 
-        o que existe por trás dos gráficos e jogabilidade. Essa é mais uma iniciativa muita boa do Ateliê!” 
-        disse o jovem, animado com o que está por vir em sua formação.
+        &quot;Sempre curti jogar, mas nunca tive contato com o que tem por trás de um jogo. Quero
+        conhecer o universo dos games, como são feitos e programados, o que existe por trás
+        dos gráficos e jogabilidade. Essa é mais uma iniciativa muita boa do Ateliê&quot;.
       </p>
     </section>
 
@@ -63,15 +53,14 @@
       />
       <h1 class="md-title">George Cirilo</h1>
       <p class="md-body-2">
-        George, de Itararé, é graduando em Engenharia Elétrica, mas se tem uma
-        coisa que ele sempre gostou é de estudar sobre tecnologia digital!
+        George, do bairro Itararé, é graduando em Engenharia Elétrica, mas se há uma coisa de
+        que ele sempre gostou é estudar tecnologia digital!
       </p>
       <p class="md-body-2">
-        Como um dos fundadores do coletivo Tec Perifa, em suas palavras, “um
-        coletivo criado com intuito de apresentar aos jovens periféricos uma
-        atividade formativa usando a tecnologia como ferramenta”, ele espera no
-        futuro repassar seu conhecimento para sua comunidade com cursos de
-        qualidade e equipamentos de ponta.
+        Como um dos fundadores do coletivo Tec Perifa, em suas palavras, “um coletivo criado
+        com intuito de apresentar aos jovens periféricos uma atividade formativa usando a
+        tecnologia como ferramenta”, ele espera no futuro repassar seu conhecimento para sua
+        comunidade com cursos de qualidade e equipamentos de ponta.
       </p>
     </section>
 
@@ -86,15 +75,13 @@
       />
       <h1 class="md-title">Ingrid Rocha</h1>
       <p class="md-body-2">
-        Fotógrafa, Artesã, Produtora, Bacharel em Psicologia e Técnica em
-        Multimídia: Ingrid é mais uma jovem de Itararé cheia de sonhos e
-        conquistas!
+        Fotógrafa, artesã, produtora, Bacharel em Psicologia e Técnica em Multimídia, Ingrid é
+        mais uma jovem de Itararé cheia de sonhos e conquistas!
       </p>
       <p class="md-body-2">
-        Ela já trabalha com sua arte e gerencia diversos perfis em redes
-        sociais, e busca aprender mais na formação em Tecnologia Digital para
-        construir sua carreira como empresária em projetos sociais para a
-        periferia.
+        Ela já trabalha com sua arte e gerencia diversos perfis em redes sociais, e busca
+        aprender mais na formação em Tecnologia Digital para construir sua carreira como
+        empresária em projetos sociais para a periferia.
       </p>
     </section>
 
@@ -109,17 +96,15 @@
       />
       <h1 class="md-title">Leonardo Camargo</h1>
       <p class="md-body-2">
-        Quase tudo nos dias de hoje necessita de um sistema de informação; se
-        você não tem, é deixado para trás.” Esse é o lema de Leonardo, jovem
-        visionário que cresceu no Morro do Quadro e vê o mundo se transformando
-        em oportunidades através da tecnologia.
+        &quot;Quase tudo nos dias de hoje necessita de um sistema de informação; se você não tem,
+        é deixado para trás&quot;. Esse é o lema de Leonardo, jovem visionário que cresceu no Morro
+        do Quadro e vê o mundo se transformando em oportunidades através da tecnologia.
       </p>
       <p class="md-body-2">
-        Ele já trabalha com edição voltada para jogos online, e se juntou à
-        equipe do Ateliê para, segundo ele, “trabalhar na área de
-        desenvolvimento de aplicativos mais complexos e completos, a modo que
-        supra não só a necessidade e produção do mercado, como a sociedade no
-        geral.”
+        Ele já trabalha com edição voltada para jogos online, e se juntou à equipe do Ateliê para,
+        segundo ele, &quot;trabalhar na área de desenvolvimento de aplicativos mais complexos e
+        completos, de modo que supra não só a necessidade e produção do mercado, como a
+        sociedade no geral&quot;.
       </p>
     </section>
 
@@ -130,16 +115,14 @@
       <img alt="Gustavo Mateus Viana" src="@/assets/gustavo.png" width="312" />
       <h1 class="md-title">Gustavo Bello</h1>
       <p class="md-body-2">
-        Diretamente de São Benedito, Gustavo é comunicador nato e acredita no
-        poder de transformação que a Tecnologia Digital tem. Seu objetivo é ser
-        publicitário um dia, e usar toda sua criatividade para atingir as
-        pessoas, não só da periferia, como do mundo afora.
+        Diretamente de São Benedito, Gustavo é comunicador nato e acredita no poder de
+        transformação que a Tecnologia Digital tem. Seu objetivo é ser publicitário um dia, e usar
+        toda sua criatividade para atingir as pessoas, não só da periferia, como do mundo afora.
       </p>
       <p class="md-body-2">
-        “Estou sempre ajudando na divulgação de projetos e serviços nas redes
-        sociais para ajudar amigos, familiares, conhecidos e coisas que me
-        identifico. Quero trabalhar na comunicação, e participar da gestão de
-        vários projetos no Território.”
+        &quot;Estou sempre ajudando na divulgação de projetos e serviços nas redes sociais para
+        ajudar amigos, familiares, conhecidos e coisas com que me identifico. Quero trabalhar na
+        comunicação, e participar da gestão de vários projetos no Território&quot;
       </p>
     </section>
 
@@ -166,10 +149,16 @@
       <img alt="Johnston" src="@/assets/johnston.png" width="312" />
       <h1 class="md-title">Johnston</h1>
       <p class="md-body-2">
-        Falta texto
+        Apaixonado por tecnologia desde pequeno, Jhonston estudou programação de forma
+        esporádica. Frequentador e amante do Território do Bem, encontrou nesse projeto a
+        oportunidade de desenvolver seu conhecimento e adquirir mais experiência.
       </p>
       <p class="md-body-2">
-        Falta texto
+        &quot;Gosto muito de programação de sistemas, é desafiante, e me mostra cada vez mais
+        que, para tudo, há uma ou até várias soluções (risos) usando algoritmos, desde um
+        pequeno problema até o grande chefão deles. Nesse projeto também conheci novas
+        pessoas e personalidades diferentes, e ver como conseguimos passar por cada desafio
+        foi bem interessante, muitas ideias e bastante mão na massa&quot;.
       </p>
     </section>
 
