@@ -43,9 +43,8 @@ export default {
                 this.totalAcertos++;
                 this.textoResultado = this.perguntaAtual.textoCerto ??   "Parabéns, continue praticando e se torne um cria consciente.";
             } else {
-                this.textoResultado = this.perguntaAtual.textoErrado ??   "Puxa... infelizmente você errou, mas não desista...";
+                this.textoResultado = this.perguntaAtual.textoErrado ??   "Puxa... infelizmente você errou essa, mas não desista...";
             }
-            console.log("Total acertos", this.totalAcertos);
             this.exibirPergunta = false;
         },
         continuar() {

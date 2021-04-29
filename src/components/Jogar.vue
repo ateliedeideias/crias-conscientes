@@ -119,6 +119,8 @@ export default {
       this.app.toggleFullscreen(document.body);
     },
     dialog(data) {
+      if (this.fimFase) return false;
+      
       console.log(data);
       this.nivel = data.nivel; // nunu deve informar a fase
       this.origem = data.type; // nunu deve informar a origem (lixeira, brecho, parquinho, etc....)
