@@ -16,7 +16,7 @@
       </p>
       <p class="md-body-2">
         Partindo para criação do jogo, contamos com os facilitadores Ricardo Bonino, Walber
-        Beltrame e Marcos Romanholi. Eles se amarram no desafio de desenvolver com os
+        Beltrame e Marcos Romanholi. Eles se amarraram no desafio de desenvolver com os
         jovens um jogo sobre Consumo Consciente e pensar em outras ferramentas digitais que
         colaborem com o desenvolvimento comunitário do Território do Bem.
       </p>
@@ -146,8 +146,8 @@
       id="johnston"
       class="member md-center md-layout-item md-xlarge-size-50 md-large-size-50 md-medium-size-50 md-small-size-100 md-xsmall-size-100"
     >
-      <img alt="Johnston" src="@/assets/johnston.png" width="312" />
-      <h1 class="md-title">Johnston</h1>
+      <img alt="Johnston Ferreira" src="@/assets/johnston.png" width="312" />
+      <h1 class="md-title">Johnston Ferreira</h1>
       <p class="md-body-2">
         Apaixonado por tecnologia desde pequeno, Jhonston estudou programação de forma
         esporádica. Frequentador e amante do Território do Bem, encontrou nesse projeto a
