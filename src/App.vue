@@ -177,4 +177,23 @@ body {
 .ml {
   margin-left: 10px;
 }
+
+.botao {
+    color: #fff !important;
+    background-color: #000 !important;
+    border-color: #000 !important;
+    border-width: 3px !important; 
+    border-style: solid !important;
+    border-radius: 10px !important;
+    text-align: center !important;
+    font-size: 12px !important;
+    font-weight: bold !important;
+    line-height: 50% !important;
+}
+
+.msg-erro {
+  color: #ff0000;
+  font-size: 14px;
+  font-weight: bold;
+}
 </style>

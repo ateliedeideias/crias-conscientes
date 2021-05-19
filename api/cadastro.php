@@ -1,4 +1,5 @@
 <?php
+require_once 'utils/habilita-cors.php';
 require_once 'utils/funcoes.php';
 require_once 'utils/manipula-post.php';
 

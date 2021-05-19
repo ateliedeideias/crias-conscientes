@@ -52,18 +52,4 @@ export default {
   line-height: 25px;
   overflow: auto;    
 }
-.botao {
-    color: #fff;
-    background-color: #000;
-    border-color: #000;
-    border-width: 3px; 
-    border-bottom-width: 6px;   
-    border-style: solid;
-    border-radius: 10px;
-    text-align: center;
-    font-size: 12px;
-    font-weight: bold;
-    line-height: 50%;
-    overflow: auto;
-}
 </style>

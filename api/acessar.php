@@ -1,4 +1,5 @@
 <?php
+require_once 'utils/habilita-cors.php';
 require_once 'utils/funcoes.php';
 require_once 'utils/manipula-post.php';
 
@@ -17,12 +18,12 @@ if (NuloOuVazio($dados["senha"])) {
 require_once 'utils/mysql.php';
 
 $parametros = array("sss", $dados["usuario"], $dados["usuario"], $dados["senha"]);
-$resultado = execSQL("select codigo from usuarios where (UPPER(apelido) = UPPER(?) or email = LOWER(?)) and senha = SHA(?)", $parametros);
+$resultado = execSQL("select apelido from usuarios where (UPPER(apelido) = UPPER(?) or email = LOWER(?)) and senha = SHA(?)", $parametros);
 if (isset($resultado) && !($resultado==null)) {
-  $resultado->bind_result($codigoUsuario);
+  $resultado->bind_result($apelidoUsuario);
 
   if ($resultado->fetch()) {
-    echo "Usuário autenticado com sucesso.";
+    echo $apelidoUsuario;
     exit();
   }
 }

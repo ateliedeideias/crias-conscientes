@@ -8,7 +8,11 @@
       <p class="md-title">Carregando...</p>
     </div>
     <div id="rotate" class="md-title">Rotate</div>
-    <md-dialog :md-active="exibirPerguntas || fimFase" :md-fullscreen="false" :md-close-on-esc="false" :md-click-outside-to-close="false">
+    <md-dialog :md-active="inicioFase || exibirPerguntas || fimFase" :md-fullscreen="false" :md-close-on-esc="false" :md-click-outside-to-close="false">
+      <IniciarFase
+        v-if="inicioFase"
+        @jogar="jogar" />
+
       <Pergunta
         v-if="exibirPerguntas"
         :perguntas="perguntasAleatorias"
@@ -26,12 +30,14 @@
 
 <script>
 import jsonPerguntas from "../assets/dados/perguntas.json";
+import IniciarFase from "./IniciarFase.vue";
 import Pergunta from "./Pergunta.vue";
 import FimFase from "./FimFase.vue";
 
 export default {
   name: "Jogar",
   components: {
+    IniciarFase,
     Pergunta,
     FimFase
   },
@@ -49,19 +55,22 @@ export default {
           return Promise.resolve();
         },
       },
-      game: require("../assets/app.nsp"),
       nunu: require("../assets/nunu.min.njs"),
       visible: false,
       perguntas: jsonPerguntas,
-      nivel: 2,
+      nivel: 1,
       origem: "futebol",
       totalPerguntas: 3,
+      inicioFase: false,
       exibirPerguntas: false,
       fimFase: false,
       totalAcertos: 0,
+      personagem: null,
     };
   },
   mounted() {
+    const faseGame = require("../assets/app1.nsp");
+
     document.addEventListener("backbutton", this.botaoVoltar, false);
 
     if (!this.app.isLoad) {
@@ -70,8 +79,8 @@ export default {
         let game = document.getElementById("game");
         this.app = new window.Nunu.App(game);
         this.app.isLoad = true;
-        this.app.setOnDataReceived(this.dialog);
-        await this.app.loadRunProgram(this.game);
+        this.app.setOnDataReceived(this.recebeDadosNunu);
+        await this.app.loadRunProgram(faseGame);
         this.visible = true;
       };
       script.async = true;
@@ -118,17 +127,26 @@ export default {
       event.preventDefault();
       this.app.toggleFullscreen(document.body);
     },
-    dialog(data) {
+    recebeDadosNunu(data) {
       if (this.fimFase) return false;
       
       console.log(data);
       this.nivel = data.nivel; // nunu deve informar a fase
       this.origem = data.type; // nunu deve informar a origem (lixeira, brecho, parquinho, etc....)
 
-      if (this.origem !== 'fim')
-        this.exibirPerguntas = true;
-      else
-        this.fimFase = true;
+      switch (this.origem) {
+        case "inicio":
+          if (!this.personagem) {
+            this.inicioFase = true;
+          }          
+          break;
+        case "fim":
+          this.fimFase = true;
+          break;        
+        default:
+          this.exibirPerguntas = true;
+          break;
+      }      
     },
 
     fimPerguntas(totalAcertos) {
@@ -144,6 +162,22 @@ export default {
 
     botaoVoltar() {
       this.$router.go("/");
+    },
+
+    jogar(personagem) {
+      console.log("Personagem selecionado", personagem);
+      if (!personagem) {
+        console.error("Personagem inválido!");
+        return;
+      }
+
+      this.personagem = personagem;
+      this.inicioFase = false;
+      this.app.sendData({
+        type: "personagem",
+        nivel: this.nivel,
+        personagem: this.personagem.codigo,
+      });
     }
   },
 };
