@@ -45,17 +45,17 @@ export default {
       personagens: [
         {
           codigo: 2,
-          nome: "Personagem 1",
+          nome: "Jefin",
           imagem: "personagem-1.png"
         },
         {
           codigo: 3,
-          nome: "Personagem 2",
+          nome: "Dandara",
           imagem: "personagem-2.png"
         },
         {
           codigo: 1,
-          nome: "Personagem 3",
+          nome: "Bil",
           imagem: "personagem-3.png"
         },
       ]

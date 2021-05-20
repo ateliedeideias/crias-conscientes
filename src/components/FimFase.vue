@@ -9,7 +9,7 @@
     <p v-if="msgErro" v-html="msgErro" class='msg-erro'></p>
 
     <div v-if="!salvando">
-      <md-button class="botao" v-on:click="proximaFase()">Próxima Fase</md-button>
+      <md-button class="botao" v-on:click="proximaFase()" v-if="nivel < 2">Próxima Fase</md-button>
 
       <md-button class="botao" v-on:click="jogarNovamente()">Jogar Novamente</md-button>
 
@@ -67,9 +67,7 @@ export default {
       this.$router.go();
     },
     proximaFase() {
-      console.log("Fase atual", this.nivel);
-      let proximaFase = this.nivel + 1;
-      console.log("Ir para a próxima fase", proximaFase);
+      this.$emit('proximaFase');
     }
   }
 }
