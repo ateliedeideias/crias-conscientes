@@ -1,6 +1,6 @@
 <template>
   <div class="principal">
-    <img alt="Crias Conscientes" src="@/assets/logo.png" width="256" />
+    <img alt="Crias Conscientes" src="@/assets/logo.png" width="180" />
 
     <p>{{textoFim}}</p>
     
@@ -16,6 +16,10 @@
       <router-link to="/team">
         <md-button class="botao">Sair</md-button>
       </router-link>
+    </div>
+
+    <div v-if="aviso">
+      <i>Você está jogando sem nenhum cadastro e sua pontuação não será salva.</i>
     </div>
 
     <div v-if="salvando">
@@ -34,6 +38,7 @@ export default {
   data() {
     return {
       salvando: true,
+      aviso: false,
       msgErro: null,
     }
   },
@@ -48,6 +53,11 @@ export default {
     webServices() { return new WebServices() },
   },
   created: function () {
+    if (this.apelido === "(_#_#_anonimo_#_#_)") {
+      this.salvando = false;
+      this.aviso = true;
+      return;
+    }
     this.salvando = true;
 
     console.log("Salvar pontuacao");

@@ -2,14 +2,14 @@
   <div class="md-layout md-alignment-center">
     <section id="logo" class="md-center md-layout-item md-size-100">
       <img alt="Crias Conscientes" src="@/assets/logo.png" width="256" />
-      <p class="md-title">Um game sobre consumo consciente!!</p>
+      <p class="md-title branco">Um game sobre consumo consciente!!</p>
       <router-link to="/jogar">
         <md-button class="md-raised md-accent">Jogue Agora</md-button>
       </router-link>
     </section>
 
     <section id="description" class="md-layout-item md-size-100">
-      <p class="md-body-1">
+      <p class="md-body-1 branco">
         <b>Seja um Cria Consciente!!!</b> A partir desse game você terá a oportunidade de explorar as
         referências dos bairros Itararé, Bairro da Penha, São Benedito, Bonfim, Engenharia, Gurigica,
         Consolação, Jaburu e Floresta, que compõem o Território do Bem. Respondendo às perguntas

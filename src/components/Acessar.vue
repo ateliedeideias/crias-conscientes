@@ -16,14 +16,16 @@
             <label for="senha">Senha</label>
             <md-input name="senha" id="senha" v-model="form.senha" type="password"></md-input>
             <span class="md-error" v-if="!$v.form.senha.required">Por favor, informe sua senha.</span>
-          </md-field>
-
+          </md-field>          
+          
           <div>
             <md-button type="submit" class="botao">Acessar</md-button>
 
             <md-button class="botao" v-on:click="voltar()">Voltar</md-button>
+
+            <md-button class="botao" v-on:click="cadastrar()">Cadastrar</md-button>
           </div>
-      </form>
+      </form>            
     </div>
 
     <div v-if="enviando">
@@ -100,6 +102,9 @@ export default {
     },
     voltar() {
       this.$emit("voltar");
+    },
+    cadastrar() {
+      this.$emit("cadastrar");
     }
   }
 }

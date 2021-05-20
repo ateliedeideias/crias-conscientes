@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <img alt="Crias Conscientes" src="@/assets/logo.png" width="256" v-if="exibirDialogNumbero !== 4" />
+    <img alt="Crias Conscientes" src="@/assets/logo.png" width="180" v-if="exibirDialogNumbero !== 4" />
 
     <div v-if="exibirDialogNumbero == 1"> 
       Sabe quando você deixa de comprar mais frutas no supermercado porque prefere consumir antes aquelas que já têm em casa?
@@ -13,13 +13,28 @@
       <md-button class="botao" v-on:click="exibirDialogNumbero = 3">Acessar</md-button>
 
       <md-button class="botao" v-on:click="exibirDialogNumbero = 2">Cadastrar</md-button>
+
+      <md-button class="botao" v-on:click="exibirDialogNumbero = 5">Jogar</md-button>
     </div>
 
-    <Cadastrar v-if="exibirDialogNumbero === 2" @cadastrado="setarUsuario" @voltar="telaInicial" />
+    <Cadastrar v-if="exibirDialogNumbero === 2" @cadastrado="setarUsuario" @voltar="telaInicial"  />
 
-    <Acessar v-if="exibirDialogNumbero === 3" @acessado="setarUsuario" @voltar="telaInicial" />
+    <Acessar v-if="exibirDialogNumbero === 3" @acessado="setarUsuario" @voltar="telaInicial" @cadastrar="exibirDialogNumbero = 2" />
 
     <SelecionarPersonagem v-if="exibirDialogNumbero === 4" @jogar="jogar" @voltar="telaInicial" />
+
+    <div v-if="exibirDialogNumbero == 5"> 
+      Deseja realmente jogar sem cadastro?
+      <br /><br />
+      <i>Dessa forma você não participará de nossas estatísticas e eventuais promoções do <b>Crias</b>.</i>
+      <br /><br />
+
+      <md-button class="botao" v-on:click="exibirDialogNumbero = 3">Acessar</md-button>
+
+      <md-button class="botao" v-on:click="exibirDialogNumbero = 2">Cadastrar</md-button>
+
+      <md-button class="botao" v-on:click="setarUsuario('(_#_#_anonimo_#_#_)')">Jogar</md-button>
+    </div>
   </div>
 </template>
 
@@ -66,6 +81,7 @@ export default {
         2 = Formulário de cadastro
         3 = Formulário de acesso
         4 = Selecionar personagem
+        5 = Confirma jogar sem cadastro
         */
         exibirDialogNumbero: 1,
         apelidoUsuario: null,

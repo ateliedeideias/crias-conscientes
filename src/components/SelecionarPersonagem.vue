@@ -5,14 +5,14 @@
     <div class="flex-container">
       <div><md-button class="botao botao-personagem"  v-on:click="proximo(-1)">&lt;&lt;</md-button></div>
 
-      <div class='personagem'>        
+      <div class="personagem">        
         <img :src="getImgUrl()" v-bind:alt="personagem.nome"><br />
-        <span>{{personagem.nome}}</span>
+        <span :class="classePersonagem">{{personagem.nome}}</span>
       </div>
 
       <div><md-button class="botao botao-personagem" v-on:click="proximo(+1)">&gt;&gt;</md-button></div>
     </div>  
-    <div>
+    <div class="botoes">
       <md-button class="botao" v-on:click="jogar()">Jogar</md-button>
 
       <md-button class="botao" v-on:click="voltar()">Voltar</md-button>
@@ -26,13 +26,38 @@
   flex-wrap: nowrap;
 }
 
+.personagem {
+  min-width: 200px;
+}
+
 .personagem img {
-  max-height: 200px;
+  max-height: 180px;
+}
+
+.personagem span {
+  text-decoration: underline;
 }
 
 .botao-personagem {
-  height: 50px !important;
+  margin-top: 65px;
+  height: 55px !important;
   background-color: #ff6600 !important;
+}
+
+.botoes {
+  padding-top: 10px;
+}
+
+.p1 {
+  color: #aa00d4;
+}
+
+.p2 {
+  color: #ff3000;
+}
+
+.p3 {
+  color: #aa0000;
 }
 </style>
 
@@ -46,23 +71,27 @@ export default {
         {
           codigo: 2,
           nome: "Jefin",
-          imagem: "personagem-1.png"
+          imagem: "personagem-1.png",
+          class: "p1"
         },
         {
           codigo: 3,
           nome: "Dandara",
-          imagem: "personagem-2.png"
+          imagem: "personagem-2.png",
+          class: "p2"
         },
         {
           codigo: 1,
           nome: "Bil",
-          imagem: "personagem-3.png"
+          imagem: "personagem-3.png",
+          class: "p3"
         },
       ]
     }
   },
   computed: {
     personagem() { return this.personagens[this.personagemSelecionado]; },
+    classePersonagem() { return this.personagem.class; },
   },
   methods: {
     proximo(soma) {

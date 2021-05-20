@@ -196,4 +196,29 @@ body {
   font-size: 14px;
   font-weight: bold;
 }
+
+.branco {
+  color: #fff !important;
+}
+
+/*Customiza formulario*/
+.md-field.md-theme-default .md-helper-text, .md-field.md-theme-default .md-count, .md-field.md-theme-default label, .md-layout {
+    color: #000 !important;
+}
+
+.md-field.md-theme-default:after {
+    background-color: rgba(0,0,0,0.7) !important;
+}
+
+.md-focused .md-input, .md-focused .md-textarea, .md-highlight .md-input, .md-highlight .md-textarea {
+    color: #000 !important;
+}
+
+input {
+  color: -internal-light-dark(black, black) !important;
+}
+
+.md-field.md-theme-default.md-focused .md-input, .md-field.md-theme-default.md-focused .md-textarea, .md-field.md-theme-default.md-has-value .md-input, .md-field.md-theme-default.md-has-value .md-textarea {
+    -webkit-text-fill-color: #000 !important;
+}
 </style>
