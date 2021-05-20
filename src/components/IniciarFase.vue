@@ -87,7 +87,7 @@ export default {
         this.exibirDialogNumbero = 4;
       },
       jogar(personagem) {
-        this.$emit("jogar", personagem);
+        this.$emit("jogar", personagem, this.apelidoUsuario);
       }     
     }    
 }

@@ -1,205 +1,411 @@
 [
 	{
-         "pergunta": "Seu João, do Hotdog, ao pesquisar sobre o consumo consciente começou a pensar quem deveria ser o seu fornecedor de pão. Marque a resposta que mais colabora com o consumo consciente:",
-         "textoErrado": null,
-         "textoCerto": null,
-         "nivel": 1,
-         "origem": "hot-dog",
-         "respostas":[
-             "Comprar em uma padaria fora do seu bairro, sem conhecer a procedência do pão.",
-             "Comprar em uma padaria do seu bairro que fabrica o pão.",
-             "Comprar em uma padaria que tem como funcionários menores de 18 anos."
-         ],
-         "correta": 2 
-	},
-	{
-         "pergunta": "Qual seria a melhor forma dos clientes do Sr João descartarem as latinhas de refrigerante?",
-         "textoErrado": null,
-         "textoCerto": null,
-         "nivel": 1,
-         "origem": "hot-dog",
-         "respostas":[
-             "No lixo comum.",
-             "Nas lixeiras próprias para descarte de material reciclável.",
-             "Em qualquer lugar da praça."
-         ],
-         "correta": 2 
-	},
-	{
-         "pergunta": "Agrotóxicos são produtos químicos, físicos ou biológicos utilizados nos setores de produção agrícola e podem trazer vários impactos. Os alimentos orgânicos são aqueles onde os agricultores não usam agrotóxico na sua produção. Qual a alternativa correta?",
-         "textoErrado": null,
-         "textoCerto": null,
-         "nivel": 1,
-         "origem": "hot-dog",
-         "respostas":[
-             "Quando Sr. João compra um alimento sem agrotóxico ele colabora com a redução do impacto causado ao meio ambiente.",
-             "O Sr. João não tem como contribuir para a diminuição de impactos causados pelo uso de agrotóxico.",
-             "O Sr. João ao comprar um alimento com agrotóxico ele não causa impactos para o meio ambiente."
-         ],
-         "correta": 1 
-	},
-	
-	
-	{
-         "pergunta": "Quando estamos na rua qual seria a forma mais correta de descartar o nosso lixo?",
-         "textoErrado": null,
-         "textoCerto": null,
-         "nivel": 1,
-         "origem": "lixo",
-         "respostas":[
-             "Procurar uma lixeira qualquer.",
-			 "Jogar o lixo no chão.",
-             "Procurar as lixeiras  que tenham separação para lixo orgânico, para Vidro, para Metal, para Plástico e para Papel."
-         ],
-         "correta": 3
-	},
-	{
-         "pergunta": "É possível separar o lixo em casa separando o lixo úmido do lixo seco. O lixo seco é todo o material que pode ser reciclável. Marque a alternativa onde todos os materiais são considerados recicláveis.",
-         "textoErrado": null,
-         "textoCerto": null,
-         "nivel": 1,
-         "origem": "lixo",
-         "respostas":[
-             "Papelão, papel higiênico usado, papel.",
-             "Garrafas pet, latas de refrigerante, vidro.",
-             "Fraldas usadas, cascas de fruta, restos de comida."
-         ],
-         "correta": 2 
-	},
-	{
-         "pergunta": "Qual a importância da coleta seletiva?",
-         "textoErrado": null,
-         "textoCerto": null,
-         "nivel": 1,
-         "origem": "lixo",
-         "respostas":[
-             "Coleta seletiva é a separação dos materiais e reciclagem é a transformação da matéria para reutilização.",
-             "Coleta seletiva é a transformação da matéria para reutilização e reciclagem é  a separação dos materiais.",
-             "Coleta seletiva é a separação dos plásticos e a reciclagem é a separação dos metais."
-         ],
-         "correta": 1
+        "pergunta": "Seu João, do Hotdog, ao pesquisar sobre o consumo consciente começou a pensar quem deveria ser o seu fornecedor de pão. Marque a resposta que mais colabora com o consumo consciente:",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 1,
+        "origem": "hot-dog",
+        "respostas":[
+            "Comprar em uma padaria fora do seu bairro, sem conhecer a procedência do pão.",
+            "Comprar em uma padaria do seu bairro que fabrica o pão.",
+            "Comprar em uma padaria que tem como funcionários menores de 18 anos."
+        ],
+        "correta": 2 
+   },
+   {
+        "pergunta": "Qual seria a melhor forma dos clientes do Sr João descartarem as latinhas de refrigerante?",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 1,
+        "origem": "hot-dog",
+        "respostas":[
+            "No lixo comum.",
+            "Nas lixeiras próprias para descarte de material reciclável.",
+            "Em qualquer lugar da praça."
+        ],
+        "correta": 2 
+   },
+   {
+        "pergunta": "Agrotóxicos são produtos químicos, físicos ou biológicos utilizados nos setores de produção agrícola e podem trazer vários impactos. Os alimentos orgânicos são aqueles onde os agricultores não usam agrotóxico na sua produção. Qual a alternativa correta?",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 1,
+        "origem": "hot-dog",
+        "respostas":[
+            "Quando Sr. João compra um alimento sem agrotóxico ele colabora com a redução do impacto causado ao meio ambiente.",
+            "O Sr. João não tem como contribuir para a diminuição de impactos causados pelo uso de agrotóxico.",
+            "O Sr. João ao comprar um alimento com agrotóxico ele não causa impactos para o meio ambiente."
+        ],
+        "correta": 1 
+   },
+   
+   
+   {
+        "pergunta": "Qual a moeda digital do Banco Bem?",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 1,
+        "origem": "lixo",
+        "respostas":[
+            "Bitcoin.",
+            "Estalecas.",
+            "E-dinheiro."
+        ],
+        "correta": 3
+   },
+   {
+        "pergunta": "É possível separar o lixo em casa separando o lixo úmido do lixo seco. O lixo seco é todo o material que pode ser reciclável. Marque a alternativa onde todos os materiais são considerados recicláveis.",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 1,
+        "origem": "lixo",
+        "respostas":[
+            "Papelão, papel higiênico usado, papel.",
+            "Garrafas pet, latas de refrigerante, vidro.",
+            "Fraldas usadas, cascas de fruta, restos de comida."
+        ],
+        "correta": 2 
+   },
+   {
+        "pergunta": "Qual a importância da coleta seletiva?",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 1,
+        "origem": "lixo",
+        "respostas":[
+            "Coleta seletiva é a separação dos materiais e reciclagem é a transformação da matéria para reutilização.",
+            "Coleta seletiva é a transformação da matéria para reutilização e reciclagem é  a separação dos materiais.",
+            "Coleta seletiva é a separação dos plásticos e a reciclagem é a separação dos metais."
+        ],
+        "correta": 1
+   },
+   
+   
+   {
+        "pergunta": "Quais dessas indústrias você acha que é responsável por consumir mais energia e produzir cerca de 20% do lixo em todo mundo?",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 1,
+        "origem": "brecho",
+        "respostas":[
+            "A indústria das roupas.",
+            "A indústria automobilística.",
+            "A indústria da alimentação."
+        ],
+        "correta": 1
+   },
+   {
+        "pergunta": "Quais os 9 bairros/comunidades do território do bem?",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 1,
+        "origem": "brecho",
+        "respostas":[             
+            "Itararé, Jaburu, Bairro da Penha, Bomfim, Engenharia, Consolação, Floresta, São Benedito e Gurigica.",
+            "Bairro da Penha, São Benedito, Floresta, Piedade, Consolação, Bonfim, Santo Antônio, Itararé e Jaburu.",
+            "Forte São João, Santo André, São Benedito, Floresta, Bairro da Penha, Jaburu, Bonfim, Engenharia e Itararé."
+        ],
+        "correta": 1
+   },
+   {
+        "pergunta": "O Bairro Itararé tem seu nome em origem tipo, que significa 'pedra que o Rio cavou'. A escolha desse nome se deu por que?",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 1,
+        "origem": "brecho",
+        "respostas":[
+            "Porque um rio passava no meio do bairro.",
+            "Porque tinha muitos poços de água.",
+            "Porque antes de ser ocupado possuía muitas áreas alagadiças (que se alaga muito fácil)."
+        ],
+        "correta": 3
+   },
+   
+   
+   {
+        "pergunta": "Qual o nome de um dos primeiros moradores do Bairro Itararé que deu nome à uma rua no bairro?",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 1,
+        "origem": "parquinho",
+        "respostas":[
+            "Daniel Abreu Machado.",
+            "Robert Kenedy.",
+            "anoel Messias dos Santos"
+        ],
+        "correta": 1 
+   },
+   {
+        "pergunta": "Porque preservar os brinquedos do parque?",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 1,
+        "origem": "parquinho",
+        "respostas":[
+            "Todo brinquedo ou objeto tem o seu valor e todo um trabalho por trás (mão de obra).",
+            "Pois eles são legais e divertidos.",
+            "Pois sem eles o mundo ficaria menos divertido."
+        ],
+        "correta": 1 
+   },
+   {
+        "pergunta": "O primeiro passo para entender o que é consumo consciente é perceber que o consumo de toda e qualquer coisa traz consigo consequências positivas e negativas para você e para a sociedade ou para o meio ambiente. Marque a alternativa correta:",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 1,
+        "origem": "parquinho",
+        "respostas":[
+            "Eu consumo de forma consciente quando compro coisas que não estou precisando.",
+            "Eu consumo de forma consciente quando me preocupo com a forma como o produto foi produzido.",
+            "Eu consumo de forma consciente quando não me preocupo se aquele produto foi feito de forma agressiva ao meio ambiente."
+        ],
+        "correta": 2
+   },
+   
+   
+   {
+        "pergunta": "Qual o nome da primeira escola criada no Bairro Itararé?",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 1,
+        "origem": "futebol",
+        "respostas":[
+            "Escola Paulo Roberto.",
+            "Escola Ceciliano Abel de Almeida.",
+            "Escola Otto Ewald Junior."
+        ],
+        "correta": 3
+   },
+   {
+        "pergunta": "Quais os benefícios da grama sintética?",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 1,
+        "origem": "futebol",
+        "respostas":[
+            "Evita o acúmulo de água, além de poupar tempo e dinheiro ainda ajuda a natureza, por não necessitar utilizar água.",
+            "Evita lesões aos atletas.",
+            "Melhora a estética e formato dos campos."
+        ],
+        "correta": 1
+   },
+   {
+        "pergunta": "Consumir no comércio local é importante? Marque a alternativa ERRADA:",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 1,
+        "origem": "futebol",
+        "respostas":[
+            "Quando compramos no nosso bairro ajudamos diretamente a desenvolver o lugar onde moramos.",
+            "Não importa onde compramos, sempre estaremos ajudando o nosso bairro.",
+            "Quando compramos no nosso bairro impactamos positivamente a economia local e você também incentiva o comerciante da sua área."
+        ],
+        "correta": 2
+   },
+
+
+    
+    {
+        "pergunta": "Cite uma vantagem da reciclagem de resíduos sólidos:",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 2,
+        "origem": "academia",
+        "respostas":[
+            "Contribui para reduzir a quantidade de lixo a ser enviado aos aterros sanitários e para a limpeza da cidade",
+            "Melhora a comunicação entre as pessoas entre si, pois elas falam mais sobre consumo consciente",
+            "Aumenta o consumo de produtos descartáveis"
+        ],
+        "correta": 1 
     },
-	
-	
-	{
-         "pergunta": "Quais dessas indústrias você acha que é responsável por consumir mais energia e produzir cerca de 20% do lixo em todo mundo?",
-         "textoErrado": null,
-         "textoCerto": null,
-         "nivel": 1,
-         "origem": "brecho",
-         "respostas":[
-             "A indústria das roupas.",
-             "A indústria automobilística.",
-             "A indústria da alimentação."
-         ],
-         "correta": 1
-	},
-	{
-         "pergunta": "Como um brechó pode ajudar na sua comunidade?",
-         "textoErrado": null,
-         "textoCerto": null,
-         "nivel": 1,
-         "origem": "brecho",
-         "respostas":[             
-             "O brechó ajuda pois sem ele não seria possível a movimentação de comida na comunidade.",
-             "Ele ajuda muito na produção de brinquedos para as crianças.",
-			 "O brechó é uma maneira de tornar a moda mais sustentável, reaproveitando as roupas e reduzindo o consumo de peças novas."
-         ],
-         "correta": 3
-	},
-	{
-         "pergunta": "O que acontece com materiais feitos de plástico que são jogados na rua?",
-         "textoErrado": null,
-         "textoCerto": null,
-         "nivel": 1,
-         "origem": "brecho",
-         "respostas":[
-             "Eles se decompõe em dois dias e não causam impacto para o meio ambiente.",
-             "Demoram anos para se decompor e causam impacto para o meio ambiente e para os animais que ingerem os plásticos descartados de forma incorreta.",
-             "O vento se encarrega de levar o material para longe e não causam prejuízo algum."
-         ],
-         "correta": 2
-	},
-	
-	
-	{
-         "pergunta": "O que define um perfil de consumo?",
-         "textoErrado": null,
-         "textoCerto": null,
-         "nivel": 1,
-         "origem": "parquinho",
-         "respostas":[
-             "Quanto de dinheiro uma pessoa tem pra gastar.",
-             "É definido pela classe social de cada pessoa, por exemplo, classe D (pouco dinheiro) classe A (muito dinheiro).",
-             "A forma como a pessoa pensa, como por exemplo: Preciso mesmo comprar isso? Ou: Esse produto impacta de alguma forma o meio ambiente?"
-         ],
-         "correta": 3 
-	},
-	{
-         "pergunta": "Porque preservar os brinquedos do parque?",
-         "textoErrado": null,
-         "textoCerto": null,
-         "nivel": 1,
-         "origem": "parquinho",
-         "respostas":[
-             "Todo brinquedo ou objeto tem o seu valor e todo um trabalho por trás (mão de obra).",
-             "Pois eles são legais e divertidos.",
-             "Pois sem eles o mundo ficaria menos divertido."
-         ],
-         "correta": 1 
-	},
-	{
-         "pergunta": "O primeiro passo para entender o que é consumo consciente é perceber que o consumo de toda e qualquer coisa traz consigo consequências positivas e negativas para você e para a sociedade ou para o meio ambiente. Marque a alternativa correta:",
-         "textoErrado": null,
-         "textoCerto": null,
-         "nivel": 1,
-         "origem": "parquinho",
-         "respostas":[
-             "Eu consumo de forma consciente quando compro coisas que não estou precisando.",
-             "Eu consumo de forma consciente quando me preocupo com a forma como o produto foi produzido.",
-             "Eu consumo de forma consciente quando não me preocupo se aquele produto foi feito de forma agressiva ao meio ambiente."
-         ],
-         "correta": 2
-	},
-	
-	
-	{
-         "pergunta": "Como descartar o lixo eletrônico corretamente?",
-         "textoErrado": null,
-         "textoCerto": null,
-         "nivel": 1,
-         "origem": "futebol",
-         "respostas":[
-             "No lixo comum.",
-             "Descartar na lixeira azul da coleta seletiva.",
-             "Entregar o lixo eletrônico em uma Associação de Catadores."
-         ],
-         "correta": 3
-	},
-	{
-         "pergunta": "Quais os benefícios da grama sintética?",
-         "textoErrado": null,
-         "textoCerto": null,
-         "nivel": 1,
-         "origem": "futebol",
-         "respostas":[
-             "Evita o acúmulo de água, além de poupar tempo e dinheiro ainda ajuda a natureza, por não necessitar utilizar água.",
-             "Evita lesões aos atletas.",
-             "Melhora a estética e formato dos campos."
-         ],
-         "correta": 1
-	},
-	{
-         "pergunta": "Consumir no comércio local é importante? Marque a alternativa ERRADA:",
-         "textoErrado": null,
-         "textoCerto": null,
-         "nivel": 1,
-         "origem": "futebol",
-         "respostas":[
-             "Quando compramos no nosso bairro ajudamos diretamente a desenvolver o lugar onde moramos.",
-             "Não importa onde compramos, sempre estaremos ajudando o nosso bairro.",
-             "Quando compramos no nosso bairro impactamos positivamente a economia local e você também incentiva o comerciante da sua área."
-         ],
-         "correta": 2
-	}
- ]   
+    {
+        "pergunta": "A única e principal escola do Bairro da Penha é o Zilda Andrade, mas antes de se tornar uma escola existia uma outra instituição no local, qual era?",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 2,
+        "origem": "academia",
+        "respostas":[
+            "Uma igreja",
+            "Um hospício",
+            "Um posto de saúde"
+        ],
+        "correta": 1 
+    },
+    {
+        "pergunta": "O que acontece com materiais feitos de plástico que são jogados na rua?",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 2,
+        "origem": "academia",
+        "respostas":[
+            "Eles se decompõe em dois dias e não causam impacto para o meio ambiente",
+            "Demoram anos para se decompor e causam impacto para o meio ambiente e para os animais que ingerem os plásticos descartados de forma incorreta",
+            "O vento se encarrega de levar o material para longe e não causam prejuízo algum"
+        ],
+        "correta": 2 
+    },
+
+
+    {
+        "pergunta": "Sabendo que todos os dias acontece o desperdício de grande quantidade de alimentos em vários lugares, o dono da feirinha resolveu fazer sua parte e não contribuir com tais desperdícios. Cite as práticas adotadas pelo feirante para diminuir o desperdício:",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 2,
+        "origem": "bacia",
+        "respostas":[
+            "Doar a quem precisa, tentar conservar por mais tempo os produtos e fazer promoções",
+            "Fazer compras em grandes quantidades e doar os alimentos que estão estragados",
+            "Jogar tudo fora e vender mais barato quando os alimentos estiverem vencidos."
+        ],
+        "correta": 1
+    },
+    {
+        "pergunta": "Quando a energia elétrica foi implantada no Bairro da Penha?",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 2,
+        "origem": "bacia",
+        "respostas":[
+            "1976",
+            "1990",
+            "1960"
+        ],
+        "correta": 1 
+    },
+    {
+        "pergunta": "O primeiro passo para entender o que é consumo consciente é perceber que o consumo de toda e qualquer coisa traz consigo consequências positivas e negativas para você e para a sociedade ou para o meio ambiente. Marque a alternativa correta:",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 2,
+        "origem": "bacia",
+        "respostas":[
+            "Eu consumo de forma consciente quando compro coisas que não estou precisando",
+            "Eu consumo de forma consciente quando não me preocupo se aquele produto foi feito de forma agressiva ao meio ambiente",
+            "Eu consumo de forma consciente quando me preocupo com a forma como o produto foi produzido"
+        ],
+        "correta": 3
+    },
+
+
+    {
+        "pergunta": "O primeiro passo para consumir de forma consciente é através das mudanças de hábito diariamente. Para realizar tais mudanças existem algumas recomendações que podem ser seguidas, quais são?",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 2,
+        "origem": "pastel",
+        "respostas":[
+            "Vender, reutilizar, devolver, reciclar e reorganizar",
+            "Reciclar, poupar, dividir, repor e reduzir",
+            "Repensar, recusar, reduzir, reutilizar e reciclar"
+        ],
+        "correta": 3
+    },
+    {
+        "pergunta": "O banco Bem foi criado em 2005, a fim de:",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 2,
+        "origem": "pastel",
+        "respostas":[             
+            "Contribuir com o fortalecimento da economia local e o desenvolvimento da economia solidária",
+            "Ter mais opções de bancos para a população em geral",
+            "Orientar jovens a poupar dinheiro"
+        ],
+        "correta": 1
+    },
+    {
+        "pergunta": "Quando estamos na rua qual seria a forma mais correta de descartar o nosso lixo?",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 2,
+        "origem": "pastel",
+        "respostas":[
+            "Procurar uma lixeira qualquer",
+            "Jogar o lixo no chão",
+            "Procurar as lixeiras  que tenham separação para lixo orgânico, para Vidro, para Metal, para Plástico e para Papel"
+        ],
+        "correta": 3
+    },
+
+
+    {
+        "pergunta": "Consumir de maneira consciente não envolve apenas a escolha entre comprar ou não algo que precisamos. Marque a alternativa errada:",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 2,
+        "origem": "onibus",
+        "respostas":[
+            "Consumo consciente está relacionado com o direito de ir e vir",
+            "Consumo consciente está relacionado com a sustentabilidade e com a falta de pensar nas consequências ambientais e sociais que a produção e a venda de diversos itens geram",
+            "Consumo consciente está relacionado a diminuição do consumismo"
+        ],
+        "correta": 1 
+    },
+    {
+        "pergunta": "O sargento Carioca foi uma figura muito importante para o bairro. Ele foi responsável por quais ações?",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 2,
+        "origem": "onibus",
+        "respostas":[
+            "Realizar eventos festivos no bairro",
+            "Dividiu todos os terrenos para quem não tinha dinheiro e vendia para quem tinha condição de comprar, além de construir os canais de esgoto",
+            "Fundou a primeira escola do Bairro, além de ajudar e muito os moradores no quesito alimentação"
+        ],
+        "correta": 2 
+    },
+    {
+        "pergunta": "O que define um perfil de consumo?",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 2,
+        "origem": "onibus",
+        "respostas":[
+            "Quanto de dinheiro uma pessoa tem pra gastar",
+            "É definido pela classe social de cada pessoa, por exemplo, classe D (pouco dinheiro) classe A (muito dinheiro)",
+            "A forma como a pessoa pensa, como por exemplo: Preciso mesmo comprar isso? Ou: Esse produto impacta de alguma forma o meio ambiente?"
+        ],
+        "correta": 3
+    },
+
+
+    {
+        "pergunta": "Marque a resposta correta: Ao comprar produtos no bairro onde eu moro:",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 2,
+        "origem": "peixe",
+        "respostas":[
+            "Só eu sou beneficiado",
+            "Colaboro com o desenvolvimento do meu bairro",
+            "Não faz diferença para a questão da economia do meu bairro"
+        ],
+        "correta": 2
+    },
+    {
+        "pergunta": "Qual é a atração turística que se localiza no topo do morro do São Benedito?",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 2,
+        "origem": "peixe",
+        "respostas":[
+            "Farol",
+            "A maior árvore do ES",
+            "A pedra do Bairro da Penha"
+        ],
+        "correta": 1
+    },
+    {
+        "pergunta": "Consumir no comércio local é importante? Marque a alternativa ERRADA:",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 2,
+        "origem": "peixe",
+        "respostas":[
+            "Quando compramos no nosso bairro ajudamos diretamente a desenvolver o lugar onde moramos.",
+            "Não importa onde compramos, sempre estaremos ajudando o nosso bairro.",
+            "Quando compramos no nosso bairro impactamos positivamente a economia local e você também incentiva o comerciante da sua área."
+        ],
+        "correta": 2
+    }
+]   

@@ -15,12 +15,15 @@
 
       <Pergunta
         v-if="exibirPerguntas"
-        :perguntas="perguntasAleatorias"
+        :perguntas="perguntasAleatorias"        
         @fimPerguntas="fimPerguntas"
       />
 
       <FimFase 
         v-if="fimFase"
+        :nivel="nivel"
+        :personagem="personagem"
+        :apelido="apelidoUsuario"
         :totalAcertos="totalAcertos"
       />
     </md-dialog>
@@ -65,12 +68,12 @@ export default {
       exibirPerguntas: false,
       fimFase: false,
       totalAcertos: 0,
+      apelidoUsuario: null,
       personagem: null,
+      faseGame: require("../assets/app1.nsp"),
     };
   },
   mounted() {
-    const faseGame = require("../assets/app1.nsp");
-
     document.addEventListener("backbutton", this.botaoVoltar, false);
 
     if (!this.app.isLoad) {
@@ -80,7 +83,7 @@ export default {
         this.app = new window.Nunu.App(game);
         this.app.isLoad = true;
         this.app.setOnDataReceived(this.recebeDadosNunu);
-        await this.app.loadRunProgram(faseGame);
+        await this.app.loadRunProgram(this.faseGame);
         this.visible = true;
       };
       script.async = true;
@@ -164,13 +167,14 @@ export default {
       this.$router.go("/");
     },
 
-    jogar(personagem) {
+    jogar(personagem, apelidoUsuario) {
       console.log("Personagem selecionado", personagem);
       if (!personagem) {
         console.error("Personagem inválido!");
         return;
       }
 
+      this.apelidoUsuario = apelidoUsuario;
       this.personagem = personagem;
       this.inicioFase = false;
       this.app.sendData({

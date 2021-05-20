@@ -10,4 +10,8 @@ export default class WebServices {
   acessar(parametros) {
     return axios.post(`${this._baseUrl}acessar.php`, parametros);
   }
+
+  salvarPontos(parametros) {
+    return axios.post(`${this._baseUrl}salvarpontos.php`, parametros);
+  }
 }
