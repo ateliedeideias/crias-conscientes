@@ -1,0 +1,14 @@
+// Cadastro
+{
+    "apelido": "john",
+    "email": "johns@gmail.com",
+    "telefone": "(23) 98125-5154",
+    "temWhats": true,
+    "senha": "12345"
+}
+
+// Acessar (autenticar usuário)
+{
+    "usuário": "apelido ou email",
+    "senha": "senha do usuário"
+}
