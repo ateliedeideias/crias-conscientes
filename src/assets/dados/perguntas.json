@@ -201,5 +201,135 @@
              "Quando compramos no nosso bairro impactamos positivamente a economia local e você também incentiva o comerciante da sua área."
          ],
          "correta": 2
+	},
+    {
+        "pergunta": "O primeiro passo para consumir de forma consciente é através das mudanças de hábito diariamente. Para realizar tais mudanças existem algumas recomendações que podem ser seguidas, quais são?",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 2,
+        "origem": "pastel",
+        "respostas":[
+            "Vender, reutilizar, devolver, reciclar e reorganizar.",
+            "Reciclar, poupar, dividir, repor e reduzir.",
+            "Repensar, recusar, reduzir, reutilizar e reciclar."
+        ],
+        "correta": 3		
+    },
+	{
+		"pergunta": "Quando estamos na rua qual seria a forma mais correta de descartar o nosso lixo?",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 2,
+        "origem": "pastel",
+        "respostas":[
+            "Procurar uma lixeira qualquer.",
+            "Jogar o lixo no chão.",
+            "Procurar as lixeiras  que tenham separação para lixo orgânico, para Vidro, para Metal, para Plástico e para Papel."
+        ],
+        "correta": 3
+	},
+	{
+        "pergunta": "A única e principal escola do Bairro da Penha é o Zilda Andrade, mas antes de se tornar uma escola existia uma outra instituição no local, qual era?",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 2,
+        "origem": "academia",
+        "respostas":[
+            "Uma igreja.",
+            "Um hospício.",
+            "Um posto de saúde."
+        ],
+        "correta": 1
+    },
+	{
+		"pergunta": "O que acontece com materiais feitos de plástico que são jogados na rua?",
+		"textoErrado": null,
+		"textoCerto": null,
+		"nivel": 2,
+		"origem": "academia",
+		"respostas": [
+			"Eles se decompõem em dois dias e não causam impacto para o meio ambiente.",
+			"Demoram anos para se decompor e causam impacto para o meio ambiente e para s animais que ingerem os plásticos descartados de forma incorreta.",
+			"O vento se encarrega de levar o material para longe e não causam prejuízo algum."
+		],
+		"correta": 2
+	},
+	{
+		"pergunta": "Sabendo que todos os dias acontece o desperdício de grande quantidade de alimentos em vários lugares, o dono da feirinha resolveu fazer sua parte e não contribuir com tais desperdícios. Cite as práticas adotadas pelo feirante para diminuir o desperdício.",
+		"textoErrado": null,
+		"textoCerto": null,
+		"nivel": 2,
+		"origem": "bacia",
+		"respostas": [
+			"Doar a quem precisa, tentar conservar por mais tempo os produtos e fazer promoções.",
+			"Fazer compras em grandes quantidades e doar os alimentos que estão estragados.",
+			"Jogar tudo fora e vender mais barato quando os alimentos estiverem vencidos."
+		],
+		"correta": 1
+	},
+		{
+		"pergunta": "Quando a energia elétrica foi implantada no Bairro da Penha?",
+		"textoErrado": null,
+		"textoCerto": null,
+		"nivel": 2,
+		"origem": "bacia",
+		"respostas": [
+			"1976",
+			"1990",
+			"1960"
+		],
+		"correta": 1
+	},
+		{
+		"pergunta": "Marque a resposta correta: Ao comprar produtos no bairro onde eu moro?",
+		"textoErrado": null,
+		"textoCerto": null,
+		"nivel": 2,
+		"origem": "peixe",
+		"respostas": [
+			"Só eu sou beneficiado.",
+			"Colaboro com o desenvolvimento do meu bairro.",
+			"Não faz diferença para a questão da economia do meu bairro."
+		],
+		"correta": 2
+	},
+		{
+		"pergunta": "Consumir no comércio local é importante? Marque a alternativa ERRADA:",
+		"textoErrado": null,
+		"textoCerto": null,
+		"nivel": 2,
+		"origem": "peixe",
+		"respostas": [
+			"Quando compramos no nosso bairro ajudamos diretamente a desenvolver o lugar onde moramos.",
+			"Não importa onde compramos, sempre estaremos ajudando o nosso bairro.",
+			"Quando compramos no nosso bairro impactamos positivamente a economia local e você também incentiva o comerciante da sua área."
+		],
+		"correta": 2
+	},
+		{
+		"pergunta": "O sargento Carioca foi uma figura muito importante para o bairro. Ele foi responsável por quais ações?",
+		"textoErrado": null,
+		"textoCerto": null,
+		"nivel": 2,
+		"origem": "onibus",
+		"respostas": [
+			"Realizar eventos festivos no bairro;",
+			"Dividiu todos os terrenos para quem não tinha dinheiro e vendia para quem tinha condição de comprar, além de construir os canais de esgoto;",
+			"Fundou a primeira escola do Bairro, além de ajudar e muito os moradores no quesito alimentação."
+		],
+		"correta": 2
+	},
+		{
+		"pergunta": "O que define um perfil de consumo?",
+		"textoErrado": null,
+		"textoCerto": null,
+		"nivel": 2,
+		"origem": "onibus",
+		"respostas": [
+			"Quanto de dinheiro uma pessoa tem pra gastar.",
+			"É definido pela classe social de cada pessoa, por exemplo, classe D (pouco dinheiro) classe A (muito dinheiro).",
+			"A forma como a pessoa pensa, como por exemplo: Preciso mesmo comprar isso? Ou: Esse produto impacta de alguma forma o meio ambiente?"
+		],
+		"correta": 3
 	}
  ]   

@@ -13,7 +13,7 @@
       v-if="visible"
     >
       <p class="md-caption">Realização</p>
-      <div>
+      <div class="barra-logos">
         <a href="https://www.instagram.com/ateliedeideias.es/" target="_blank">
           <img
             alt="Ateliê de Ideias"
@@ -175,6 +175,56 @@ body {
   text-align: left;
 }
 .ml {
-  margin-left: 10px;
+  margin-left: 15px;
+}
+
+.barra-logos {
+  background-color: #fff;
+  padding: 10px;
+  border-radius: 15px !important;
+}
+
+.botao {
+    color: #fff !important;
+    background-color: #000 !important;
+    border-color: #000 !important;
+    border-width: 3px !important; 
+    border-style: solid !important;
+    border-radius: 10px !important;
+    text-align: center !important;
+    font-size: 12px !important;
+    font-weight: bold !important;
+    line-height: 50% !important;
+}
+
+.msg-error {
+  color: #ff0000;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.branco {
+  color: #fff !important;
+}
+
+
+.md-field.md-theme-default .md-helper-text, .md-field.md-theme-default .md-count, .md-field.md-theme-default label, .md-layout {
+    color: #000 !important;
+}
+
+.md-field.md-theme-default:after {
+    background-color: rgba(0,0,0,0.7) !important;
+}
+
+.md-focused .md-input, .md-focused .md-textarea, .md-highlight .md-input, .md-highlight .md-textarea {
+    color: #000 !important;
+}
+
+input {
+  color: -internal-light-dark(black, black) !important;
+}
+
+.md-field.md-theme-default.md-focused .md-input, .md-field.md-theme-default.md-focused .md-textarea, .md-field.md-theme-default.md-has-value .md-input, .md-field.md-theme-default.md-has-value .md-textarea {
+    -webkit-text-fill-color: #000 !important;
 }
 </style>

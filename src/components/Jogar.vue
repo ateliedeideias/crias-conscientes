@@ -97,7 +97,7 @@ export default {
       if (this.fimFase) return false;
       
       console.log(data);
-      this.nivel = data.nivel; // nunu deve informar a fase
+      this.nivel = data.nivel; // nunu deve informar a fase (Número)
       this.origem = data.type; // nunu deve informar a origem (lixeira, brecho, parquinho, etc....)
 
       switch (this.origem) {
@@ -145,13 +145,6 @@ export default {
       this.apelidoUsuario = apelidoUsuario;
       this.personagem = personagem;
       this.inicioFase = false;
-      
-      /*if (this.nivel === 1) {
-        this.totalAcertos = 11;
-        this.fimFase = true;
-        return;
-      }*/
-
       this.enviaPersonagem();
     },
 
