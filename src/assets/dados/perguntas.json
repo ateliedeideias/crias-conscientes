@@ -267,7 +267,7 @@
 		],
 		"correta": 1
 	},
-		{
+	{
 		"pergunta": "Quando a energia elétrica foi implantada no Bairro da Penha?",
 		"textoErrado": null,
 		"textoCerto": null,
@@ -280,7 +280,7 @@
 		],
 		"correta": 1
 	},
-		{
+	{
 		"pergunta": "Marque a resposta correta: Ao comprar produtos no bairro onde eu moro?",
 		"textoErrado": null,
 		"textoCerto": null,
@@ -293,7 +293,7 @@
 		],
 		"correta": 2
 	},
-		{
+	{
 		"pergunta": "Consumir no comércio local é importante? Marque a alternativa ERRADA:",
 		"textoErrado": null,
 		"textoCerto": null,
@@ -306,7 +306,7 @@
 		],
 		"correta": 2
 	},
-		{
+	{
 		"pergunta": "O sargento Carioca foi uma figura muito importante para o bairro. Ele foi responsável por quais ações?",
 		"textoErrado": null,
 		"textoCerto": null,
@@ -319,7 +319,7 @@
 		],
 		"correta": 2
 	},
-		{
+	{
 		"pergunta": "O que define um perfil de consumo?",
 		"textoErrado": null,
 		"textoCerto": null,
@@ -331,5 +331,473 @@
 			"A forma como a pessoa pensa, como por exemplo: Preciso mesmo comprar isso? Ou: Esse produto impacta de alguma forma o meio ambiente?"
 		],
 		"correta": 3
-	}
- ]   
+	},
+    {
+		"pergunta": "Quando surgiu o transporte coletivo no São Benedito?",
+		"textoErrado": null,
+		"textoCerto": null,
+		"nivel": 3,
+		"origem": "x",
+		"respostas": [
+			"1999",
+			"1980",
+			"1955"
+		],
+		"correta": 1
+	},
+    {
+		"pergunta": "Como foi feita a primeira capala localizada no alto do Bairro São Benedito?",
+		"textoErrado": null,
+		"textoCerto": null,
+		"nivel": 3,
+		"origem": "x",
+		"respostas": [
+			"Era feita de lajota e palha.",
+			"Era feita de tábuas e telhas.",
+			"Era feuta de bloco e sapé."
+		],
+		"correta": 2
+	},
+    {
+		"pergunta": "Qual é a atração turística que se localiza no topo do morro do São Benedito?",
+		"textoErrado": null,
+		"textoCerto": null,
+		"nivel": 3,
+		"origem": "x",
+		"respostas": [
+			"A maior árvore do ES.",
+			"A maior pedra do bairo da penha",
+			"O mirante do farol, mais conhecido como Farol Morro Grande por ter a maior altitude focal do país."
+		],
+		"correta": 3
+	},
+    {
+		"pergunta": "Para que haja relação de consumo é preciso de quais elementos?",
+		"textoErrado": null,
+		"textoCerto": null,
+		"nivel": 3,
+		"origem": "x",
+		"respostas": [
+			"Empresário, serviço e fornecedor.",
+			"Consumidor, fornecedor e produto/serviço.",
+			"Fornecedor, empregado e produto."
+		],
+		"correta": 2
+	},
+    {
+		"pergunta": "Quando a relação de consumo é aplicado o:",
+		"textoErrado": null,
+		"textoCerto": null,
+		"nivel": 3,
+		"origem": "x",
+		"respostas": [
+			"Código de trânsito.",
+			"Código de rastreamento.",
+			"Código do consumidor."
+		],
+		"correta": 3
+	},
+    {
+		"pergunta": "Para que serve o código de defesa do consumidor?",
+		"textoErrado": null,
+		"textoCerto": null,
+		"nivel": 3,
+		"origem": "x",
+		"respostas": [
+			"Proteger os animais de maus tratos.",
+			"Estabelecer princípios básicos como proteção da vida, da saúde, da segurança e da educação relacionados ao consumo do cidadão.",
+			"Impedir o abandono de idosos."
+		],
+		"correta": 2
+	},
+    {
+		"pergunta": "Se não houver relação de consumo não à código de defesa do consumidor, o que se aplica nesse caso?",
+		"textoErrado": null,
+		"textoCerto": null,
+		"nivel": 3,
+		"origem": "x",
+		"respostas": [
+			"Código Civil.",
+			"Código postal.",
+			"Código de banco."
+		],
+		"correta": 1
+	},
+    {
+		"pergunta": "É possível separar o lixo em casa separando o lixo úmido do lixo seco. O lixo seco é todo o material que pode ser reciclável. Marque a alternativa onde todos os materiais são considerados recicláveis.",
+		"textoErrado": null,
+		"textoCerto": null,
+		"nivel": 3,
+		"origem": "x",
+		"respostas": [
+			"Papelão, papel higiênico usado, papel.",
+			"Garrafas pet, latas de refrigerante, vidro.",
+			"Fraldas usadas, cascas de fruta, restos de comida."
+		],
+		"correta": 2
+	},
+    {
+		"pergunta": "O primeiro passo para entender o que é consumo consciente é perceber que o consumo de toda e qualquer coisa traz consigo consequências positivas e negativas para você e para a sociedade ou para o meio ambiente. Marque a alternativa correta:",
+		"textoErrado": null,
+		"textoCerto": null,
+		"nivel": 3,
+		"origem": "x",
+		"respostas": [
+			"Eu consumo de forma consciente quando compro coisas que não estou precisando.",
+			"Eu consumo de forma consciente quando me preocupo com a forma como o produto foi produzido.",
+			"Eu consumo de forma consciente quando não me preocupo se aquele produto foi feito de forma agressiva ao meio ambiente."
+		],
+		"correta": 2
+	},
+    {
+		"pergunta": "Consumir no comércio local é importante? Marque a alternativa ERRADA:",
+		"textoErrado": null,
+		"textoCerto": null,
+		"nivel": 3,
+		"origem": "x",
+		"respostas": [
+			"Quando compramos no nosso bairro ajudamos diretamente a desenvolver o lugar onde moramos",
+			"Não importa onde compramos, sempre estaremos ajudando o nosso bairro.",
+			"Quando compramos no nosso bairro impactamos positivamente a economia local e você também incentiva o comerciante da sua área."
+		],
+		"correta": 2
+	},
+    {
+		"pergunta": "A praça de Gurigica tem o nome em homenagem a uma pessoa muito especial para o bairro, que fazia atividades sociais pela região. Qual o nome dessa pessoa?",
+		"textoErrado": null,
+		"textoCerto": null,
+		"nivel": 4,
+		"origem": "x",
+		"respostas": [
+            "Judith Braz Coutinho.",
+            "Robert Kennedy.",
+            "Herminio Blackman."
+		],
+		"correta": 1
+	},
+    {
+		"pergunta": "Qual bloco carnavalesco que representava a comunidade de Gurigica?",
+		"textoErrado": null,
+		"textoCerto": null,
+		"nivel": 4,
+		"origem": "x",
+		"respostas": [
+            "Irmãos de Gurigica.",
+            "Amigos da Gurigica.",
+            "Unidos da Gurigica."
+		],
+		"correta": 2
+	},
+    {
+		"pergunta": "Antes de ser chamada de Gurigica a região era conhecida por outro nome. Qual era?",
+		"textoErrado": null,
+		"textoCerto": null,
+		"nivel": 4,
+		"origem": "x",
+		"respostas": [
+            "Era “Repouso dos animais”, pois ali havia muitos bichos soltos.",
+            "Era “Alto da Égua”, pois ali havia um criadouro de éguas e grande circulação desses animais na região.",
+            "Era “Baixa da Égua”, pois ali havia um criadouro de éguas e grande circulação desses animais na região."
+		],
+		"correta": 3
+	},
+    {
+		"pergunta": "Segundo o código de defesa do consumidor, é considerado um perfil de consumidor:",
+		"textoErrado": null,
+		"textoCerto": null,
+		"nivel": 4,
+		"origem": "x",
+		"respostas": [
+            "Toda pessoa física ou jurídica que adquire ou utiliza produto com destinatário final.",
+            "Toda pessoa que consome de forma consciente.",
+            "Comprar no supermercado e pedir a nota fiscal."
+		],
+		"correta": 1
+	},
+    {
+		"pergunta": "Qual o interesse dos participantes na relação de consumo?",
+		"textoErrado": null,
+		"textoCerto": null,
+		"nivel": 4,
+		"origem": "x",
+		"respostas": [
+            "O interesse é quando uma pessoa compra no comércio local.",
+            "São aqueles relacionados com os objetivos pretendidos por fornecedores e consumidores.",
+            "É visto como uma prática de reciclagem, na forma que descarta o produto."
+		],
+		"correta": 2
+	},
+    {
+		"pergunta": "Consumir de maneira consciente não envolve apenas a escolha entre comprar ou não algo que precisamos. Marque a alternativa errada:",
+		"textoErrado": null,
+		"textoCerto": null,
+		"nivel": 4,
+		"origem": "x",
+		"respostas": [
+            "Consumo consciente está relacionado com a sustentabilidade e com a falta de pensar nas consequências ambientais e sociais que a produção e a venda de diversos itens geram.",
+            "Consumo consciente está relacionado a diminuição do consumismo.",
+            "Consumo consciente está relacionado com o direito de ir e vir."
+		],
+		"correta": 3
+	},
+    {
+		"pergunta": "O primeiro passo para entender o que é consumo consciente é perceber que o consumo de toda e qualquer coisa traz consigo consequências positivas e negativas para você e para a sociedade ou para o meio ambiente. Marque a alternativa correta:",
+		"textoErrado": null,
+		"textoCerto": null,
+		"nivel": 4,
+		"origem": "x",
+		"respostas": [
+            "Eu consumo de forma consciente quando não me preocupo se aquele produto foi feito de forma agressiva ao meio ambiente.",
+            "Eu consumo de forma consciente quando me preocupo com a forma como o produto foi produzido",
+            "Eu consumo de forma consciente quando compro coisas que não estou precisando."
+		],
+		"correta": 2
+	},
+    {
+		"pergunta": "Cite uma vantagem da reciclagem de resíduos sólidos.",
+		"textoErrado": null,
+		"textoCerto": null,
+		"nivel": 4,
+		"origem": "x",
+		"respostas": [
+            "Contribui para reduzir a quantidade de lixo a ser enviado aos aterros sanitários e para a limpeza da cidade.",
+            "Aumenta o consumo de produtos descartáveis.",
+            "Melhora a comunicação entre as pessoas entre si, pois elas falam mais sobre consumo consciente."
+		],
+		"correta": 1
+	},
+    {
+		"pergunta": "Para comprovação de aquisição de cada compra, todo estabelecimento comercial deve emitir:",
+		"textoErrado": null,
+		"textoCerto": null,
+		"nivel": 4,
+		"origem": "x",
+		"respostas": [
+            "Extrato bancário.",
+            "Boleto bancário.",
+            "Nota fiscal."
+		],
+		"correta": 3
+	},
+    {
+		"pergunta": "Para verificar a lei e os seus direitos caso o consumidor precise, todo estabelecimento precisa ter:",
+		"textoErrado": null,
+		"textoCerto": null,
+		"nivel": 4,
+		"origem": "x",
+		"respostas": [
+            "Estatuto da juventude.",
+            "Código de defesa do consumidor.",
+            "Estatuto direitos e deveres."
+		],
+		"correta": 2
+	},
+    { 1111111111111
+        "pergunta": "Você sabe qual embalagem gasta menos água em sua produção?",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 5,
+        "origem": "x",
+        "respostas": [
+            "Garrafa PET.",
+            "Latinha de alumínio.",
+            "Garrafa de vidro."
+        ],
+        "correta": 2
+    },
+    {
+        "pergunta": "Toda embalagem deve ser lavada antes do descarte consciente?",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 5,
+        "origem": "x",
+        "respostas": [
+            "Não. Pois ela já vai direto para o lixo, e assim será descartada de forma consciente.",
+            "Sim. Sem a lavagem das embalagens prejudicamos o processo de reciclagem.",
+            "Opcão3"
+        ],
+        "correta": 2
+    },
+    {
+        "pergunta": "No Brasil, reciclamos apenas 3% de todo o lixo, o que podemos fazer para mudar essa realidade.",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 5,
+        "origem": "x",
+        "respostas": [
+            "Recicle de forma consciente, dispense sacolas plásticas e carregue sempre uma ecobag, utilize copo retrátil e canudo reutilizável.",
+            "Opcão2",
+            "Opcão3"
+        ],
+        "correta": 1
+    },
+    {
+        "pergunta": "Já parou pra pensar que nem sempre algumas embalagens recicláveis são recicladas? Marque a opção que parece não ser reciclável:",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 5,
+        "origem": "x",
+        "respostas": [
+            "Embalagens metalizadas (como os pacotes de biscoito).",
+            "Garrafa PET.",
+            "Papelão."
+        ],
+        "correta": 1
+    },
+    {
+        "pergunta": "No Bairro Engenharia, existe um projeto muito importante para a representatividade local, que tem o intuito de trazer o resgate da história do bairro através das mulheres, e a história da ocupação do bairro engenheira. Qual o nome desse projeto?",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 5,
+        "origem": "x",
+        "respostas": [
+            "Word Dance",
+            "Dona’s",
+            "Bazar Solidário"
+        ],
+        "correta": 3
+    },
+    {
+        "pergunta": "Você sabia que o Pega no Samba, a escola de samba de Gurigica, coloca em prática o consumo consciente na época do Carnaval? Como você acha que ela contribui? Marque a resposta errada:",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 6,
+        "origem": "x",
+        "respostas": [
+            "Comprando sempre novas matérias primas.",
+            "Customizando fantasias.",
+            "Orientando o folião no descarte correto da fantasia."
+        ],
+        "correta": 2
+    },
+    {
+        "pergunta": "O ir e vir é muito importante para criar novas relações no Território do Bem, mas até 1973, havia um obstáculo que impedia a passagem de carros na Rua Waldir Meirelles, a principal rua do Bairro Consolação. O que era?",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 6,
+        "origem": "x",
+        "respostas": [
+            "Uma pedra.",
+            "Um buraco.",
+            "Um valão."
+        ],
+        "correta": 2
+    },
+    {
+        "pergunta": "Uma das agremiações pioneiras do carnaval do Espírito Santo, a antiga 'Amigos da Gurigica', fazia seus ensaios e festas em uma quadra construída em Consolação, pelo Coronel Hélio, na década de 1970. Espaço que continua importante para a comunidade para o esporte e o lazer e que se tornou:",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 6,
+        "origem": "x",
+        "respostas": [
+            "Uma praça.",
+            "Um Centro Educacional Unificado.",
+            "Uma quadra de Samba."
+        ],
+        "correta": 2
+    },
+    {
+        "pergunta": "O Bairro Consolação tem o privilégio de abrigar três Associações de Catadores de Material Reciclável do município de Vitória. Quais são elas?",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 6,
+        "origem": "x",
+        "respostas": [
+            "RECUPERLIXO, AMARIV, REVIVE.",
+            "ASCAMARE, AMARV e RECICLA.",
+            "AMARVILA, ASCAMARE e REVIVE."
+        ],
+        "correta": 2
+    },
+    {
+        "pergunta": "Quais materiais devem ser entregues nas associações de catadores?",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 6,
+        "origem": "x",
+        "respostas": [
+            "Lixo seco como: papéis, vidros, metais e plásticos.",
+            "Lixo comum como: resto de alimento, papéis higiênicos usados.",
+            "Lixo hospitalar."
+        ],
+        "correta": 2
+    },
+    {
+        "pergunta": "Ao destinar o resíduo reciclável para as Associações de Catadores, você contribui não só com o meio ambiente, mas colabora também com:",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 6,
+        "origem": "x",
+        "respostas": [
+            "Geração de empregos.",
+            "Fabricação de mais plástico.",
+            "Diminuição da coleta do lixo."
+        ],
+        "correta": 2
+    },
+    {
+        "pergunta": "Você consumidor sabe que na Prefeitura Municipal de Vitória existe um órgão que tem como objetivo promover e desenvolver uma Política de Proteção e Defesa dos consumidores, baseada na educação para o consumo consciente e sustentável, buscando garantir o equilíbrio nas relações entre fornecedor e consumidor. Que órgão seria esse?",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 6,
+        "origem": "x",
+        "respostas": [
+            "Defensoria Pública.",
+            "Procon Municipal.",
+            "Procuradoria Municipal."
+        ],
+        "correta": 2
+    },
+    {
+        "pergunta": "Em Vitória existe um Fundo Municipal de Proteção e Defesa do Consumidor, na sua visão que seria o objetivo desse fundo. Marque a alternativa errada:",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 6,
+        "origem": "x",
+        "respostas": [
+            "Ressarcir e prevenir danos causados à coletividade relativos ao meio ambiente, ao consumidor.",
+            "Aplicar recursos do fundo em políticas que não respeitem o meio ambiente.",
+            "Aplicar Parte do recurso do fundo em projetos relacionados aos objetivos da política municipal das relações de consumo e com a defesa dos direitos básicos do consumidor."
+        ],
+        "correta": 2
+    },
+    {
+        "pergunta": "Ellen é uma consumidora atenta e cita alguns casos onde ela presenciou a “Venda casada” que é uma expressão usada para definir a prática ilegal cometida por alguns comércios. Marque a opção escolhida por Ellen para o consumo:",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 6,
+        "origem": "x",
+        "respostas": [
+            "Ellen ao entrar em um barzinho foi informada que só poderia permanecer no local consumindo uma quantidade mínima de produtos.",
+            "Ellen ao entrar em um bar se depara com uma promoção, onde dizia que ao comprar uma determinada porção ela tem direito à uma bebida.",
+            "Ellen entra em um bar onde está escrito que ela só pode comprar uma porção se comprar junto uma bebida."
+        ],
+        "correta": 2
+    },
+    {
+        "pergunta": "Marque a alternativa certa que completa essa frase:Todo estabelecimento comercial tem a obrigação de ter um exemplar do [...] à disposição do consumidor.",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 6,
+        "origem": "x",
+        "respostas": [
+            "Estatuto do idoso e do adolescente.",
+            "Código penal.",
+            "Código do Consumidor."
+        ],
+        "correta": 2
+    },
+    {
+        "pergunta": "Você",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 7,
+        "origem": "x",
+        "respostas": [
+            "Opcão1",
+            "Opcão2",
+            "Opcão3"
+        ],
+        "correta": 2
+    }
+]   
