@@ -1,5 +1,5 @@
 <p align="center">
- <a href="https://crias-conscientes.web.app/" alt="Game">
+ <a href="https://criasconscientes.ateliedeideias.org.br/" alt="Game">
   <img src="https://raw.githubusercontent.com/ateliedeideias/crias-conscientes/master/images/logo-path.svg?sanitize=true" height="128" />
  </a>
 </p>
