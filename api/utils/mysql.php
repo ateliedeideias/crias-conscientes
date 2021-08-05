@@ -1,9 +1,14 @@
 <?php
 // Create connection MySqli
-$db_local = "localhost";
+/*$db_local = "localhost";
 $db_user = "crias";
 $db_passwd = "crias";
-$db_nome = "crias";
+$db_nome = "crias";*/
+
+$db_local = "mysql.bonino.com.br";
+$db_user = "c2_crias";
+$db_passwd = "rh7kSPTq#m2G";
+$db_nome = "c2_crias";
 
 $conn_cli = null;
 $db_conn_cli = false;

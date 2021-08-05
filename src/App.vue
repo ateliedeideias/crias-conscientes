@@ -13,7 +13,7 @@
       v-if="visible"
     >
       <p class="md-caption">Realização</p>
-      <div>
+      <div class="barra-logos">
         <a href="https://www.instagram.com/ateliedeideias.es/" target="_blank">
           <img
             alt="Ateliê de Ideias"
@@ -175,7 +175,13 @@ body {
   text-align: left;
 }
 .ml {
-  margin-left: 10px;
+  margin-left: 15px;
+}
+
+.barra-logos {
+  background-color: #fff;
+  padding: 10px;
+  border-radius: 15px !important;
 }
 
 .botao {

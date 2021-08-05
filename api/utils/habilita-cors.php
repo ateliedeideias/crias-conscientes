@@ -8,4 +8,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'OPTIONS') {
   echo "OK";
   exit();
 }
+
+//ini_set('display_errors', 0);
 ?>
