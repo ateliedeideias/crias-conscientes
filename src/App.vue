@@ -182,6 +182,7 @@ body {
   background-color: #fff;
   padding: 10px;
   border-radius: 15px !important;
+  border-style: outset;
 }
 
 .botao {

@@ -91,7 +91,7 @@ export default {
   border-color: #000;    
   border-width: 3px; 
   border-bottom-width: 6px;   
-  border-style: solid;
+  border-style: solid outset;
   border-radius: 10px;
   text-align: center;
   text-decoration-color: darkcyan;

@@ -651,18 +651,83 @@
         "nivel": 5,
         "origem": "x",
         "respostas": [
-            "Word Dance",
-            "Dona’s",
-            "Bazar Solidário"
+            "Word Dance.",
+            "Dona’s.",
+            "Bazar Solidário."
         ],
         "correta": 3
+    },
+    {
+        "pergunta": "Antigamente, no Bairro Engenharia não existia praça de lazer. Qual era a única diversão do Bairro antes da praça ser construída?",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 5,
+        "origem": "x",
+        "respostas": [
+            "Quadra esportiva.",
+            "Caixa da Água.",
+            "Salão de festas."
+        ],
+        "correta": 2
+    },
+    {
+        "pergunta": "Marque um dos impactos negativos causados pelos lixões na natureza.",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 5,
+        "origem": "x",
+        "respostas": [
+            "Poluição através dos gases do efeito estufa.",
+            "Falta de água em diversas comunidades.",
+            "Preço alto nos comércios."
+        ],
+        "correta": 1
+    },
+    {
+        "pergunta": "Os centros de reciclagem contribuem de várias formas com a sociedade. Cite uma delas.",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 5,
+        "origem": "x",
+        "respostas": [
+            "Direitos do consumidor.",
+            "Educação ambiental.",
+            "Na educação colonial."
+        ],
+        "correta": 2
+    },
+    {
+        "pergunta": "Algumas práticas podem ajudar a aumentar a vida útil das pilhas. Marque o que jamais pode ser feito.",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 5,
+        "origem": "x",
+        "respostas": [
+            "Retirar as pilhas do equipamento se for permanecer muito tempo sem uso.",
+            "Dar preferência em utilizar pilhas recarregáveis.",
+            "Guardá-las em locais expostos ao calor e à umidade."
+        ],
+        "correta": 3
+    },
+    {
+        "pergunta": "Você",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 5,
+        "origem": "x",
+        "respostas": [
+            "Opcão1",
+            "Opcão2",
+            "Opcão3"
+        ],
+        "correta": 2
     },
     {
         "pergunta": "Você sabia que o Pega no Samba, a escola de samba de Gurigica, coloca em prática o consumo consciente na época do Carnaval? Como você acha que ela contribui? Marque a resposta errada:",
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 6,
-        "origem": "x",
+        "origem": "portao",
         "respostas": [
             "Comprando sempre novas matérias primas.",
             "Customizando fantasias.",
@@ -675,7 +740,7 @@
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 6,
-        "origem": "x",
+        "origem": "portao",
         "respostas": [
             "Uma pedra.",
             "Um buraco.",
@@ -688,7 +753,7 @@
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 6,
-        "origem": "x",
+        "origem": "pula-pula",
         "respostas": [
             "Uma praça.",
             "Um Centro Educacional Unificado.",
@@ -701,7 +766,7 @@
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 6,
-        "origem": "x",
+        "origem": "pula-pula",
         "respostas": [
             "RECUPERLIXO, AMARIV, REVIVE.",
             "ASCAMARE, AMARV e RECICLA.",
@@ -714,7 +779,7 @@
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 6,
-        "origem": "x",
+        "origem": "bar",
         "respostas": [
             "Lixo seco como: papéis, vidros, metais e plásticos.",
             "Lixo comum como: resto de alimento, papéis higiênicos usados.",
@@ -727,7 +792,7 @@
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 6,
-        "origem": "x",
+        "origem": "bar",
         "respostas": [
             "Geração de empregos.",
             "Fabricação de mais plástico.",
@@ -740,7 +805,7 @@
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 6,
-        "origem": "x",
+        "origem": "caixa-de-som",
         "respostas": [
             "Defensoria Pública.",
             "Procon Municipal.",
@@ -753,7 +818,7 @@
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 6,
-        "origem": "x",
+        "origem": "caixa-de-som",
         "respostas": [
             "Ressarcir e prevenir danos causados à coletividade relativos ao meio ambiente, ao consumidor.",
             "Aplicar recursos do fundo em políticas que não respeitem o meio ambiente.",
@@ -766,7 +831,7 @@
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 6,
-        "origem": "x",
+        "origem": "pilastra",
         "respostas": [
             "Ellen ao entrar em um barzinho foi informada que só poderia permanecer no local consumindo uma quantidade mínima de produtos.",
             "Ellen ao entrar em um bar se depara com uma promoção, onde dizia que ao comprar uma determinada porção ela tem direito à uma bebida.",
@@ -779,7 +844,7 @@
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 6,
-        "origem": "x",
+        "origem": "pilastra",
         "respostas": [
             "Estatuto do idoso e do adolescente.",
             "Código penal.",
@@ -792,6 +857,383 @@
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 7,
+        "origem": "x",
+        "respostas": [
+            "Opcão1",
+            "Opcão2",
+            "Opcão3"
+        ],
+        "correta": 2
+    },
+    {
+        "pergunta": "Você",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 7,
+        "origem": "x",
+        "respostas": [
+            "Opcão1",
+            "Opcão2",
+            "Opcão3"
+        ],
+        "correta": 2
+    },
+    {
+        "pergunta": "Você",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 7,
+        "origem": "x",
+        "respostas": [
+            "Opcão1",
+            "Opcão2",
+            "Opcão3"
+        ],
+        "correta": 2
+    },
+    {
+        "pergunta": "Você",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 7,
+        "origem": "x",
+        "respostas": [
+            "Opcão1",
+            "Opcão2",
+            "Opcão3"
+        ],
+        "correta": 2
+    },
+    {
+        "pergunta": "Você",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 7,
+        "origem": "x",
+        "respostas": [
+            "Opcão1",
+            "Opcão2",
+            "Opcão3"
+        ],
+        "correta": 2
+    },
+    {
+        "pergunta": "Você",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 7,
+        "origem": "x",
+        "respostas": [
+            "Opcão1",
+            "Opcão2",
+            "Opcão3"
+        ],
+        "correta": 2
+    },
+    {
+        "pergunta": "Você",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 7,
+        "origem": "x",
+        "respostas": [
+            "Opcão1",
+            "Opcão2",
+            "Opcão3"
+        ],
+        "correta": 2
+    },
+    {
+        "pergunta": "Você",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 7,
+        "origem": "x",
+        "respostas": [
+            "Opcão1",
+            "Opcão2",
+            "Opcão3"
+        ],
+        "correta": 2
+    },
+    {
+        "pergunta": "Você",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 7,
+        "origem": "x",
+        "respostas": [
+            "Opcão1",
+            "Opcão2",
+            "Opcão3"
+        ],
+        "correta": 2
+    },
+    {
+        "pergunta": "Você",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 7,
+        "origem": "x",
+        "respostas": [
+            "Opcão1",
+            "Opcão2",
+            "Opcão3"
+        ],
+        "correta": 2
+    },
+    {
+        "pergunta": "Você",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 8,
+        "origem": "x",
+        "respostas": [
+            "Opcão1",
+            "Opcão2",
+            "Opcão3"
+        ],
+        "correta": 2
+    },
+    {
+        "pergunta": "Você",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 8,
+        "origem": "x",
+        "respostas": [
+            "Opcão1",
+            "Opcão2",
+            "Opcão3"
+        ],
+        "correta": 2
+    },
+    {
+        "pergunta": "Você",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 8,
+        "origem": "x",
+        "respostas": [
+            "Opcão1",
+            "Opcão2",
+            "Opcão3"
+        ],
+        "correta": 2
+    },
+    {
+        "pergunta": "Você",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 8,
+        "origem": "x",
+        "respostas": [
+            "Opcão1",
+            "Opcão2",
+            "Opcão3"
+        ],
+        "correta": 2
+    },
+    {
+        "pergunta": "Você",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 8,
+        "origem": "x",
+        "respostas": [
+            "Opcão1",
+            "Opcão2",
+            "Opcão3"
+        ],
+        "correta": 2
+    },
+    {
+        "pergunta": "Você",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 8,
+        "origem": "x",
+        "respostas": [
+            "Opcão1",
+            "Opcão2",
+            "Opcão3"
+        ],
+        "correta": 2
+    },
+    {
+        "pergunta": "Você",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 8,
+        "origem": "x",
+        "respostas": [
+            "Opcão1",
+            "Opcão2",
+            "Opcão3"
+        ],
+        "correta": 2
+    },
+    {
+        "pergunta": "Você",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 8,
+        "origem": "x",
+        "respostas": [
+            "Opcão1",
+            "Opcão2",
+            "Opcão3"
+        ],
+        "correta": 2
+    },
+    {
+        "pergunta": "Você",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 8,
+        "origem": "x",
+        "respostas": [
+            "Opcão1",
+            "Opcão2",
+            "Opcão3"
+        ],
+        "correta": 2
+    },
+    {
+        "pergunta": "Você",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 8,
+        "origem": "x",
+        "respostas": [
+            "Opcão1",
+            "Opcão2",
+            "Opcão3"
+        ],
+        "correta": 2
+    },
+    {
+        "pergunta": "Você",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 9,
+        "origem": "x",
+        "respostas": [
+            "Opcão1",
+            "Opcão2",
+            "Opcão3"
+        ],
+        "correta": 2
+    },
+    {
+        "pergunta": "Você",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 9,
+        "origem": "x",
+        "respostas": [
+            "Opcão1",
+            "Opcão2",
+            "Opcão3"
+        ],
+        "correta": 2
+    },
+    {
+        "pergunta": "Você",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 9,
+        "origem": "x",
+        "respostas": [
+            "Opcão1",
+            "Opcão2",
+            "Opcão3"
+        ],
+        "correta": 2
+    },
+    {
+        "pergunta": "Você",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 9,
+        "origem": "x",
+        "respostas": [
+            "Opcão1",
+            "Opcão2",
+            "Opcão3"
+        ],
+        "correta": 2
+    },
+    {
+        "pergunta": "Você",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 9,
+        "origem": "x",
+        "respostas": [
+            "Opcão1",
+            "Opcão2",
+            "Opcão3"
+        ],
+        "correta": 2
+    },
+    {
+        "pergunta": "Você",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 9,
+        "origem": "x",
+        "respostas": [
+            "Opcão1",
+            "Opcão2",
+            "Opcão3"
+        ],
+        "correta": 2
+    },
+    {
+        "pergunta": "Você",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 9,
+        "origem": "x",
+        "respostas": [
+            "Opcão1",
+            "Opcão2",
+            "Opcão3"
+        ],
+        "correta": 2
+    },
+    {
+        "pergunta": "Você",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 9,
+        "origem": "x",
+        "respostas": [
+            "Opcão1",
+            "Opcão2",
+            "Opcão3"
+        ],
+        "correta": 2
+    },
+    {
+        "pergunta": "Você",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 9,
+        "origem": "x",
+        "respostas": [
+            "Opcão1",
+            "Opcão2",
+            "Opcão3"
+        ],
+        "correta": 2
+    },
+    {
+        "pergunta": "Você",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 9,
         "origem": "x",
         "respostas": [
             "Opcão1",
