@@ -37,7 +37,7 @@ export default {
     border-color: #000;    
     border-width: 3px; 
     border-bottom-width: 6px;   
-    border-style: solid;
+    border-style: solid outset;
     border-radius: 10px;
     text-align: center;
     font-size: 15px;
@@ -51,7 +51,7 @@ export default {
     border-color: rgb(0, 0, 0);    
     border-width: 3px; 
     border-bottom-width: 6px;   
-    border-style: solid;
+    border-style: solid outset;
     border-radius: 10px;
     text-align: center;
     font-size: 12px;
