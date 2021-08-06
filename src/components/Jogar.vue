@@ -40,7 +40,7 @@ export default {
     IniciarFase,
     Pergunta,
     FimFase,
-     Game
+    Game
   },
   data() {
     return {            

@@ -41,6 +41,7 @@
 .botao-personagem {
   margin-top: 65px;
   height: 55px !important;
+  background: linear-gradient(180deg, #9ebd13 0%, #008552 100%) !important;
   background-color: #ff6600 !important;
 }
 
@@ -49,15 +50,83 @@
 }
 
 .p1 {
-  color: #aa00d4;
+  background: linear-gradient(0deg, #00C9FF 0%, #92FE9D 100%);
+  background-color: black;
+  border-radius: 10px;
+  color: rgb(0, 0, 0);
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  -webkit-transition-duration: 0.4s; /* Para o safari */
+  transition-duration: 0.4s;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 }
 
 .p2 {
-  color: #ff3000;
+  background-color: #030303;
+  background: linear-gradient(0deg, #00C9FF 0%, #92FE9D 100%);
+  border-radius: 10px;
+  color: #030303;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  -webkit-transition-duration: 0.4s; /* Para o safari */
+  transition-duration: 0.4s;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 }
 
 .p3 {
-  color: #aa0000;
+  background-color: #030303;
+  background: linear-gradient(0deg, #00C9FF 0%, #92FE9D 100%);
+  border-radius: 10px;
+  color: #030303;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  -webkit-transition-duration: 0.4s; /* Para o safari */
+  transition-duration: 0.4s;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.p4 {
+  background-color: #030303;
+  background: linear-gradient(0deg, #00C9FF 0%, #92FE9D 100%);
+  border-radius: 10px;
+  color: #030303;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  -webkit-transition-duration: 0.4s; /* Para o safari */
+  transition-duration: 0.4s;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.p5 {
+  background-color: #030303;
+  background: linear-gradient(0deg, #00C9FF 0%, #92FE9D 100%);
+  border-radius: 10px;
+  color: #030303;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  -webkit-transition-duration: 0.4s; /* Para o safari */
+  transition-duration: 0.4s;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 }
 </style>
 
@@ -70,22 +139,34 @@ export default {
       personagens: [
         {
           codigo: 2,
-          nome: "Jefin",
+          nome: "JEFIN",
           imagem: "personagem1.png",
           class: "p1"
         },
         {
           codigo: 1,
-          nome: "Bil",
+          nome: "BIL",
           imagem: "personagem2.png",
           class: "p2"
         },
         {
           codigo: 3,
-          nome: "Dandara",
+          nome: "DANDARA",
           imagem: "personagem3.png",
           class: "p3"
         },
+        {
+          codigo: 4,
+          nome: "LUD",
+          imagem: "personagem4.png",
+          class: "p4"
+        },
+        {
+          codigo: 5,
+          nome: "HELO",
+          imagem: "personagem5.png",
+          class: "p5"
+        }
       ]
     }
   },
