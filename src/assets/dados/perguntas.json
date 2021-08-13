@@ -853,17 +853,95 @@
         "correta": 2
     },
     {
-        "pergunta": "Você",
+        "pergunta": "“Eu uso o necessário, somente o necessário, o extraordinário é demais”, é trecho de uma das músicas do desenho “Mogli: o menino lobo”. Se trouxermos esta mensagem para os nossos hábitos de consumo, como devemos agir?",
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 7,
         "origem": "x",
         "respostas": [
-            "Opcão1",
-            "Opcão2",
-            "Opcão3"
+            "Desperdiçar alimentos e produtos.",
+            "Comprar tudo que ver pela frente.",
+            "Comprar e usar somente o necessário."
+        ],
+        "correta": 3
+    },
+    {
+        "pergunta": "A maioria do lixo diário brasileiro é despejado em céu aberto. Somente 10% vai para lixões controlados, 9% vai para aterros sanitários e somente 3% é reciclado. Como colaborar para mudar essa realidade?",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 7,
+        "origem": "x",
+        "respostas": [
+            "Comprar mais e jogar todo resíduo na lixeira.",
+            "Ter responsabilidade na hora de comprar e também ao descartar o resíduo que pode ser reciclado.",
+            "Queimar todo o lixo."
         ],
         "correta": 2
+    },
+    {
+        "pergunta": "Queimar lixo, emite poluição, causa risco de incêndio para as habitações locais, destrói a vegetação e pode causar a morte de animais que ocupem as redondezas. Por isso essa atitude é considerada qual crime?",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 7,
+        "origem": "x",
+        "respostas": [
+            "Crime Ambiental.",
+            "Crime Material.",
+            "Crime ao Patrimônio."
+        ],
+        "correta": 1
+    },
+    {
+        "pergunta": "Repensar e Recusar faz parte da hora de escolher consumir, né? Agora, quais são os 3Rs na destinação adequada de resíduo?",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 7,
+        "origem": "x",
+        "respostas": [
+            "Recalcular, Retirar e Reproduzir.",
+            "Reduzir, Reusar e Reciclar.",
+            "Remarcar, Renunciar e Rasgar."
+        ],
+        "correta": 2
+    },
+    {
+        "pergunta": "Em tempos de pandemia, o uso de máscaras pode salvar muitas vidas. Mas as máscaras são feitas de fibras plásticas e ao serem descartadas, liberam ainda mais microplástico. Marque a alternativa CORRETA quanto ao uso e descarte das Máscaras.",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 7,
+        "origem": "x",
+        "respostas": [
+            "Dê preferência a máscaras reutilizáveis (seguindo os padrões de segurança).",
+            "Jogue as máscaras no lixo comum, assim corre o risco delas pararem em rios, mares e na natureza.",
+            "Encaminhe a descartável para reciclagem."
+        ],
+        "correta": 2
+    },
+    {
+        "pergunta": "A mudança começa por cada um de nós e é possível fazer a diferença com pequenas atitudes no nosso dia a dia. Marque a alternativa correta em relação ao uso de plástico:",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 7,
+        "origem": "x",
+        "respostas": [
+            "Sempre escolha embalagens que usem plástico.",
+            "Se adquirir alguma embalagem plástica, nunca reutilize-a.",
+            "Se não der para reutilizar o material plástico, faça o descarte correto para reciclagem."
+        ],
+        "correta": 3
+    },
+    {
+        "pergunta": "Situação: Antônio foi na padaria comprar pão e no momento do pagamento foi avisado que receberia balas de troco porque não havia dinheiro trocado em caixa. Antonio não aceitou as balas”. Marque a solução CORRETA para esse caso, de acordo com o Código de Defesa do Consumidor. ",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 7,
+        "origem": "x",
+        "respostas": [
+            "Como o estabelecimento não tinha troco suficiente, a padaria deveria arredondar o preço do produto para baixo até ser suficiente para fornecer o troco ao Antônio.",
+            "Antônio fica insatisfeito, mas mesmo assim aceita as balas.",
+            "Antônio vai embora sem comprar o pão."
+        ],
+        "correta": 1
     },
     {
         "pergunta": "Você",
@@ -905,82 +983,43 @@
         "correta": 2
     },
     {
-        "pergunta": "Você",
+        "pergunta": "Marque a opção CORRETA que indica as embalagens que podem ser recicladas mas que tem baixo valor de mercado, em especial por conta do seu uso com produtos que podem contaminá-las:",
         "textoErrado": null,
         "textoCerto": null,
-        "nivel": 7,
+        "nivel": 8,
         "origem": "x",
         "respostas": [
-            "Opcão1",
-            "Opcão2",
-            "Opcão3"
+            "Frascos de medicamentos, de produtos químicos e de reagentes tóxicos.",
+            "Os plásticos de uso único, conhecidos como ‘’inhos’’, pratinhos, copinhos, colherzinhas, canudinhos.",
+            "Esponja de aço, grampos de papel e latas de embalagem de tintas e de agrotóxicos."
         ],
         "correta": 2
     },
     {
-        "pergunta": "Você",
+        "pergunta": "É inviável a reciclagem desses tipos de material por não se ter um processo prático e eficiente para limpeza e separação. De quais materiais estamos falando?",
         "textoErrado": null,
         "textoCerto": null,
-        "nivel": 7,
+        "nivel": 8,
         "origem": "x",
         "respostas": [
-            "Opcão1",
-            "Opcão2",
-            "Opcão3"
+            "Embalagens de xampus, detergentes e refrigerantes.",
+            "Papéis de escritório, papelão, jornais e revistas.",
+            "Guardanapos, papel-toalha, papel higiênico, e outros tipos de papel que são descartados, molhados, engordurados."
         ],
-        "correta": 2
+        "correta": 3
     },
     {
-        "pergunta": "Você",
+        "pergunta": "Vitória possui o maior manguezal urbano do Brasil e um dos maiores do mundo, com extensão de cerca de 11 quilômetros quadrados. Desse ecossistema costeiro, que compreende toda a baía, indo de Santo Antônio até Jabour, muitos capixabas tiram o seu sustento. Como podemos ajudar a preservar os manguezais?",
         "textoErrado": null,
         "textoCerto": null,
-        "nivel": 7,
+        "nivel": 8,
         "origem": "x",
         "respostas": [
-            "Opcão1",
-            "Opcão2",
-            "Opcão3"
+            "Desmatar e despejar nosso esgoto nos mangues.",
+            "Acumular lixo nas margens dos mangues.",
+            "Não desmatar, não despejar lixos e nem esgoto nesse ambiente."
         ],
-        "correta": 2
-    },
-    {
-        "pergunta": "Você",
-        "textoErrado": null,
-        "textoCerto": null,
-        "nivel": 7,
-        "origem": "x",
-        "respostas": [
-            "Opcão1",
-            "Opcão2",
-            "Opcão3"
-        ],
-        "correta": 2
-    },
-    {
-        "pergunta": "Você",
-        "textoErrado": null,
-        "textoCerto": null,
-        "nivel": 7,
-        "origem": "x",
-        "respostas": [
-            "Opcão1",
-            "Opcão2",
-            "Opcão3"
-        ],
-        "correta": 2
-    },
-    {
-        "pergunta": "Você",
-        "textoErrado": null,
-        "textoCerto": null,
-        "nivel": 7,
-        "origem": "x",
-        "respostas": [
-            "Opcão1",
-            "Opcão2",
-            "Opcão3"
-        ],
-        "correta": 2
+        "correta": 3
     },
     {
         "pergunta": "Você",
@@ -1074,132 +1113,93 @@
         "correta": 2
     },
     {
-        "pergunta": "Você",
-        "textoErrado": null,
-        "textoCerto": null,
-        "nivel": 8,
-        "origem": "x",
-        "respostas": [
-            "Opcão1",
-            "Opcão2",
-            "Opcão3"
-        ],
-        "correta": 2
-    },
-    {
-        "pergunta": "Você",
-        "textoErrado": null,
-        "textoCerto": null,
-        "nivel": 8,
-        "origem": "x",
-        "respostas": [
-            "Opcão1",
-            "Opcão2",
-            "Opcão3"
-        ],
-        "correta": 2
-    },
-    {
-        "pergunta": "Você",
-        "textoErrado": null,
-        "textoCerto": null,
-        "nivel": 8,
-        "origem": "x",
-        "respostas": [
-            "Opcão1",
-            "Opcão2",
-            "Opcão3"
-        ],
-        "correta": 2
-    },
-    {
-        "pergunta": "Você",
+        "pergunta": "Você deve estar se perguntando como poderá colaborar minimamente com o meio ambiente ao descartar os seus resíduos, não é? Então, escolha a alternativa CORRETA:",
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 9,
         "origem": "x",
         "respostas": [
-            "Opcão1",
-            "Opcão2",
-            "Opcão3"
+            "Só comprar menos.",
+            "Evitar os descartáveis, substituir os materiais que são difíceis de serem reciclados ou não podem ser compostados.",
+            "Destinar todo resíduo ao Aterro Sanitário."
         ],
         "correta": 2
     },
     {
-        "pergunta": "Você",
+        "pergunta": "A embalagem de vidro é 100% reciclável e pode ser reaproveitada como objeto de decoração. Nos cuidados com o vidro, escolha a forma INCORRETA de descartá-lo.",
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 9,
         "origem": "x",
         "respostas": [
-            "Opcão1",
-            "Opcão2",
-            "Opcão3"
+            "O vidro, quebrado, deve ser embrulhado em jornal ou outro material que proteja a pessoa que irá manuseá-lo e descartado separadamente do lixo comum.",
+            "O vidro inteiro pode ser encaminhado para coleta seletiva ou a qualquer posto de entrega voluntária.",
+            "Para facilitar a reciclagem, misture os cacos de vidro com terra ou sujeira."
         ],
-        "correta": 2
+        "correta": 3
     },
     {
-        "pergunta": "Você",
+        "pergunta": "Qual a embalagem com maior taxa de Reciclagem?",
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 9,
         "origem": "x",
         "respostas": [
-            "Opcão1",
-            "Opcão2",
-            "Opcão3"
+            "Caixa de Isopor.",
+            "Sacola plástica.",
+            "Latinha de alumínio."
         ],
         "correta": 2
     },
     {
-        "pergunta": "Você",
+        "pergunta": "Qual o melhor destino para as tampinhas de garrafas?",
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 9,
         "origem": "x",
         "respostas": [
-            "Opcão1",
-            "Opcão2",
-            "Opcão3"
+            "Jogar no lixo úmido.",
+            "Destinar para reciclagem",
+            "Jogar nos mangues."
         ],
         "correta": 2
     },
     {
-        "pergunta": "Você",
+        "pergunta": "Plantas não vivem só de água, elas precisam de alguns elementos minerais para seu desenvolvimento, principalmente as cultivadas em vasos que não encontram essa disponibilidade de solo. Marque a alternativa INCORRETA de Adubo Natural.",
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 9,
         "origem": "x",
         "respostas": [
-            "Opcão1",
-            "Opcão2",
-            "Opcão3"
+            "Casca de ovo.",
+            "Casca de banana.",
+            "Gordura."
         ],
-        "correta": 2
+        "correta": 3
     },
     {
-        "pergunta": "Você",
+        "pergunta": "Situação: “Francisco foi ao supermercado e encontrou uma caixa de leite com a data de validade vencida e, antes de pagar, procurou o gerente e mostrou a caixa de leite vencida. Qual a forma CORRETA de resolver esse caso, de acordo com a Lei Municipal nº 9120/2017.",
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 9,
         "origem": "x",
         "respostas": [
-            "Opcão1",
-            "Opcão2",
-            "Opcão3"
+            "O gerente faz a troca da caixa de leite e pede desculpas ao Francisco.",
+            "O gerente diz para Francisco procurar na prateleira uma caixa de leite dentro da validade.",
+            "O gerente dá, de graça, uma caixa de leite para Francisco dentro do prazo de validade, e informa que essa é a lei."
         ],
-        "correta": 2
+        "correta": 3
     },
     {
-        "pergunta": "Você",
+        "pergunta": " É um perigo descartar pilhas e baterias incorretamente porque elas podem ser amassadas e/ou estourarem, deixando vazar o líquido tóxico de seus interiores. Essa substância se acumula na natureza, não se decompõe, e pode contaminar o solo e a água, e até causar doenças. Considere a forma mais CORRETA de descarte desses resíduos.",
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 9,
         "origem": "x",
         "respostas": [
-            "Opcão1",
-            "Opcão2",
-            "Opcão3"
+            "Jogar no lixo seco.",
+            "Jogar no lixo úmido.",
+            "Entregar em postos de coleta dos estabelecimentos que vendem estes materiais ou nas assistências técnicas autorizadas."
         ],
         "correta": 2
     },
