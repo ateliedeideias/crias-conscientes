@@ -59,6 +59,14 @@
 .p3 {
   color: #aa0000;
 }
+
+.p4 {
+  color: #033683;
+}
+
+.p5 {
+  color: #ff0000;
+}
 </style>
 
 <script>
@@ -86,6 +94,18 @@ export default {
           imagem: "personagem-3.png",
           class: "p3"
         },
+        {
+          codigo: 4,
+          nome: "Lud",
+          imagem: "personagem-4.png",
+          class: "p4"
+        },
+        {
+          codigo: 5,
+          nome: "Helô",
+          imagem: "personagem-5.png",
+          class: "p5"
+        }
       ]
     }
   },
