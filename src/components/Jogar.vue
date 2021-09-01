@@ -14,9 +14,11 @@
       <FimFase 
         v-if="fimFase"
         :nivel="nivel"
+        :ultimoNivel="ultimoNivel"
         :personagem="personagem"
         :apelido="apelidoUsuario"
         :totalAcertos="totalAcertos"
+        :totalPerguntas="perguntasNivel.length"
         @proximaFase="proximaFase"
       />
     </md-dialog>
@@ -46,8 +48,9 @@ export default {
       perguntas: jsonPerguntas,
       gameKey: 1,
       nivel: 1,
-      origem: "futebol",
-      totalPerguntas: 3,
+      ultimoNivel: 9,
+      origem: "",
+      totalPerguntas: 2,
       personagemIniciado: false,
       inicioFase: false,
       exibirPerguntas: false,
@@ -65,10 +68,11 @@ export default {
     document.removeEventListener("backbutton", this.botaoVoltar);
   },
   computed: {
+    perguntasNivel: function () {
+      return this.perguntas.filter((p) => p.nivel === this.nivel);
+    },
     perguntasValidas: function () {
-      return this.perguntas.filter(
-        (p) => p.nivel === this.nivel && p.origem === this.origem
-      );
+      return this.perguntasNivel.filter((p) => p.origem === this.origem);
     },
     perguntasAleatorias: function () {
       const controlePerguntas = [];
@@ -95,7 +99,7 @@ export default {
     recebeDadosNunu(data) {
       if (this.fimFase) return false;
       
-      console.log(data);
+      //console.log(data);
       this.nivel = data.nivel; // nunu deve informar a fase
       this.origem = data.type; // nunu deve informar a origem (lixeira, brecho, parquinho, etc....)
 
@@ -120,7 +124,7 @@ export default {
     },
 
     fimPerguntas(totalAcertos) {
-      console.log("Esconder dialogo");
+      //console.log("Esconder dialogo");
       this.exibirPerguntas = false;
       this.totalAcertos += totalAcertos;
       this.gameBus.$emit('sendData', {
@@ -135,7 +139,7 @@ export default {
     },
 
     jogar(personagem, apelidoUsuario) {
-      console.log('Personagem selecionado', personagem);
+      //console.log('Personagem selecionado', personagem);
       if (!personagem) {
         console.error('Personagem inválido!');
         return;
@@ -164,6 +168,7 @@ export default {
 
     proximaFase() {
       this.nivel = this.nivel + 1;
+      //console.log('Proxima fase ' + this.nivel);
       this.fimFase = false;
       this.totalAcertos = 0;      
       this.personagemIniciado = false;

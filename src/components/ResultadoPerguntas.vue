@@ -2,10 +2,11 @@
     <div class="botton-resposta">
         <b>{{textoResultado}}</b><br /><br />
         <div v-if="exibirUltimoResultado">
-            <span v-if="totalAcertos === 3">Uhuu, Você acertou TODAS, Parabéns!</span>
-            <span v-if="totalAcertos === 2">Você resolveu duas questões!, continue progredindo ...</span>
-            <span v-if="totalAcertos === 1">Humm, Você acertou só uma questão.</span>
-            <span v-if="totalAcertos === 0">Que pena, você não acertou nenhuma questão.</span>
+            <span v-if="porcentagemAcertos === 100">Uhuu, Você acertou TODAS, Parabéns!</span>
+            <span v-else-if="porcentagemAcertos === 50">Você acertou a metade das questões.</span>
+            <span v-else-if="porcentagemAcertos === 0">Que pena, você não acertou nenhuma questão.</span>
+            <span v-else-if="porcentagemAcertos > 50">Você resolveu a maioria das questões!, continue progredindo ...</span>            
+            <span v-else-if="porcentagemAcertos < 50">Hum... Você acertou menos da metade das questões.</span>            
             <br /><br />
         </div>
         <md-button class="botton-resposta-filho" v-on:click="continuar()">{{textoBotao}}</md-button>
@@ -15,8 +16,11 @@
 <script>
 export default {
     name:"ResultadoPerguntas",
-    props: ['textoResultado', 'exibirUltimoResultado', 'totalAcertos'],
+    props: ['textoResultado', 'exibirUltimoResultado', 'totalAcertos', 'totalPerguntas'],
     computed: {
+        porcentagemAcertos: function() {
+            return (100 * this.totalAcertos) / this.totalPerguntas;
+        },
         textoBotao: function(){
             return this.exibirUltimoResultado ? "Retornar ao jogo" : "Próxima Pergunta";
         }
