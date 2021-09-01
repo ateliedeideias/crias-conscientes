@@ -2,14 +2,14 @@
   <div class="md-layout md-alignment-center">
     <section id="logo" class="md-center md-layout-item md-size-100">
       <img alt="Crias Conscientes" src="@/assets/logo.png" width="256" />
-      <p class="md-title">Um game sobre consumo consciente!!</p>
+      <p class="md-title branco">Um game sobre consumo consciente!!</p>
       <router-link to="/jogar">
         <md-button class="md-raised md-accent">Jogue Agora</md-button>
       </router-link>
     </section>
 
     <section id="description" class="md-layout-item md-size-100">
-      <p class="md-body-1">
+      <p class="md-body-1 branco">
         <b>Seja um Cria Consciente!!!</b> A partir desse game você terá a oportunidade de explorar as
         referências dos bairros Itararé, Bairro da Penha, São Benedito, Bonfim, Engenharia, Gurigica,
         Consolação, Jaburu e Floresta, que compõem o Território do Bem. Respondendo às perguntas
@@ -20,37 +20,35 @@
 
     <section id="about" class="md-layout-item md-size-100">
       <h1 class="md-center md-title">
-        MAS AFINAL, O QUE É <span>CONSUMO CONSCIENTE</span>?
+        MAS AFINAL, O QUE É SER UM <span>CONSUMIDOR CONSCIENTE</span>?
       </h1>
       <p class="md-body-2">
-        Derivado do consumo sustentável, o consumo consciente é aquele em que
-        cada escolha é feita pensando no impacto que terá no meio ambiente, na
-        sociedade e até nas suas finanças. O conceito não é nada complicado: ele
-        pode fazer parte do seu dia a dia e você nem vai perceber.
+        Quando você compra um produto, procura saber sua origem? Você pensa se precisa 
+        realmente daquele produto? Ou sua compra acontece de modo impulsivo e automático? 
+        E para onde vão as embalagens desse produto quando você as descartar? Se essas reflexões 
+        ficam martelando na sua cabeça antes de consumir um produto, e te fazem mudar de atitude, 
+        você é um <b>Consumidor Consciente</b>.
       </p>
       <p class="md-body-2">
-        Sabe quando você deixa de comprar mais frutas no supermercado porque
-        prefere consumir antes aquelas que já têm em casa? Ou quando abre mão de
-        comprar por impulso uma roupa que você nem precisa? Você está consumindo
-        de forma consciente, fazendo escolhas que vão ajudar a evitar o
-        desperdício de comida e de dinheiro.
+        Nossos hábitos de consumo são ferramentas de transformação da sociedade, da economia e também 
+        afetam diretamente o meio ambiente, já que a produção de bens utiliza os recursos do planeta.  
       </p>
       <p class="md-body-2">
-        É cada vez maior o número de pessoas interessadas em mudar a sua maneira
-        de consumir, como indica
-        <a
-          href="https://www.akatu.org.br/releases/pesquisa-akatu-2018-traca-panorama-do-consumo-consciente-no-brasil/"
-          target="_blank"
-          >pesquisa</a
-        >
-        do Instituto Akatu realizada em 2018. Segundo o estudo, muitos
-        consumidores que eram indiferentes demonstraram interesse em ter mais
-        consciência ao consumir
-        <a
-          href="https://www.bv.com.br/bv-inspira/noticias/consumo-consciente"
-          target="_blank"
-          >(clique e acesse a fonte de pesquisa)</a
-        >.
+        Consumir de maneira Consciente contribui com a preservação de recursos naturais e aumenta 
+        a qualidade de vida onde moramos. Evitar desperdícios, reaproveitando ao máximo os produtos e alimentos, é uma ótima sacada!
+      </p>
+      <p class="md-body-2">
+        Mudando hábitos, como: pensar bem toda vez que você adquirir um produto novo. 
+        Separar adequadamente o seu lixo: o que pode ser reciclado ou reaproveitado vai 
+        para a coleta seletiva ou é doado diretamente para um catador. E o úmido, aquilo 
+        que não pode ser reutilizado ou reaproveitado, que está sujo, vai para o lixo 
+        comum em compartimentos adequados.
+      </p>
+      <p class="md-body-2">
+        O <b>Crias Conscientes</b> vem lhe ajudar a refletir e, de pouco a pouco, mudar de costumes. 
+        Nosso planeta pede socorro, e a gente, junto com vocês temos o poder de mudar essa realidade. 
+        Acompanhe mais sobre Consumo Consciente jogando o <b>Crias</b> e acessando uma das páginas que nos inspira 
+        <a href="https://www.instagram.com/catadoreseducadores/" target="_blank">@catadoreseducadores</a>.  
       </p>
     </section>
 
