@@ -14,6 +14,7 @@
       <FimFase 
         v-if="fimFase"
         :nivel="nivel"
+        :ultimoNivel="ultimoNivel"
         :personagem="personagem"
         :apelido="apelidoUsuario"
         :totalAcertos="totalAcertos"
@@ -46,9 +47,10 @@ export default {
     return {            
       perguntas: jsonPerguntas,
       gameKey: 1,
-      nivel: 9,
+      nivel: 1,
+      ultimoNivel: 9,
       origem: "",
-      totalPerguntas: 3,
+      totalPerguntas: 2,
       personagemIniciado: false,
       inicioFase: false,
       exibirPerguntas: false,
@@ -97,7 +99,7 @@ export default {
     recebeDadosNunu(data) {
       if (this.fimFase) return false;
       
-      console.log(data);
+      //console.log(data);
       this.nivel = data.nivel; // nunu deve informar a fase
       this.origem = data.type; // nunu deve informar a origem (lixeira, brecho, parquinho, etc....)
 
@@ -122,7 +124,7 @@ export default {
     },
 
     fimPerguntas(totalAcertos) {
-      console.log("Esconder dialogo");
+      //console.log("Esconder dialogo");
       this.exibirPerguntas = false;
       this.totalAcertos += totalAcertos;
       this.gameBus.$emit('sendData', {
@@ -137,7 +139,7 @@ export default {
     },
 
     jogar(personagem, apelidoUsuario) {
-      console.log('Personagem selecionado', personagem);
+      //console.log('Personagem selecionado', personagem);
       if (!personagem) {
         console.error('Personagem inválido!');
         return;
@@ -166,6 +168,7 @@ export default {
 
     proximaFase() {
       this.nivel = this.nivel + 1;
+      //console.log('Proxima fase ' + this.nivel);
       this.fimFase = false;
       this.totalAcertos = 0;      
       this.personagemIniciado = false;

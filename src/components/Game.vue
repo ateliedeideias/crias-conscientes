@@ -39,7 +39,7 @@ export default {
     this.bus.$off('sendData', this.sendData);
   },
   mounted() {
-    console.log("Mounted");
+    //console.log("Mounted");
     this.bus.$on('sendData', this.sendData);
 
     if (!this.app.isLoad) {
@@ -47,7 +47,7 @@ export default {
 
       let script = document.createElement("script");
       script.onload = async () => {
-        console.log("Load game");
+        //console.log("Load game");
         let game = document.getElementById("game");
         this.app = new window.Nunu.App(game);
         this.app.isLoad = true;
@@ -59,7 +59,7 @@ export default {
       script.src = this.nunu;
       document.head.appendChild(script);
       document.body.onresize = () => {
-        console.log("Resize");
+        //console.log("Resize");
         this.app.resize();
       };
     }
@@ -73,7 +73,7 @@ export default {
       this.$emit('recebeDadosNunu', data);
     },
     sendData(params) {
-      console.log('sendData', params);
+      //console.log('sendData', params);
       this.app.sendData(params);
     }
   }

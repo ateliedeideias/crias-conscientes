@@ -92,7 +92,7 @@ export default {
         this.exibirDialogNumbero = 1;
       },
       setarUsuario(usuario) {
-        console.log("usuario informado", usuario);
+        //console.log("usuario informado", usuario);
         if (!usuario) {
           console.error("Usuário inválido!");
           this.exibirDialogNumbero = 1;

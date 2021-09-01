@@ -4,12 +4,12 @@
 
     <p>{{textoFim}}</p>
     
-    <p v-if="nivel > 1">Aguarde que em breve novas fases e desafios serão disponibilizados!</p>    
+    <p v-if="nivel >= ultimoNivel">Você finalizou o jogo Crias Conscientes! Obrigado por jogar.</p>    
 
     <p v-if="msgErro" v-html="msgErro" class='msg-erro'></p>
 
     <div v-if="!salvando">
-      <md-button class="botao" v-on:click="proximaFase()" v-if="nivel < 2">Próxima Fase</md-button>
+      <md-button class="botao" v-on:click="proximaFase()" v-if="nivel < ultimoNivel">Próxima Fase</md-button>
 
       <md-button class="botao" v-on:click="jogarNovamente()">Jogar Novamente</md-button>
 
@@ -34,7 +34,7 @@ import WebServices from '../webServices.js';
 
 export default {
   name: "FimFase",
-  props: ['totalAcertos', 'nivel', 'personagem', 'apelido', 'totalPerguntas'],
+  props: ['totalAcertos', 'nivel', 'ultimoNivel', 'personagem', 'apelido', 'totalPerguntas'],
   data() {
     return {
       salvando: true,
@@ -64,7 +64,7 @@ export default {
     }
     this.salvando = true;
 
-    console.log("Salvar pontuacao");
+    //console.log("Salvar pontuacao");
     const parametros = {
       apelido: this.apelido,
       fase: this.nivel,
