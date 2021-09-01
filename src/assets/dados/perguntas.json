@@ -11,8 +11,8 @@
              "Comprar em uma padaria que tem como funcionários menores de 18 anos."
          ],
          "correta": 2 
-	},
-	{
+    },
+    {
          "pergunta": "Qual seria a melhor forma dos clientes do Sr João descartarem as latinhas de refrigerante?",
          "textoErrado": null,
          "textoCerto": null,
@@ -24,23 +24,8 @@
              "Em qualquer lugar da praça."
          ],
          "correta": 2 
-	},
-	{
-         "pergunta": "Agrotóxicos são produtos químicos, físicos ou biológicos utilizados nos setores de produção agrícola e podem trazer vários impactos. Os alimentos orgânicos são aqueles onde os agricultores não usam agrotóxico na sua produção. Qual a alternativa correta?",
-         "textoErrado": null,
-         "textoCerto": null,
-         "nivel": 1,
-         "origem": "hot-dog",
-         "respostas":[
-             "Quando Sr. João compra um alimento sem agrotóxico ele colabora com a redução do impacto causado ao meio ambiente.",
-             "O Sr. João não tem como contribuir para a diminuição de impactos causados pelo uso de agrotóxico.",
-             "O Sr. João ao comprar um alimento com agrotóxico ele não causa impactos para o meio ambiente."
-         ],
-         "correta": 1 
-	},
-	
-	
-	{
+    },
+    {
          "pergunta": "Quando estamos na rua qual seria a forma mais correta de descartar o nosso lixo?",
          "textoErrado": null,
          "textoCerto": null,
@@ -48,12 +33,12 @@
          "origem": "lixo",
          "respostas":[
              "Procurar uma lixeira qualquer.",
-			 "Jogar o lixo no chão.",
+             "Jogar o lixo no chão.",
              "Procurar as lixeiras  que tenham separação para lixo orgânico, para Vidro, para Metal, para Plástico e para Papel."
          ],
          "correta": 3
-	},
-	{
+    },
+    {
          "pergunta": "É possível separar o lixo em casa separando o lixo úmido do lixo seco. O lixo seco é todo o material que pode ser reciclável. Marque a alternativa onde todos os materiais são considerados recicláveis.",
          "textoErrado": null,
          "textoCerto": null,
@@ -65,23 +50,8 @@
              "Fraldas usadas, cascas de fruta, restos de comida."
          ],
          "correta": 2 
-	},
-	{
-         "pergunta": "Qual a importância da coleta seletiva?",
-         "textoErrado": null,
-         "textoCerto": null,
-         "nivel": 1,
-         "origem": "lixo",
-         "respostas":[
-             "Coleta seletiva é a separação dos materiais e reciclagem é a transformação da matéria para reutilização.",
-             "Coleta seletiva é a transformação da matéria para reutilização e reciclagem é  a separação dos materiais.",
-             "Coleta seletiva é a separação dos plásticos e a reciclagem é a separação dos metais."
-         ],
-         "correta": 1
     },
-	
-	
-	{
+    {
          "pergunta": "Quais dessas indústrias você acha que é responsável por consumir mais energia e produzir cerca de 20% do lixo em todo mundo?",
          "textoErrado": null,
          "textoCerto": null,
@@ -93,8 +63,8 @@
              "A indústria da alimentação."
          ],
          "correta": 1
-	},
-	{
+    },
+    {
          "pergunta": "Como um brechó pode ajudar na sua comunidade?",
          "textoErrado": null,
          "textoCerto": null,
@@ -103,26 +73,11 @@
          "respostas":[             
              "O brechó ajuda pois sem ele não seria possível a movimentação de comida na comunidade.",
              "Ele ajuda muito na produção de brinquedos para as crianças.",
-			 "O brechó é uma maneira de tornar a moda mais sustentável, reaproveitando as roupas e reduzindo o consumo de peças novas."
+             "O brechó é uma maneira de tornar a moda mais sustentável, reaproveitando as roupas e reduzindo o consumo de peças novas."
          ],
          "correta": 3
-	},
-	{
-         "pergunta": "O que acontece com materiais feitos de plástico que são jogados na rua?",
-         "textoErrado": null,
-         "textoCerto": null,
-         "nivel": 1,
-         "origem": "brecho",
-         "respostas":[
-             "Eles se decompõe em dois dias e não causam impacto para o meio ambiente.",
-             "Demoram anos para se decompor e causam impacto para o meio ambiente e para os animais que ingerem os plásticos descartados de forma incorreta.",
-             "O vento se encarrega de levar o material para longe e não causam prejuízo algum."
-         ],
-         "correta": 2
-	},
-	
-	
-	{
+    },  
+    {
          "pergunta": "O que define um perfil de consumo?",
          "textoErrado": null,
          "textoCerto": null,
@@ -134,8 +89,8 @@
              "A forma como a pessoa pensa, como por exemplo: Preciso mesmo comprar isso? Ou: Esse produto impacta de alguma forma o meio ambiente?"
          ],
          "correta": 3 
-	},
-	{
+    },
+    {
          "pergunta": "Porque preservar os brinquedos do parque?",
          "textoErrado": null,
          "textoCerto": null,
@@ -147,23 +102,8 @@
              "Pois sem eles o mundo ficaria menos divertido."
          ],
          "correta": 1 
-	},
-	{
-         "pergunta": "O primeiro passo para entender o que é consumo consciente é perceber que o consumo de toda e qualquer coisa traz consigo consequências positivas e negativas para você e para a sociedade ou para o meio ambiente. Marque a alternativa correta:",
-         "textoErrado": null,
-         "textoCerto": null,
-         "nivel": 1,
-         "origem": "parquinho",
-         "respostas":[
-             "Eu consumo de forma consciente quando compro coisas que não estou precisando.",
-             "Eu consumo de forma consciente quando me preocupo com a forma como o produto foi produzido.",
-             "Eu consumo de forma consciente quando não me preocupo se aquele produto foi feito de forma agressiva ao meio ambiente."
-         ],
-         "correta": 2
-	},
-	
-	
-	{
+    },
+    {
          "pergunta": "Como descartar o lixo eletrônico corretamente?",
          "textoErrado": null,
          "textoCerto": null,
@@ -175,8 +115,8 @@
              "Entregar o lixo eletrônico em uma Associação de Catadores."
          ],
          "correta": 3
-	},
-	{
+    },
+    {
          "pergunta": "Quais os benefícios da grama sintética?",
          "textoErrado": null,
          "textoCerto": null,
@@ -188,20 +128,9 @@
              "Melhora a estética e formato dos campos."
          ],
          "correta": 1
-	},
-	{
-         "pergunta": "Consumir no comércio local é importante? Marque a alternativa ERRADA:",
-         "textoErrado": null,
-         "textoCerto": null,
-         "nivel": 1,
-         "origem": "futebol",
-         "respostas":[
-             "Quando compramos no nosso bairro ajudamos diretamente a desenvolver o lugar onde moramos.",
-             "Não importa onde compramos, sempre estaremos ajudando o nosso bairro.",
-             "Quando compramos no nosso bairro impactamos positivamente a economia local e você também incentiva o comerciante da sua área."
-         ],
-         "correta": 2
-	},
+    },
+
+
     {
         "pergunta": "O primeiro passo para consumir de forma consciente é através das mudanças de hábito diariamente. Para realizar tais mudanças existem algumas recomendações que podem ser seguidas, quais são?",
         "textoErrado": null,
@@ -213,10 +142,10 @@
             "Reciclar, poupar, dividir, repor e reduzir.",
             "Repensar, recusar, reduzir, reutilizar e reciclar."
         ],
-        "correta": 3		
+        "correta": 3        
     },
-	{
-		"pergunta": "Quando estamos na rua qual seria a forma mais correta de descartar o nosso lixo?",
+    {
+        "pergunta": "Quando estamos na rua qual seria a forma mais correta de descartar o nosso lixo?",
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 2,
@@ -227,8 +156,8 @@
             "Procurar as lixeiras  que tenham separação para lixo orgânico, para Vidro, para Metal, para Plástico e para Papel."
         ],
         "correta": 3
-	},
-	{
+    },
+    {
         "pergunta": "A única e principal escola do Bairro da Penha é o Zilda Andrade, mas antes de se tornar uma escola existia uma outra instituição no local, qual era?",
         "textoErrado": null,
         "textoCerto": null,
@@ -241,363 +170,369 @@
         ],
         "correta": 1
     },
-	{
-		"pergunta": "O que acontece com materiais feitos de plástico que são jogados na rua?",
-		"textoErrado": null,
-		"textoCerto": null,
-		"nivel": 2,
-		"origem": "academia",
-		"respostas": [
-			"Eles se decompõem em dois dias e não causam impacto para o meio ambiente.",
-			"Demoram anos para se decompor e causam impacto para o meio ambiente e para s animais que ingerem os plásticos descartados de forma incorreta.",
-			"O vento se encarrega de levar o material para longe e não causam prejuízo algum."
-		],
-		"correta": 2
-	},
-	{
-		"pergunta": "Sabendo que todos os dias acontece o desperdício de grande quantidade de alimentos em vários lugares, o dono da feirinha resolveu fazer sua parte e não contribuir com tais desperdícios. Cite as práticas adotadas pelo feirante para diminuir o desperdício.",
-		"textoErrado": null,
-		"textoCerto": null,
-		"nivel": 2,
-		"origem": "bacia",
-		"respostas": [
-			"Doar a quem precisa, tentar conservar por mais tempo os produtos e fazer promoções.",
-			"Fazer compras em grandes quantidades e doar os alimentos que estão estragados.",
-			"Jogar tudo fora e vender mais barato quando os alimentos estiverem vencidos."
-		],
-		"correta": 1
-	},
-	{
-		"pergunta": "Quando a energia elétrica foi implantada no Bairro da Penha?",
-		"textoErrado": null,
-		"textoCerto": null,
-		"nivel": 2,
-		"origem": "bacia",
-		"respostas": [
-			"1976",
-			"1990",
-			"1960"
-		],
-		"correta": 1
-	},
-	{
-		"pergunta": "Marque a resposta correta: Ao comprar produtos no bairro onde eu moro?",
-		"textoErrado": null,
-		"textoCerto": null,
-		"nivel": 2,
-		"origem": "peixe",
-		"respostas": [
-			"Só eu sou beneficiado.",
-			"Colaboro com o desenvolvimento do meu bairro.",
-			"Não faz diferença para a questão da economia do meu bairro."
-		],
-		"correta": 2
-	},
-	{
-		"pergunta": "Consumir no comércio local é importante? Marque a alternativa ERRADA:",
-		"textoErrado": null,
-		"textoCerto": null,
-		"nivel": 2,
-		"origem": "peixe",
-		"respostas": [
-			"Quando compramos no nosso bairro ajudamos diretamente a desenvolver o lugar onde moramos.",
-			"Não importa onde compramos, sempre estaremos ajudando o nosso bairro.",
-			"Quando compramos no nosso bairro impactamos positivamente a economia local e você também incentiva o comerciante da sua área."
-		],
-		"correta": 2
-	},
-	{
-		"pergunta": "O sargento Carioca foi uma figura muito importante para o bairro. Ele foi responsável por quais ações?",
-		"textoErrado": null,
-		"textoCerto": null,
-		"nivel": 2,
-		"origem": "onibus",
-		"respostas": [
-			"Realizar eventos festivos no bairro;",
-			"Dividiu todos os terrenos para quem não tinha dinheiro e vendia para quem tinha condição de comprar, além de construir os canais de esgoto;",
-			"Fundou a primeira escola do Bairro, além de ajudar e muito os moradores no quesito alimentação."
-		],
-		"correta": 2
-	},
-	{
-		"pergunta": "O que define um perfil de consumo?",
-		"textoErrado": null,
-		"textoCerto": null,
-		"nivel": 2,
-		"origem": "onibus",
-		"respostas": [
-			"Quanto de dinheiro uma pessoa tem pra gastar.",
-			"É definido pela classe social de cada pessoa, por exemplo, classe D (pouco dinheiro) classe A (muito dinheiro).",
-			"A forma como a pessoa pensa, como por exemplo: Preciso mesmo comprar isso? Ou: Esse produto impacta de alguma forma o meio ambiente?"
-		],
-		"correta": 3
-	},
     {
-		"pergunta": "Quando surgiu o transporte coletivo no São Benedito?",
-		"textoErrado": null,
-		"textoCerto": null,
-		"nivel": 3,
-		"origem": "x",
-		"respostas": [
-			"1999",
-			"1980",
-			"1955"
-		],
-		"correta": 1
-	},
+        "pergunta": "O que acontece com materiais feitos de plástico que são jogados na rua?",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 2,
+        "origem": "academia",
+        "respostas": [
+            "Eles se decompõem em dois dias e não causam impacto para o meio ambiente.",
+            "Demoram anos para se decompor e causam impacto para o meio ambiente e para s animais que ingerem os plásticos descartados de forma incorreta.",
+            "O vento se encarrega de levar o material para longe e não causam prejuízo algum."
+        ],
+        "correta": 2
+    },
     {
-		"pergunta": "Como foi feita a primeira capala localizada no alto do Bairro São Benedito?",
-		"textoErrado": null,
-		"textoCerto": null,
-		"nivel": 3,
-		"origem": "x",
-		"respostas": [
-			"Era feita de lajota e palha.",
-			"Era feita de tábuas e telhas.",
-			"Era feuta de bloco e sapé."
-		],
-		"correta": 2
-	},
+        "pergunta": "Sabendo que todos os dias acontece o desperdício de grande quantidade de alimentos em vários lugares, o dono da feirinha resolveu fazer sua parte e não contribuir com tais desperdícios. Cite as práticas adotadas pelo feirante para diminuir o desperdício.",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 2,
+        "origem": "bacia",
+        "respostas": [
+            "Doar a quem precisa, tentar conservar por mais tempo os produtos e fazer promoções.",
+            "Fazer compras em grandes quantidades e doar os alimentos que estão estragados.",
+            "Jogar tudo fora e vender mais barato quando os alimentos estiverem vencidos."
+        ],
+        "correta": 1
+    },
     {
-		"pergunta": "Qual é a atração turística que se localiza no topo do morro do São Benedito?",
-		"textoErrado": null,
-		"textoCerto": null,
-		"nivel": 3,
-		"origem": "x",
-		"respostas": [
-			"A maior árvore do ES.",
-			"A maior pedra do bairo da penha",
-			"O mirante do farol, mais conhecido como Farol Morro Grande por ter a maior altitude focal do país."
-		],
-		"correta": 3
-	},
+        "pergunta": "Quando a energia elétrica foi implantada no Bairro da Penha?",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 2,
+        "origem": "bacia",
+        "respostas": [
+            "1976",
+            "1990",
+            "1960"
+        ],
+        "correta": 1
+    },
     {
-		"pergunta": "Para que haja relação de consumo é preciso de quais elementos?",
-		"textoErrado": null,
-		"textoCerto": null,
-		"nivel": 3,
-		"origem": "x",
-		"respostas": [
-			"Empresário, serviço e fornecedor.",
-			"Consumidor, fornecedor e produto/serviço.",
-			"Fornecedor, empregado e produto."
-		],
-		"correta": 2
-	},
+        "pergunta": "Marque a resposta correta: Ao comprar produtos no bairro onde eu moro?",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 2,
+        "origem": "peixe",
+        "respostas": [
+            "Só eu sou beneficiado.",
+            "Colaboro com o desenvolvimento do meu bairro.",
+            "Não faz diferença para a questão da economia do meu bairro."
+        ],
+        "correta": 2
+    },
     {
-		"pergunta": "Quando a relação de consumo é aplicado o:",
-		"textoErrado": null,
-		"textoCerto": null,
-		"nivel": 3,
-		"origem": "x",
-		"respostas": [
-			"Código de trânsito.",
-			"Código de rastreamento.",
-			"Código do consumidor."
-		],
-		"correta": 3
-	},
+        "pergunta": "Consumir no comércio local é importante? Marque a alternativa ERRADA:",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 2,
+        "origem": "peixe",
+        "respostas": [
+            "Quando compramos no nosso bairro ajudamos diretamente a desenvolver o lugar onde moramos.",
+            "Não importa onde compramos, sempre estaremos ajudando o nosso bairro.",
+            "Quando compramos no nosso bairro impactamos positivamente a economia local e você também incentiva o comerciante da sua área."
+        ],
+        "correta": 2
+    },
     {
-		"pergunta": "Para que serve o código de defesa do consumidor?",
-		"textoErrado": null,
-		"textoCerto": null,
-		"nivel": 3,
-		"origem": "x",
-		"respostas": [
-			"Proteger os animais de maus tratos.",
-			"Estabelecer princípios básicos como proteção da vida, da saúde, da segurança e da educação relacionados ao consumo do cidadão.",
-			"Impedir o abandono de idosos."
-		],
-		"correta": 2
-	},
+        "pergunta": "O sargento Carioca foi uma figura muito importante para o bairro. Ele foi responsável por quais ações?",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 2,
+        "origem": "onibus",
+        "respostas": [
+            "Realizar eventos festivos no bairro;",
+            "Dividiu todos os terrenos para quem não tinha dinheiro e vendia para quem tinha condição de comprar, além de construir os canais de esgoto;",
+            "Fundou a primeira escola do Bairro, além de ajudar e muito os moradores no quesito alimentação."
+        ],
+        "correta": 2
+    },
     {
-		"pergunta": "Se não houver relação de consumo não à código de defesa do consumidor, o que se aplica nesse caso?",
-		"textoErrado": null,
-		"textoCerto": null,
-		"nivel": 3,
-		"origem": "x",
-		"respostas": [
-			"Código Civil.",
-			"Código postal.",
-			"Código de banco."
-		],
-		"correta": 1
-	},
+        "pergunta": "O que define um perfil de consumo?",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 2,
+        "origem": "onibus",
+        "respostas": [
+            "Quanto de dinheiro uma pessoa tem pra gastar.",
+            "É definido pela classe social de cada pessoa, por exemplo, classe D (pouco dinheiro) classe A (muito dinheiro).",
+            "A forma como a pessoa pensa, como por exemplo: Preciso mesmo comprar isso? Ou: Esse produto impacta de alguma forma o meio ambiente?"
+        ],
+        "correta": 3
+    },
+
+
     {
-		"pergunta": "É possível separar o lixo em casa separando o lixo úmido do lixo seco. O lixo seco é todo o material que pode ser reciclável. Marque a alternativa onde todos os materiais são considerados recicláveis.",
-		"textoErrado": null,
-		"textoCerto": null,
-		"nivel": 3,
-		"origem": "x",
-		"respostas": [
-			"Papelão, papel higiênico usado, papel.",
-			"Garrafas pet, latas de refrigerante, vidro.",
-			"Fraldas usadas, cascas de fruta, restos de comida."
-		],
-		"correta": 2
-	},
+        "pergunta": "Quando surgiu o transporte coletivo no São Benedito?",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 3,
+        "origem": "bingo",
+        "respostas": [
+            "1999",
+            "1980",
+            "1955"
+        ],
+        "correta": 1
+    },
     {
-		"pergunta": "O primeiro passo para entender o que é consumo consciente é perceber que o consumo de toda e qualquer coisa traz consigo consequências positivas e negativas para você e para a sociedade ou para o meio ambiente. Marque a alternativa correta:",
-		"textoErrado": null,
-		"textoCerto": null,
-		"nivel": 3,
-		"origem": "x",
-		"respostas": [
-			"Eu consumo de forma consciente quando compro coisas que não estou precisando.",
-			"Eu consumo de forma consciente quando me preocupo com a forma como o produto foi produzido.",
-			"Eu consumo de forma consciente quando não me preocupo se aquele produto foi feito de forma agressiva ao meio ambiente."
-		],
-		"correta": 2
-	},
+        "pergunta": "Como foi feita a primeira capala localizada no alto do Bairro São Benedito?",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 3,
+        "origem": "grafite",
+        "respostas": [
+            "Era feita de lajota e palha.",
+            "Era feita de tábuas e telhas.",
+            "Era feuta de bloco e sapé."
+        ],
+        "correta": 2
+    },
     {
-		"pergunta": "Consumir no comércio local é importante? Marque a alternativa ERRADA:",
-		"textoErrado": null,
-		"textoCerto": null,
-		"nivel": 3,
-		"origem": "x",
-		"respostas": [
-			"Quando compramos no nosso bairro ajudamos diretamente a desenvolver o lugar onde moramos",
-			"Não importa onde compramos, sempre estaremos ajudando o nosso bairro.",
-			"Quando compramos no nosso bairro impactamos positivamente a economia local e você também incentiva o comerciante da sua área."
-		],
-		"correta": 2
-	},
+        "pergunta": "Qual é a atração turística que se localiza no topo do morro do São Benedito?",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 3,
+        "origem": "poste",
+        "respostas": [
+            "A maior árvore do ES.",
+            "A maior pedra do bairo da penha",
+            "O mirante do farol, mais conhecido como Farol Morro Grande por ter a maior altitude focal do país."
+        ],
+        "correta": 3
+    },
     {
-		"pergunta": "A praça de Gurigica tem o nome em homenagem a uma pessoa muito especial para o bairro, que fazia atividades sociais pela região. Qual o nome dessa pessoa?",
-		"textoErrado": null,
-		"textoCerto": null,
-		"nivel": 4,
-		"origem": "x",
-		"respostas": [
+        "pergunta": "Para que haja relação de consumo é preciso de quais elementos?",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 3,
+        "origem": "lixeira",
+        "respostas": [
+            "Empresário, serviço e fornecedor.",
+            "Consumidor, fornecedor e produto/serviço.",
+            "Fornecedor, empregado e produto."
+        ],
+        "correta": 2
+    },
+    {
+        "pergunta": "Quando a relação de consumo é aplicado o:",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 3,
+        "origem": "bingo",
+        "respostas": [
+            "Código de trânsito.",
+            "Código de rastreamento.",
+            "Código do consumidor."
+        ],
+        "correta": 3
+    },
+    {
+        "pergunta": "Para que serve o código de defesa do consumidor?",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 3,
+        "origem": "poste",
+        "respostas": [
+            "Proteger os animais de maus tratos.",
+            "Estabelecer princípios básicos como proteção da vida, da saúde, da segurança e da educação relacionados ao consumo do cidadão.",
+            "Impedir o abandono de idosos."
+        ],
+        "correta": 2
+    },
+    {
+        "pergunta": "Se não houver relação de consumo não à código de defesa do consumidor, o que se aplica nesse caso?",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 3,
+        "origem": "grafite",
+        "respostas": [
+            "Código Civil.",
+            "Código postal.",
+            "Código de banco."
+        ],
+        "correta": 1
+    },
+    {
+        "pergunta": "É possível separar o lixo em casa separando o lixo úmido do lixo seco. O lixo seco é todo o material que pode ser reciclável. Marque a alternativa onde todos os materiais são considerados recicláveis.",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 3,
+        "origem": "lixeira",
+        "respostas": [
+            "Papelão, papel higiênico usado, papel.",
+            "Garrafas pet, latas de refrigerante, vidro.",
+            "Fraldas usadas, cascas de fruta, restos de comida."
+        ],
+        "correta": 2
+    },
+    {
+        "pergunta": "O primeiro passo para entender o que é consumo consciente é perceber que o consumo de toda e qualquer coisa traz consigo consequências positivas e negativas para você e para a sociedade ou para o meio ambiente. Marque a alternativa correta:",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 93,
+        "origem": "x",
+        "respostas": [
+            "Eu consumo de forma consciente quando compro coisas que não estou precisando.",
+            "Eu consumo de forma consciente quando me preocupo com a forma como o produto foi produzido.",
+            "Eu consumo de forma consciente quando não me preocupo se aquele produto foi feito de forma agressiva ao meio ambiente."
+        ],
+        "correta": 2
+    },
+    {
+        "pergunta": "Consumir no comércio local é importante? Marque a alternativa ERRADA:",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 93,
+        "origem": "x",
+        "respostas": [
+            "Quando compramos no nosso bairro ajudamos diretamente a desenvolver o lugar onde moramos",
+            "Não importa onde compramos, sempre estaremos ajudando o nosso bairro.",
+            "Quando compramos no nosso bairro impactamos positivamente a economia local e você também incentiva o comerciante da sua área."
+        ],
+        "correta": 2
+    },
+
+
+    {
+        "pergunta": "A praça de Gurigica tem o nome em homenagem a uma pessoa muito especial para o bairro, que fazia atividades sociais pela região. Qual o nome dessa pessoa?",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 4,
+        "origem": "quadra",
+        "respostas": [
             "Judith Braz Coutinho.",
             "Robert Kennedy.",
             "Herminio Blackman."
-		],
-		"correta": 1
-	},
+        ],
+        "correta": 1
+    },
     {
-		"pergunta": "Qual bloco carnavalesco que representava a comunidade de Gurigica?",
-		"textoErrado": null,
-		"textoCerto": null,
-		"nivel": 4,
-		"origem": "x",
-		"respostas": [
+        "pergunta": "Qual bloco carnavalesco que representava a comunidade de Gurigica?",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 4,
+        "origem": "arquibancada",
+        "respostas": [
             "Irmãos de Gurigica.",
             "Amigos da Gurigica.",
             "Unidos da Gurigica."
-		],
-		"correta": 2
-	},
+        ],
+        "correta": 2
+    },
     {
-		"pergunta": "Antes de ser chamada de Gurigica a região era conhecida por outro nome. Qual era?",
-		"textoErrado": null,
-		"textoCerto": null,
-		"nivel": 4,
-		"origem": "x",
-		"respostas": [
+        "pergunta": "Antes de ser chamada de Gurigica a região era conhecida por outro nome. Qual era?",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 4,
+        "origem": "academia",
+        "respostas": [
             "Era “Repouso dos animais”, pois ali havia muitos bichos soltos.",
             "Era “Alto da Égua”, pois ali havia um criadouro de éguas e grande circulação desses animais na região.",
             "Era “Baixa da Égua”, pois ali havia um criadouro de éguas e grande circulação desses animais na região."
-		],
-		"correta": 3
-	},
+        ],
+        "correta": 3
+    },
     {
-		"pergunta": "Segundo o código de defesa do consumidor, é considerado um perfil de consumidor:",
-		"textoErrado": null,
-		"textoCerto": null,
-		"nivel": 4,
-		"origem": "x",
-		"respostas": [
+        "pergunta": "Segundo o código de defesa do consumidor, é considerado um perfil de consumidor:",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 4,
+        "origem": "bicicletario",
+        "respostas": [
             "Toda pessoa física ou jurídica que adquire ou utiliza produto com destinatário final.",
             "Toda pessoa que consome de forma consciente.",
             "Comprar no supermercado e pedir a nota fiscal."
-		],
-		"correta": 1
-	},
+        ],
+        "correta": 1
+    },
     {
-		"pergunta": "Qual o interesse dos participantes na relação de consumo?",
-		"textoErrado": null,
-		"textoCerto": null,
-		"nivel": 4,
-		"origem": "x",
-		"respostas": [
+        "pergunta": "Qual o interesse dos participantes na relação de consumo?",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 4,
+        "origem": "carrinho-barraca",
+        "respostas": [
             "O interesse é quando uma pessoa compra no comércio local.",
             "São aqueles relacionados com os objetivos pretendidos por fornecedores e consumidores.",
             "É visto como uma prática de reciclagem, na forma que descarta o produto."
-		],
-		"correta": 2
-	},
+        ],
+        "correta": 2
+    },
     {
-		"pergunta": "Consumir de maneira consciente não envolve apenas a escolha entre comprar ou não algo que precisamos. Marque a alternativa errada:",
-		"textoErrado": null,
-		"textoCerto": null,
-		"nivel": 4,
-		"origem": "x",
-		"respostas": [
+        "pergunta": "Consumir de maneira consciente não envolve apenas a escolha entre comprar ou não algo que precisamos. Marque a alternativa errada:",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 4,
+        "origem": "quadra",
+        "respostas": [
             "Consumo consciente está relacionado com a sustentabilidade e com a falta de pensar nas consequências ambientais e sociais que a produção e a venda de diversos itens geram.",
             "Consumo consciente está relacionado a diminuição do consumismo.",
             "Consumo consciente está relacionado com o direito de ir e vir."
-		],
-		"correta": 3
-	},
+        ],
+        "correta": 3
+    },
     {
-		"pergunta": "O primeiro passo para entender o que é consumo consciente é perceber que o consumo de toda e qualquer coisa traz consigo consequências positivas e negativas para você e para a sociedade ou para o meio ambiente. Marque a alternativa correta:",
-		"textoErrado": null,
-		"textoCerto": null,
-		"nivel": 4,
-		"origem": "x",
-		"respostas": [
+        "pergunta": "O primeiro passo para entender o que é consumo consciente é perceber que o consumo de toda e qualquer coisa traz consigo consequências positivas e negativas para você e para a sociedade ou para o meio ambiente. Marque a alternativa correta:",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 4,
+        "origem": "arquibancada",
+        "respostas": [
             "Eu consumo de forma consciente quando não me preocupo se aquele produto foi feito de forma agressiva ao meio ambiente.",
             "Eu consumo de forma consciente quando me preocupo com a forma como o produto foi produzido",
             "Eu consumo de forma consciente quando compro coisas que não estou precisando."
-		],
-		"correta": 2
-	},
+        ],
+        "correta": 2
+    },
     {
-		"pergunta": "Cite uma vantagem da reciclagem de resíduos sólidos.",
-		"textoErrado": null,
-		"textoCerto": null,
-		"nivel": 4,
-		"origem": "x",
-		"respostas": [
+        "pergunta": "Cite uma vantagem da reciclagem de resíduos sólidos.",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 4,
+        "origem": "academia",
+        "respostas": [
             "Contribui para reduzir a quantidade de lixo a ser enviado aos aterros sanitários e para a limpeza da cidade.",
             "Aumenta o consumo de produtos descartáveis.",
             "Melhora a comunicação entre as pessoas entre si, pois elas falam mais sobre consumo consciente."
-		],
-		"correta": 1
-	},
+        ],
+        "correta": 1
+    },
     {
-		"pergunta": "Para comprovação de aquisição de cada compra, todo estabelecimento comercial deve emitir:",
-		"textoErrado": null,
-		"textoCerto": null,
-		"nivel": 4,
-		"origem": "x",
-		"respostas": [
+        "pergunta": "Para comprovação de aquisição de cada compra, todo estabelecimento comercial deve emitir:",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 4,
+        "origem": "bicicletario",
+        "respostas": [
             "Extrato bancário.",
             "Boleto bancário.",
             "Nota fiscal."
-		],
-		"correta": 3
-	},
+        ],
+        "correta": 3
+    },
     {
-		"pergunta": "Para verificar a lei e os seus direitos caso o consumidor precise, todo estabelecimento precisa ter:",
-		"textoErrado": null,
-		"textoCerto": null,
-		"nivel": 4,
-		"origem": "x",
-		"respostas": [
+        "pergunta": "Para verificar a lei e os seus direitos caso o consumidor precise, todo estabelecimento precisa ter:",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 4,
+        "origem": "carrinho-barraca",
+        "respostas": [
             "Estatuto da juventude.",
             "Código de defesa do consumidor.",
             "Estatuto direitos e deveres."
-		],
-		"correta": 2
-	},
+        ],
+        "correta": 2
+    },
+
+
     {
         "pergunta": "Você sabe qual embalagem gasta menos água em sua produção?",
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 5,
-        "origem": "x",
+        "origem": "bar",
         "respostas": [
             "Garrafa PET.",
             "Latinha de alumínio.",
@@ -610,7 +545,7 @@
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 5,
-        "origem": "x",
+        "origem": "bar",
         "respostas": [
             "Não. Pois ela já vai direto para o lixo, e assim será descartada de forma consciente.",
             "Sim. Sem a lavagem das embalagens prejudicamos o processo de reciclagem.",
@@ -623,7 +558,7 @@
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 5,
-        "origem": "x",
+        "origem": "caixas-de-som",
         "respostas": [
             "Recicle de forma consciente, dispense sacolas plásticas e carregue sempre uma ecobag, utilize copo retrátil e canudo reutilizável.",
             "Opcão2",
@@ -636,7 +571,7 @@
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 5,
-        "origem": "x",
+        "origem": "caixas-de-som",
         "respostas": [
             "Embalagens metalizadas (como os pacotes de biscoito).",
             "Garrafa PET.",
@@ -649,7 +584,7 @@
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 5,
-        "origem": "x",
+        "origem": "portao",
         "respostas": [
             "Word Dance.",
             "Dona’s.",
@@ -662,7 +597,7 @@
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 5,
-        "origem": "x",
+        "origem": "poste",
         "respostas": [
             "Quadra esportiva.",
             "Caixa da Água.",
@@ -675,7 +610,7 @@
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 5,
-        "origem": "x",
+        "origem": "portao",
         "respostas": [
             "Poluição através dos gases do efeito estufa.",
             "Falta de água em diversas comunidades.",
@@ -688,7 +623,7 @@
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 5,
-        "origem": "x",
+        "origem": "poste",
         "respostas": [
             "Direitos do consumidor.",
             "Educação ambiental.",
@@ -701,7 +636,7 @@
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 5,
-        "origem": "x",
+        "origem": "pula-pula",
         "respostas": [
             "Retirar as pilhas do equipamento se for permanecer muito tempo sem uso.",
             "Dar preferência em utilizar pilhas recarregáveis.",
@@ -714,7 +649,7 @@
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 5,
-        "origem": "x",
+        "origem": "pula-pula",
         "respostas": [
             "Opcão1",
             "Opcão2",
@@ -722,12 +657,14 @@
         ],
         "correta": 2
     },
+
+
     {
         "pergunta": "Você sabia que o Pega no Samba, a escola de samba de Gurigica, coloca em prática o consumo consciente na época do Carnaval? Como você acha que ela contribui? Marque a resposta errada:",
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 6,
-        "origem": "portao",
+        "origem": "balanco",
         "respostas": [
             "Comprando sempre novas matérias primas.",
             "Customizando fantasias.",
@@ -740,7 +677,7 @@
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 6,
-        "origem": "portao",
+        "origem": "banco-mesa",
         "respostas": [
             "Uma pedra.",
             "Um buraco.",
@@ -753,7 +690,7 @@
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 6,
-        "origem": "pula-pula",
+        "origem": "banco-sozinho",
         "respostas": [
             "Uma praça.",
             "Um Centro Educacional Unificado.",
@@ -766,7 +703,7 @@
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 6,
-        "origem": "pula-pula",
+        "origem": "corrimao",
         "respostas": [
             "RECUPERLIXO, AMARIV, REVIVE.",
             "ASCAMARE, AMARV e RECICLA.",
@@ -779,7 +716,7 @@
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 6,
-        "origem": "bar",
+        "origem": "gangorra",
         "respostas": [
             "Lixo seco como: papéis, vidros, metais e plásticos.",
             "Lixo comum como: resto de alimento, papéis higiênicos usados.",
@@ -792,7 +729,7 @@
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 6,
-        "origem": "bar",
+        "origem": "balanco",
         "respostas": [
             "Geração de empregos.",
             "Fabricação de mais plástico.",
@@ -805,7 +742,7 @@
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 6,
-        "origem": "caixa-de-som",
+        "origem": "banco-mesa",
         "respostas": [
             "Defensoria Pública.",
             "Procon Municipal.",
@@ -818,7 +755,7 @@
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 6,
-        "origem": "caixa-de-som",
+        "origem": "banco-sozinho",
         "respostas": [
             "Ressarcir e prevenir danos causados à coletividade relativos ao meio ambiente, ao consumidor.",
             "Aplicar recursos do fundo em políticas que não respeitem o meio ambiente.",
@@ -831,7 +768,7 @@
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 6,
-        "origem": "pilastra",
+        "origem": "corrimao",
         "respostas": [
             "Ellen ao entrar em um barzinho foi informada que só poderia permanecer no local consumindo uma quantidade mínima de produtos.",
             "Ellen ao entrar em um bar se depara com uma promoção, onde dizia que ao comprar uma determinada porção ela tem direito à uma bebida.",
@@ -844,7 +781,7 @@
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 6,
-        "origem": "pilastra",
+        "origem": "gangorra",
         "respostas": [
             "Estatuto do idoso e do adolescente.",
             "Código penal.",
@@ -852,12 +789,14 @@
         ],
         "correta": 2
     },
+
+
     {
         "pergunta": "“Eu uso o necessário, somente o necessário, o extraordinário é demais”, é trecho de uma das músicas do desenho “Mogli: o menino lobo”. Se trouxermos esta mensagem para os nossos hábitos de consumo, como devemos agir?",
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 7,
-        "origem": "x",
+        "origem": "arvore",
         "respostas": [
             "Desperdiçar alimentos e produtos.",
             "Comprar tudo que ver pela frente.",
@@ -870,7 +809,7 @@
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 7,
-        "origem": "x",
+        "origem": "arvore",
         "respostas": [
             "Comprar mais e jogar todo resíduo na lixeira.",
             "Ter responsabilidade na hora de comprar e também ao descartar o resíduo que pode ser reciclado.",
@@ -883,7 +822,7 @@
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 7,
-        "origem": "x",
+        "origem": "banco",
         "respostas": [
             "Crime Ambiental.",
             "Crime Material.",
@@ -896,7 +835,7 @@
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 7,
-        "origem": "x",
+        "origem": "banco",
         "respostas": [
             "Recalcular, Retirar e Reproduzir.",
             "Reduzir, Reusar e Reciclar.",
@@ -909,7 +848,7 @@
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 7,
-        "origem": "x",
+        "origem": "brinquedo",
         "respostas": [
             "Dê preferência a máscaras reutilizáveis (seguindo os padrões de segurança).",
             "Jogue as máscaras no lixo comum, assim corre o risco delas pararem em rios, mares e na natureza.",
@@ -922,7 +861,7 @@
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 7,
-        "origem": "x",
+        "origem": "brinquedo",
         "respostas": [
             "Sempre escolha embalagens que usem plástico.",
             "Se adquirir alguma embalagem plástica, nunca reutilize-a.",
@@ -935,7 +874,7 @@
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 7,
-        "origem": "x",
+        "origem": "parque",
         "respostas": [
             "Como o estabelecimento não tinha troco suficiente, a padaria deveria arredondar o preço do produto para baixo até ser suficiente para fornecer o troco ao Antônio.",
             "Antônio fica insatisfeito, mas mesmo assim aceita as balas.",
@@ -948,7 +887,7 @@
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 7,
-        "origem": "x",
+        "origem": "parque",
         "respostas": [
             "Opcão1",
             "Opcão2",
@@ -961,7 +900,7 @@
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 7,
-        "origem": "x",
+        "origem": "poste",
         "respostas": [
             "Opcão1",
             "Opcão2",
@@ -974,7 +913,7 @@
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 7,
-        "origem": "x",
+        "origem": "poste",
         "respostas": [
             "Opcão1",
             "Opcão2",
@@ -982,12 +921,14 @@
         ],
         "correta": 2
     },
+
+
     {
         "pergunta": "Marque a opção CORRETA que indica as embalagens que podem ser recicladas mas que tem baixo valor de mercado, em especial por conta do seu uso com produtos que podem contaminá-las:",
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 8,
-        "origem": "x",
+        "origem": "arvore",
         "respostas": [
             "Frascos de medicamentos, de produtos químicos e de reagentes tóxicos.",
             "Os plásticos de uso único, conhecidos como ‘’inhos’’, pratinhos, copinhos, colherzinhas, canudinhos.",
@@ -1000,7 +941,7 @@
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 8,
-        "origem": "x",
+        "origem": "arvore",
         "respostas": [
             "Embalagens de xampus, detergentes e refrigerantes.",
             "Papéis de escritório, papelão, jornais e revistas.",
@@ -1013,7 +954,7 @@
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 8,
-        "origem": "x",
+        "origem": "bike",
         "respostas": [
             "Desmatar e despejar nosso esgoto nos mangues.",
             "Acumular lixo nas margens dos mangues.",
@@ -1026,7 +967,7 @@
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 8,
-        "origem": "x",
+        "origem": "bike",
         "respostas": [
             "Opcão1",
             "Opcão2",
@@ -1039,7 +980,7 @@
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 8,
-        "origem": "x",
+        "origem": "campo-verde",
         "respostas": [
             "Opcão1",
             "Opcão2",
@@ -1052,7 +993,7 @@
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 8,
-        "origem": "x",
+        "origem": "campo-verde",
         "respostas": [
             "Opcão1",
             "Opcão2",
@@ -1065,7 +1006,7 @@
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 8,
-        "origem": "x",
+        "origem": "guarita",
         "respostas": [
             "Opcão1",
             "Opcão2",
@@ -1078,7 +1019,7 @@
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 8,
-        "origem": "x",
+        "origem": "guarita",
         "respostas": [
             "Opcão1",
             "Opcão2",
@@ -1091,7 +1032,7 @@
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 8,
-        "origem": "x",
+        "origem": "playground",
         "respostas": [
             "Opcão1",
             "Opcão2",
@@ -1104,7 +1045,7 @@
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 8,
-        "origem": "x",
+        "origem": "playground",
         "respostas": [
             "Opcão1",
             "Opcão2",
@@ -1112,12 +1053,14 @@
         ],
         "correta": 2
     },
+
+
     {
         "pergunta": "Você deve estar se perguntando como poderá colaborar minimamente com o meio ambiente ao descartar os seus resíduos, não é? Então, escolha a alternativa CORRETA:",
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 9,
-        "origem": "x",
+        "origem": "acai",
         "respostas": [
             "Só comprar menos.",
             "Evitar os descartáveis, substituir os materiais que são difíceis de serem reciclados ou não podem ser compostados.",
@@ -1130,7 +1073,7 @@
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 9,
-        "origem": "x",
+        "origem": "acai",
         "respostas": [
             "O vidro, quebrado, deve ser embrulhado em jornal ou outro material que proteja a pessoa que irá manuseá-lo e descartado separadamente do lixo comum.",
             "O vidro inteiro pode ser encaminhado para coleta seletiva ou a qualquer posto de entrega voluntária.",
@@ -1143,7 +1086,7 @@
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 9,
-        "origem": "x",
+        "origem": "mesa1",
         "respostas": [
             "Caixa de Isopor.",
             "Sacola plástica.",
@@ -1156,7 +1099,7 @@
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 9,
-        "origem": "x",
+        "origem": "mesa1",
         "respostas": [
             "Jogar no lixo úmido.",
             "Destinar para reciclagem",
@@ -1169,7 +1112,7 @@
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 9,
-        "origem": "x",
+        "origem": "mesa2",
         "respostas": [
             "Casca de ovo.",
             "Casca de banana.",
@@ -1182,7 +1125,7 @@
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 9,
-        "origem": "x",
+        "origem": "mesa2",
         "respostas": [
             "O gerente faz a troca da caixa de leite e pede desculpas ao Francisco.",
             "O gerente diz para Francisco procurar na prateleira uma caixa de leite dentro da validade.",
@@ -1195,7 +1138,7 @@
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 9,
-        "origem": "x",
+        "origem": "mesa3",
         "respostas": [
             "Jogar no lixo seco.",
             "Jogar no lixo úmido.",
@@ -1208,6 +1151,19 @@
         "textoErrado": null,
         "textoCerto": null,
         "nivel": 9,
+        "origem": "mesa3",
+        "respostas": [
+            "Opcão1",
+            "Opcão2",
+            "Opcão3"
+        ],
+        "correta": 2
+    },
+    {
+        "pergunta": "Você",
+        "textoErrado": null,
+        "textoCerto": null,
+        "nivel": 99,
         "origem": "x",
         "respostas": [
             "Opcão1",
@@ -1220,20 +1176,7 @@
         "pergunta": "Você",
         "textoErrado": null,
         "textoCerto": null,
-        "nivel": 9,
-        "origem": "x",
-        "respostas": [
-            "Opcão1",
-            "Opcão2",
-            "Opcão3"
-        ],
-        "correta": 2
-    },
-    {
-        "pergunta": "Você",
-        "textoErrado": null,
-        "textoCerto": null,
-        "nivel": 9,
+        "nivel": 99,
         "origem": "x",
         "respostas": [
             "Opcão1",
@@ -1242,4 +1185,4 @@
         ],
         "correta": 2
     }
-]
+]   

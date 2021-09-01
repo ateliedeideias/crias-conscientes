@@ -17,6 +17,7 @@
         :personagem="personagem"
         :apelido="apelidoUsuario"
         :totalAcertos="totalAcertos"
+        :totalPerguntas="perguntasNivel.length"
         @proximaFase="proximaFase"
       />
     </md-dialog>
@@ -45,8 +46,8 @@ export default {
     return {            
       perguntas: jsonPerguntas,
       gameKey: 1,
-      nivel: 1,
-      origem: "futebol",
+      nivel: 9,
+      origem: "",
       totalPerguntas: 3,
       personagemIniciado: false,
       inicioFase: false,
@@ -65,10 +66,11 @@ export default {
     document.removeEventListener("backbutton", this.botaoVoltar);
   },
   computed: {
+    perguntasNivel: function () {
+      return this.perguntas.filter((p) => p.nivel === this.nivel);
+    },
     perguntasValidas: function () {
-      return this.perguntas.filter(
-        (p) => p.nivel === this.nivel && p.origem === this.origem
-      );
+      return this.perguntasNivel.filter((p) => p.origem === this.origem);
     },
     perguntasAleatorias: function () {
       const controlePerguntas = [];

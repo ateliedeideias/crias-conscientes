@@ -2,7 +2,13 @@
     <div>
         <acao-pergunta v-if="exibirPergunta" :pergunta="perguntaAtual" @responder="acaoResposta" />
 
-        <resultado-perguntas v-if="!exibirPergunta" :textoResultado="textoResultado" :exibirUltimoResultado="exibirUltimoResultado" :totalAcertos="totalAcertos" @continuar="continuar" />
+        <resultado-perguntas 
+            v-if="!exibirPergunta"
+            :textoResultado="textoResultado"
+            :exibirUltimoResultado="exibirUltimoResultado"
+            :totalAcertos="totalAcertos"
+            :totalPerguntas="perguntas.length"
+            @continuar="continuar" />
     </div>
 </template>
 

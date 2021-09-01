@@ -34,7 +34,7 @@ import WebServices from '../webServices.js';
 
 export default {
   name: "FimFase",
-  props: ['totalAcertos', 'nivel', 'personagem', 'apelido'],
+  props: ['totalAcertos', 'nivel', 'personagem', 'apelido', 'totalPerguntas'],
   data() {
     return {
       salvando: true,
@@ -43,12 +43,16 @@ export default {
     }
   },
   computed: {
+    porcentoAcertos: function() {
+      return (100 * this.totalAcertos) / this.totalPerguntas;
+    },
     textoFim: function() {
-      if (this.totalAcertos == 15) return "Você acertou todas as 15 perguntas dessa fase. Você sabe tudo sobre consumo consciente.";
-      if (this.totalAcertos >= 10) return `Você acertou a maioria das perguntas, ${this.totalAcertos} de 15. Você conhece um pouco sobre consumo consciente, mas ainda pode melhorar. Que tal jogar novamente e tentar melhorar seus acertos.`;
-      if (this.totalAcertos >= 1) return `Você não acertou quase nada, ${this.totalAcertos} de 15. Jogue novamente e melhore sua pontuação`;
+      if (this.porcentoAcertos === 100) return `Você acertou todas as ${this.totalPerguntas} perguntas dessa fase. Você sabe tudo sobre consumo consciente.`;
+      else if (this.porcentoAcertos > 50) return `Você acertou a maioria das perguntas, ${this.totalAcertos} de ${this.totalPerguntas}. Você conhece um pouco sobre consumo consciente, mas ainda pode melhorar. Que tal jogar novamente e tentar melhorar seus acertos.`;
+      else if (this.porcentoAcertos === 50) return `Você acertou a metade das perguntas, ${this.totalAcertos} de ${this.totalPerguntas}. Que tal jogar novamente e tentar melhorar seus acertos.`;
+      else if (this.porcentoAcertos > 0) return `Você não acertou quase nada, ${this.totalAcertos} de ${this.totalPerguntas}. Jogue novamente e melhore sua pontuação`;
 
-      return "Você não acertou nenhuma das 15 perguntas. Jogue novamente e melhore sua pontuação";
+      return `Você não acertou nenhuma das ${this.totalPerguntas} perguntas. Jogue novamente e melhore sua pontuação`;
     },
     webServices() { return new WebServices() },
   },
