@@ -19,7 +19,7 @@ if (NuloOuVazio($dados["apelido"])) {
   RetornaErro(400, "Usuário inválido.");
 }
 
-if (NuloOuVazio($dados["fase"]) || $dados["fase"] < 1 || $dados["fase"] > 2) {
+if (NuloOuVazio($dados["fase"]) || $dados["fase"] < 1 || $dados["fase"] > 9) {
   RetornaErro(400, "Fase inválida.");
 }
 
