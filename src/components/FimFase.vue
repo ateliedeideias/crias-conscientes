@@ -1,48 +1,60 @@
 <template>
-  <div class="principal">
-    <img alt="Crias Conscientes" src="@/assets/logo.png" width="180" />
+  <div>  
+    <Trailer v-if="exibirTrailer" @fimVideo="fimTrailer()"></Trailer>
 
-    <p>{{textoFim}}</p>
-    
-    <p v-if="nivel >= ultimoNivel">Você finalizou o jogo Crias Conscientes! Obrigado por jogar.</p>    
+    <div class="principal" v-if="!exibirTrailer">
+      <img alt="Crias Conscientes" src="@/assets/logo.png" width="180" />
 
-    <p v-if="msgErro" v-html="msgErro" class='msg-erro'></p>
+      <p>{{textoFim}}</p>
+      
+      <p v-if="nivel >= ultimoNivel">Você finalizou o jogo Crias Conscientes! Obrigado por jogar.</p>    
 
-    <div v-if="!salvando">
-      <md-button class="botao" v-on:click="proximaFase()" v-if="nivel < ultimoNivel">Próxima Fase</md-button>
+      <p v-if="msgErro" v-html="msgErro" class='msg-erro'></p>
 
-      <md-button class="botao" v-on:click="jogarNovamente()">Jogar Novamente</md-button>
+      <div v-if="!salvando">
+        <md-button class="botao" v-on:click="proximaFase()" v-if="nivel < ultimoNivel">Próxima Fase</md-button>
 
-      <router-link to="/team">
-        <md-button class="botao">Sair</md-button>
-      </router-link>
-    </div>
+        <md-button class="botao" v-on:click="jogarNovamente()">Jogar Novamente</md-button>
 
-    <div v-if="aviso">
-      <i>Você está jogando sem nenhum cadastro e sua pontuação não será salva.</i>
-    </div>
+        <router-link to="/team">
+          <md-button class="botao">Sair</md-button>
+        </router-link>
+      </div>
 
-    <div v-if="salvando">
-      <md-progress-bar md-mode="indeterminate"></md-progress-bar>
-      Por favor aguarde enquanto salvamos sua pontuação.
+      <div v-if="aviso">
+        <i>Você está jogando sem nenhum cadastro e sua pontuação não será salva.</i>
+      </div>
+
+      <div v-if="salvando">
+        <md-progress-bar md-mode="indeterminate"></md-progress-bar>
+        Por favor aguarde enquanto salvamos sua pontuação.
+      </div>
     </div>
   </div>
 </template>
 
 <script>
+import Trailer from './Trailer.vue';
 import WebServices from '../webServices.js';
 
 export default {
   name: "FimFase",
   props: ['totalAcertos', 'nivel', 'ultimoNivel', 'personagem', 'apelido', 'totalPerguntas', 'uuidPartida', 'dataInicioPartida'],
+  components: {
+    Trailer
+  },
   data() {
     return {
       salvando: true,
       aviso: false,
       msgErro: null,
+      esconderTrailer: false,
     }
   },
   computed: {
+    exibirTrailer: function() {
+      return this.nivel >= this.ultimoNivel && !this.esconderTrailer;
+    },
     porcentoAcertos: function() {
       return (100 * this.totalAcertos) / this.totalPerguntas;
     },
@@ -89,6 +101,10 @@ export default {
     },
     proximaFase() {
       this.$emit('proximaFase');
+    },
+    fimTrailer() {
+      console.log('Fim trailer');
+      this.esconderTrailer = true;
     }
   }
 }

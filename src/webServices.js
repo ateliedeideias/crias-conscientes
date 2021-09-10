@@ -18,4 +18,9 @@ export default class WebServices {
   criarPartida(parametros) {
     return axios.post(`${this._baseUrl}criapartida.php`, parametros);
   }
+
+  consultaPlacar(codigoFase) {
+    const params = codigoFase && codigoFase > 0 ? `?fase=${codigoFase}` : '';
+    return axios.get(`${this._baseUrl}placar.php${params}`);
+  }
 }
