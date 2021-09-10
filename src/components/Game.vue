@@ -1,10 +1,10 @@
 <template>
   <div>
-    <div id="relogio" v-if="visible && dataInicio">
+    <div id="relogio" v-if="visible && dataInicio && !fimFase">
       {{textoRelogio}}
     </div>
 
-    <div id="pontuacao" v-if="visible && totalPontuacao > 0">
+    <div id="pontuacao" v-if="visible && totalPontuacao > 0 && !fimFase">
       {{totalPontuacao}}
     </div>
 
@@ -24,7 +24,7 @@
 <script>
 export default {
   name: "Game",
-  props: ['nivel', 'bus', 'totalPontuacao', 'dataInicio'],
+  props: ['nivel', 'bus', 'totalPontuacao', 'dataInicio', 'fimFase'],
   data() {
     return {
       app: {

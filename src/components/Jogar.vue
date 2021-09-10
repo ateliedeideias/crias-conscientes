@@ -33,6 +33,7 @@
       :totalPontuacao="pontuacaoTotal"
       :bus="gameBus"
       :dataInicio="dataPartida"
+      :fimFase="fimFase"
       @recebeDadosNunu="recebeDadosNunu" />
   </div>
 </template>
@@ -137,8 +138,7 @@ export default {
           //console.log('Iniciar partida', this.dataPartida);
           break;
         case "fim":
-          this.fimFase = true;
-          this.dataPartida = null;
+          this.fimFase = true;          
           break;        
         default:
           this.exibirPerguntas = true;
@@ -235,7 +235,8 @@ export default {
       this.nivel = this.nivel + 1;
       //console.log('Proxima fase ' + this.nivel);
       this.fimFase = false;
-      this.totalAcertos = 0;      
+      this.totalAcertos = 0;
+      this.dataPartida = null;      
       this.personagemIniciado = false;
       this.gameKey++;
     }

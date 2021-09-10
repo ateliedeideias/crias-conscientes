@@ -1,4 +1,3 @@
-
 CREATE TABLE partidas (
 	codigo int(11) NOT NULL AUTO_INCREMENT,
 	codigo_usuario int(11) NOT NULL,
@@ -24,4 +23,10 @@ CREATE TABLE partida_fases (
 PRIMARY KEY (codigo_partida, fase),
 CONSTRAINT partida_fase_partida_FK FOREIGN KEY (codigo_partida) REFERENCES partidas (codigo)
 );
+
+CREATE INDEX partida_usuario_uuid_IX ON partidas (codigo_usuario, uuid);
+
+CREATE INDEX partida_finalizada_IX ON partidas (finalizado);
+
+CREATE INDEX partida_fase_IX ON partida_fases (codigo_partida, fase);
 
