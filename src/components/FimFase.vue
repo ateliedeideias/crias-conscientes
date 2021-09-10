@@ -34,7 +34,7 @@ import WebServices from '../webServices.js';
 
 export default {
   name: "FimFase",
-  props: ['totalAcertos', 'nivel', 'ultimoNivel', 'personagem', 'apelido', 'totalPerguntas'],
+  props: ['totalAcertos', 'nivel', 'ultimoNivel', 'personagem', 'apelido', 'totalPerguntas', 'uuidPartida', 'dataInicioPartida'],
   data() {
     return {
       salvando: true,
@@ -57,21 +57,28 @@ export default {
     webServices() { return new WebServices() },
   },
   created: function () {
-    if (this.apelido === "(_#_#_anonimo_#_#_)") {
+    if (this.apelido === "(_#_#_anonimo_#_#_)" && !this.uuidPartida) {
       this.salvando = false;
       this.aviso = true;
       return;
     }
+
     this.salvando = true;
+
+    const dataFimPartida = new Date();
+    const diffMilissegundos = dataFimPartida - this.dataInicioPartida;
+    const diffSegundos = Math.trunc(diffMilissegundos / 1000);
 
     //console.log("Salvar pontuacao");
     const parametros = {
       apelido: this.apelido,
       fase: this.nivel,
-      personagem: this.personagem.codigo,
-      pontos: this.totalAcertos
+      uuid: this.uuidPartida,
+      pontos: this.totalAcertos,
+      tempo: diffSegundos,
     }
 
+    console.log('Salvar pontuação', parametros);
     this.webServices.salvarPontos(parametros)
       .catch((error) => this.msgErro = `Ocorreu um erro ao tentar salvar sua pontuação!<br />${error}`)
       .finally(() => this.salvando = false);
