@@ -104,7 +104,7 @@ export default {
       const dataAtual = new Date();
       const diff = Math.trunc((dataAtual - this.dataInicio) / 1000);
 
-      var minutos = diff > 60 ? Math.trunc(diff / 60) : 0;
+      var minutos = diff >= 60 ? Math.trunc(diff / 60) : 0;
       const segundos = diff - (minutos * 60);
 
       const separador = this.exibeSeparadorHora ? ':' : ' ';

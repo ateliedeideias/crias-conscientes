@@ -4,6 +4,7 @@
       <md-tabs md-sync-route>
         <md-tab id="tab-home" md-label="Sobre o jogo" to="/" exact></md-tab>
         <md-tab id="tab-team" md-label="A equipe" to="/team"></md-tab>
+        <md-tab id="tab-placar" md-label="Placar" to="/placar"></md-tab>
       </md-tabs>
     </div>
     <router-view></router-view>

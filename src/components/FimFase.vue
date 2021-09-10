@@ -78,7 +78,7 @@ export default {
       tempo: diffSegundos,
     }
 
-    console.log('Salvar pontuação', parametros);
+    //console.log('Salvar pontuação', parametros);
     this.webServices.salvarPontos(parametros)
       .catch((error) => this.msgErro = `Ocorreu um erro ao tentar salvar sua pontuação!<br />${error}`)
       .finally(() => this.salvando = false);

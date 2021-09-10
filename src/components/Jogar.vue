@@ -134,7 +134,7 @@ export default {
           this.personagemIniciado = true;
           this.enviaPersonagem();                    
           this.dataPartida = new Date();
-          console.log('Iniciar partida', this.dataPartida);
+          //console.log('Iniciar partida', this.dataPartida);
           break;
         case "fim":
           this.fimFase = true;
@@ -205,7 +205,7 @@ export default {
 
       this.webServices.criarPartida(parametros)
         .then(({data}) => {
-          console.log('Uuid partida', data);
+          //console.log('Uuid partida', data);
           this.uuidPartida = data;
           this.iniciarPartida(personagem, apelidoUsuario);
         })
@@ -220,7 +220,7 @@ export default {
     enviaPersonagem() {
       if (!this.nivel || !this.personagem) return;
       
-      console.log('Envia personagem', this.nivel, this.personagem.codigo);
+      //console.log('Envia personagem', this.nivel, this.personagem.codigo);
 
       this.gameBus.$emit('sendData', {
         type: 'personagem',
@@ -228,7 +228,7 @@ export default {
         personagem: this.personagem.codigo,
       });
 
-      console.log('Personagem enviado');
+      //console.log('Personagem enviado');
     },
 
     proximaFase() {
