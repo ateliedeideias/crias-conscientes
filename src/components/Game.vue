@@ -1,5 +1,13 @@
 <template>
   <div>
+    <div id="relogio" v-if="visible && dataInicio">
+      {{textoRelogio}}
+    </div>
+
+    <div id="pontuacao" v-if="visible && totalPontuacao > 0">
+      {{totalPontuacao}}
+    </div>
+
     <div id="fullscreen" v-if="visible" v-on:click="fullscreen">
       <img alt="fullscreen" src="../assets/fullscreen.png" />
     </div>
@@ -16,7 +24,7 @@
 <script>
 export default {
   name: "Game",
-  props: ['nivel', 'bus'],
+  props: ['nivel', 'bus', 'totalPontuacao', 'dataInicio'],
   data() {
     return {
       app: {
@@ -33,6 +41,8 @@ export default {
       },
       nunu: require("../assets/nunu.min.njs"),
       visible: false,
+      textoRelogio: "",
+      exibeSeparadorHora: true,
     }
   },
   beforeDestroy () {
@@ -63,24 +73,86 @@ export default {
         this.app.resize();
       };
     }
+
+    this.$nextTick(function () {
+          window.setInterval(() => {
+              this.montaTextoRelogio();
+          },1000);
+      });
   },
   methods: {
     fullscreen(event) {
       event.preventDefault();
       this.app.toggleFullscreen(document.body);
     },
+
     recebeDadosNunu(data) {
       this.$emit('recebeDadosNunu', data);
     },
+
     sendData(params) {
       //console.log('sendData', params);
       this.app.sendData(params);
+    },
+
+    montaTextoRelogio() {
+      if (!this.dataInicio) {
+        this.textoRelogio = '';
+        return;
+      }
+
+      const dataAtual = new Date();
+      const diff = Math.trunc((dataAtual - this.dataInicio) / 1000);
+
+      var minutos = diff > 60 ? Math.trunc(diff / 60) : 0;
+      const segundos = diff - (minutos * 60);
+
+      const separador = this.exibeSeparadorHora ? ':' : ' ';
+      this.exibeSeparadorHora = !this.exibeSeparadorHora;
+
+      this.textoRelogio = this.exibeValorHora(minutos) + separador + this.exibeValorHora(segundos);
+    },
+
+    exibeValorHora(valor) {
+      if (valor < 10) {
+        return `0${valor}`;
+      }
+
+      return `${valor}`;
     }
   }
 }
 </script>
 
 <style scoped>
+#pontuacao {
+  position: absolute;
+  z-index: 10000;
+  right: 30px;
+  top: 30px;
+  font-size: 35pt;
+  font-weight: bold;
+  color: rgb(255, 238, 0);
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  background-color: rgba(0,0,0,0.3);
+  padding: 15px;  
+  border-radius: 10px;
+}
+
+#relogio {
+  position: absolute;
+  z-index: 10000;
+  left: 30px;
+  top: 30px;
+  font-size: 25pt;
+  font-weight: bold;
+  color: #fff;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  background-color: rgba(0,0,0,0.3);
+  padding: 15px;  
+  border-radius: 10px;
+}
+
 #fullscreen {
   position: absolute;
   z-index: 10000;

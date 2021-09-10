@@ -1,6 +1,8 @@
 <template>
   <div>
-    <md-dialog :md-active="inicioFase || exibirPerguntas || fimFase" :md-fullscreen="false" :md-close-on-esc="false" :md-click-outside-to-close="false">
+    <md-dialog :md-active="inicioFase || exibirPerguntas || fimFase || loading" :md-fullscreen="false" :md-close-on-esc="false" :md-click-outside-to-close="false">
+      <Carregando v-if="loading" :texto="textoLoading" />
+      
       <IniciarFase
         v-if="inicioFase"
         @jogar="jogar" />
@@ -19,25 +21,36 @@
         :apelido="apelidoUsuario"
         :totalAcertos="totalAcertos"
         :totalPerguntas="perguntasNivel.length"
+        :uuidPartida="uuidPartida"
+        :dataInicioPartida="dataPartida"
         @proximaFase="proximaFase"
       />
     </md-dialog>
 
-    <Game :key="gameKey" :nivel="nivel" :bus="gameBus" @recebeDadosNunu="recebeDadosNunu" />
+    <Game 
+      :key="gameKey"
+      :nivel="nivel"
+      :totalPontuacao="pontuacaoTotal"
+      :bus="gameBus"
+      :dataInicio="dataPartida"
+      @recebeDadosNunu="recebeDadosNunu" />
   </div>
 </template>
 
 <script>
 import jsonPerguntas from "../assets/dados/perguntas.json";
 import Game from "./Game.vue";
+import Carregando from "./Carregando.vue";
 import IniciarFase from "./IniciarFase.vue";
 import Pergunta from "./Pergunta.vue";
 import FimFase from "./FimFase.vue";
 import Vue from 'vue';
+import WebServices from '../webServices.js';
 
 export default {
   name: "Jogar",
   components: {
+    Carregando,
     IniciarFase,
     Pergunta,
     FimFase,
@@ -55,10 +68,15 @@ export default {
       inicioFase: false,
       exibirPerguntas: false,
       fimFase: false,
+      pontuacaoTotal: 0,
       totalAcertos: 0,
       apelidoUsuario: null,
       personagem: null,
       gameBus: new Vue(),  
+      loading: false,
+      textoLoading: "",
+      uuidPartida: null,
+      dataPartida: null,
     };
   },
   mounted() {
@@ -94,6 +112,7 @@ export default {
       }
       return perguntas;
     },
+    webServices() { return new WebServices() },
   },
   methods: {
     recebeDadosNunu(data) {
@@ -107,15 +126,19 @@ export default {
         case "inicio":
           if (this.personagemIniciado) return;
 
-          if (!this.personagem)
+          if (!this.personagem) {
             this.inicioFase = true;
-          else
-            this.enviaPersonagem();
+            return;
+          }
 
           this.personagemIniciado = true;
+          this.enviaPersonagem();                    
+          this.dataPartida = new Date();
+          console.log('Iniciar partida', this.dataPartida);
           break;
         case "fim":
           this.fimFase = true;
+          this.dataPartida = null;
           break;        
         default:
           this.exibirPerguntas = true;
@@ -127,6 +150,7 @@ export default {
       //console.log("Esconder dialogo");
       this.exibirPerguntas = false;
       this.totalAcertos += totalAcertos;
+      this.pontuacaoTotal += totalAcertos;
       this.gameBus.$emit('sendData', {
         type: this.origem,
         nivel: this.nivel,
@@ -140,15 +164,27 @@ export default {
 
     jogar(personagem, apelidoUsuario) {
       //console.log('Personagem selecionado', personagem);
-      if (!personagem) {
+      if (!personagem || personagem < 1 || personagem > 5) {
         console.error('Personagem inválido!');
         return;
       }
 
+      this.inicioFase = false;
+
+      if (apelidoUsuario && apelidoUsuario !== '(_#_#_anonimo_#_#_)') {
+        this.criarPartida(personagem, apelidoUsuario)
+        return;
+      }      
+      
+      this.iniciarPartida(personagem, apelidoUsuario);
+    },
+
+    iniciarPartida(personagem, apelidoUsuario) {
       this.apelidoUsuario = apelidoUsuario;
       this.personagem = personagem;
-      this.inicioFase = false;
-      
+      this.totalAcertos = 0;
+      this.pontuacaoTotal = 0;
+
       /*if (this.nivel === 1) {
         this.totalAcertos = 11;
         this.fimFase = true;
@@ -158,12 +194,41 @@ export default {
       this.enviaPersonagem();
     },
 
+    criarPartida(personagem, apelidoUsuario) {
+      this.loading = true;
+      this.textoLoading = "Espera aí só um pouco. Estamos criando sua partida.";
+        
+      const parametros = {
+        apelido: apelidoUsuario,
+        personagem: personagem.codigo,
+      };
+
+      this.webServices.criarPartida(parametros)
+        .then(({data}) => {
+          console.log('Uuid partida', data);
+          this.uuidPartida = data;
+          this.iniciarPartida(personagem, apelidoUsuario);
+        })
+        .catch((error) => {
+          console.error('Erro ao criar partida.', error);
+        })
+        .finally(() => {
+          this.loading = false;
+        });
+    },
+
     enviaPersonagem() {
+      if (!this.nivel || !this.personagem) return;
+      
+      console.log('Envia personagem', this.nivel, this.personagem.codigo);
+
       this.gameBus.$emit('sendData', {
         type: 'personagem',
         nivel: this.nivel,
         personagem: this.personagem.codigo,
       });
+
+      console.log('Personagem enviado');
     },
 
     proximaFase() {

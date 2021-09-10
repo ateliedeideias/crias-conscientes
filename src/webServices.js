@@ -1,8 +1,7 @@
 import axios from 'axios';
 
 export default class WebServices {
-  //_baseUrl = "http://localhost/";
-  _baseUrl = "https://criasconscientes.ateliedeideias.org.br/api/";
+  _baseUrl = "http://localhost/";
 
   efetuarCadastro(parametros) {
     return axios.post(`${this._baseUrl}cadastro.php`, parametros);
@@ -14,5 +13,9 @@ export default class WebServices {
 
   salvarPontos(parametros) {
     return axios.post(`${this._baseUrl}salvarpontos.php`, parametros);
+  }
+
+  criarPartida(parametros) {
+    return axios.post(`${this._baseUrl}criapartida.php`, parametros);
   }
 }

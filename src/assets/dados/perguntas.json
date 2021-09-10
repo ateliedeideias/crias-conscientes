@@ -1,6 +1,6 @@
 [
 	{
-         "pergunta": "Seu João, do Hotdog, ao pesquisar sobre o consumo consciente começou a pensar quem deveria ser o seu fornecedor de pão. Marque a resposta que mais colabora com o consumo consciente:",
+         "pergunta": "Seu João, do hot dog, ao pesquisar sobre o consumo consciente começou a pensar quem deveria ser o seu fornecedor de pão. Marque a resposta que mais colabora com o consumo consciente:",
          "textoErrado": null,
          "textoCerto": null,
          "nivel": 1,
@@ -13,7 +13,7 @@
          "correta": 2 
 	},
 	{
-         "pergunta": "Qual seria a melhor forma dos clientes do Sr João descartarem as latinhas de refrigerante?",
+         "pergunta": "Qual seria a melhor forma dos clientes do Seu João descartarem as latinhas de refrigerante?",
          "textoErrado": null,
          "textoCerto": null,
          "nivel": 1,
@@ -39,13 +39,13 @@
          "correta": 2 
 	},
 	{
-         "pergunta": "Qual a importância da coleta seletiva?",
+         "pergunta": "O que significam Coleta Seletiva e Reciclagem?",
          "textoErrado": null,
          "textoCerto": null,
          "nivel": 1,
          "origem": "lixo",
          "respostas":[
-             "Coleta seletiva é a separação dos materiais e reciclagem é a transformação da matéria para reutilização.",
+             "Coleta seletiva é a separação dos resíduos e reciclagem é a transformação de materiais já usados como insumo na fabricação de novos produtos.",
              "Coleta seletiva é a transformação da matéria para reutilização e reciclagem é  a separação dos materiais.",
              "Coleta seletiva é a separação dos plásticos e a reciclagem é a separação dos metais."
          ],
@@ -58,7 +58,7 @@
          "nivel": 1,
          "origem": "brecho",
          "respostas":[
-             "A indústria das roupas.",
+             "A indústria de roupa.",
              "A indústria automobilística.",
              "A indústria da alimentação."
          ],
@@ -78,20 +78,20 @@
          "correta": 3
 	},
 	{
-         "pergunta": "O que define um perfil de consumo?",
+         "pergunta": "O Bairro Itararé tem seu nome de origem tupi, que significa \"pedra que o rio cavou\". A escolha desse nome se deu por quê?",
          "textoErrado": null,
          "textoCerto": null,
          "nivel": 1,
          "origem": "parquinho",
          "respostas":[
-             "Quanto de dinheiro uma pessoa tem pra gastar.",
-             "É definido pela classe social de cada pessoa, por exemplo, classe D (pouco dinheiro) classe A (muito dinheiro).",
-             "A forma como a pessoa pensa, como por exemplo: Preciso mesmo comprar isso? Ou: Esse produto impacta de alguma forma o meio ambiente?"
+             "Porque antes de ser ocupado possuía muitas áreas alagadiças (que se alaga muito fácil).",
+             "Porque tinha muitos poços de água.",
+             "Porque um rio passava no meio do bairro."
          ],
          "correta": 3 
 	},
 	{
-         "pergunta": "Porque preservar os brinquedos do parque?",
+         "pergunta": "Por que preservar os brinquedos do parque?",
          "textoErrado": null,
          "textoCerto": null,
          "nivel": 1,
@@ -123,7 +123,7 @@
          "nivel": 1,
          "origem": "futebol",
          "respostas":[
-             "Evita o acúmulo de água, além de poupar tempo e dinheiro ainda ajuda a natureza, por não necessitar utilizar água.",
+             "Evita o acúmulo de água, além de poupar tempo e dinheiro, ainda ajuda a natureza, por não necessitar utilizar água.",
              "Evita lesões aos atletas.",
              "Melhora a estética e formato dos campos."
          ],
@@ -151,7 +151,7 @@
         "respostas":[
             "Procurar uma lixeira qualquer.",
             "Jogar o lixo no chão.",
-            "Procurar as lixeiras  que tenham separação para lixo orgânico, para Vidro, para Metal, para Plástico e para Papel."
+            "Procurar as lixeiras que tenham separação para lixo orgânico, para Vidro, para Metal, para Plástico e para Papel."
         ],
         "correta": 3
 	},
@@ -176,13 +176,13 @@
 		"origem": "academia",
 		"respostas": [
 			"Eles se decompõem em dois dias e não causam impacto para o meio ambiente.",
-			"Demoram anos para se decompor e causam impacto para o meio ambiente e para s animais que ingerem os plásticos descartados de forma incorreta.",
-			"O vento se encarrega de levar o material para longe e não causam prejuízo algum."
+			"Demoram anos para se decompor e causam impacto para o meio ambiente e para os animais que ingerem os plásticos descartados de forma incorreta.",
+			"O vento se encarrega de levar o material para longe sem causar prejuízo algum."
 		],
 		"correta": 2
 	},
 	{
-		"pergunta": "Sabendo que todos os dias acontece o desperdício de grande quantidade de alimentos em vários lugares, o dono da feirinha resolveu fazer sua parte e não contribuir com tais desperdícios. Cite as práticas adotadas pelo feirante para diminuir o desperdício.",
+		"pergunta": "Sabendo que todos os dias acontecem desperdícios de grande quantidade de alimentos em vários lugares, o dono da feirinha resolveu fazer sua parte e não contribuir com tais desperdícios. Cite as práticas adotadas pelo feirante para diminuir o desperdício.",
 		"textoErrado": null,
 		"textoCerto": null,
 		"nivel": 2,
@@ -201,9 +201,9 @@
 		"nivel": 2,
 		"origem": "bacia",
 		"respostas": [
-			"1976",
-			"1990",
-			"1960"
+			"1976.",
+			"1990.",
+			"1960."
 		],
 		"correta": 1
 	},
@@ -229,7 +229,7 @@
 		"respostas": [
 			"Quando compramos no nosso bairro ajudamos diretamente a desenvolver o lugar onde moramos.",
 			"Não importa onde compramos, sempre estaremos ajudando o nosso bairro.",
-			"Quando compramos no nosso bairro impactamos positivamente a economia local e você também incentiva o comerciante da sua área."
+			"Quando compramos no nosso bairro impactamos positivamente a economia local e também incentivamos o comerciante da sua área."
 		],
 		"correta": 2
 	},
@@ -240,9 +240,9 @@
 		"nivel": 2,
 		"origem": "onibus",
 		"respostas": [
-			"Realizar eventos festivos no bairro;",
-			"Dividiu todos os terrenos para quem não tinha dinheiro e vendia para quem tinha condição de comprar, além de construir os canais de esgoto;",
-			"Fundou a primeira escola do Bairro, além de ajudar e muito os moradores no quesito alimentação."
+			"Realizar eventos festivos no bairro.",
+			"Dividiu todos os terrenos para quem não tinha dinheiro e vendia para quem tinha condição de comprar, além de construir os canais de esgoto.",
+			"Fundou a primeira escola do Bairro, além de ajudar os moradores no quesito alimentação."
 		],
 		"correta": 2
 	},
@@ -255,7 +255,7 @@
 		"respostas": [
 			"Quanto de dinheiro uma pessoa tem pra gastar.",
 			"É definido pela classe social de cada pessoa, por exemplo, classe D (pouco dinheiro) classe A (muito dinheiro).",
-			"A forma como a pessoa pensa, como por exemplo: Preciso mesmo comprar isso? Ou: Esse produto impacta de alguma forma o meio ambiente?"
+			"A forma como a pessoa pensa como, por exemplo: Preciso mesmo comprar isso? Ou: Esse produto impacta de alguma forma o meio ambiente?"
 		],
 		"correta": 3
 	},
