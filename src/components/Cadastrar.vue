@@ -137,8 +137,14 @@ export default {
 
       this.webServices.efetuarCadastro(parametros)
         .then(() => this.$emit("cadastrado", this.form.apelido))
-        .catch((error) => {
-          this.msgErro = `Ocorreu um erro ao tentar efetuar seu cadastro!<br />${error}`;
+        .catch(error => {
+          var erroMsg = error;
+
+          if(error.response && error.response.data){
+            erroMsg = error.response.data;
+          }
+          
+          this.msgErro = `Ocorreu um erro ao tentar efetuar seu cadastro!<br />${erroMsg}`;
           this.enviando = false;          
         });
     },
